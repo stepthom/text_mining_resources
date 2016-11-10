@@ -4,6 +4,7 @@ Resources for learning about natural language processing, text mining, and text 
 ## Other Curated Lists
 - [awesome-nlp](https://github.com/keonkim/awesome-nlp)
 - [Deep Learning for NLP resources](https://github.com/andrewt3000/dl4nlp)
+- [Opinion Mining, Sentiment Analysis, and Opinion Spam Detection](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets)
 
 ## Books
 - [Taming Text](https://www.manning.com/books/taming-text)
@@ -42,6 +43,17 @@ Resources for learning about natural language processing, text mining, and text 
 - [BREAKTHROUGH ANALYSIS](https://breakthroughanalysis.com/)
 - [SAS CEO offers analytics over BI, reveals use cases for text analytics](http://www.computerweekly.com/news/2240037240/SAS-CEO-offers-analytics-over-BI-reveals-use-cases-for-text-analytics) June 2011.
 - [Value and benefits of text mining](https://www.jisc.ac.uk/reports/value-and-benefits-of-text-mining). Sep 2015.
+- [Text Mining South Park](http://kaylinwalker.com/text-mining-south-park/) Feb 2016
+
+### Scraping
+- [https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/](https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/)
+
+### Document Classification
+- [Naive Bayes and Text Classification](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html). Oct 2014
+
+### Concept Analysis/Topic Modeling
+- [Topic models: Past, present, and future](https://www.oreilly.com/ideas/topic-models-past-present-and-future)
+- [Word vectors using LSA, Part - 2](http://www.vikasing.com/2015/05/word-vectors-using-lsa-part-2.html)
 
 ### Sentiment Analysis
 - [Donald Trump vs Hillary Clinton: sentiment analysis on Twitter mentions](https://blog.monkeylearn.com/donald-trump-vs-hillary-clinton-sentiment-analysis-twitter-mentions/)
@@ -81,6 +93,9 @@ Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf)
 - [CMU Language and Statistics II: (More) Empirical Methods in Natural Language Processing](http://www.cs.cmu.edu/~nasmith/LS2.F06/)
 - [UT CS 388: Natural Language Processing](http://www.cs.cmu.edu/~nasmith/LS2.F06/)
 - [Coursera: Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining)
+- [Big Data University: Text Analytics – Getting Results with SystemT](https://bigdatauniversity.com/courses/system-t/)
+- [Big Data University: Advanced Text Analytics – Getting Results with SystemT](https://bigdatauniversity.com/courses/adv-text-analytics-getting-results-with-systemt/)
+- [Big Data University: Text mining in action: Analyzing Twitter data for Democratic General Elections (BETA Version)](http://archive.bigdatauniversity.com/courses/text-mining-in-action-analyzing-twitter-data-for-democratic-general-elections/)
 
 ## APIs and Libraries
 - [R packages](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
