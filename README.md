@@ -5,6 +5,7 @@ A curated list of resources for learning about natural language processing, text
 - [awesome-nlp](https://github.com/keonkim/awesome-nlp)
 - [Deep Learning for NLP resources](https://github.com/andrewt3000/dl4nlp)
 - [Opinion Mining, Sentiment Analysis, and Opinion Spam Detection](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets)
+- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#cpp-nlp)
 
 ## Books
 - [Taming Text](https://www.manning.com/books/taming-text)
@@ -44,10 +45,16 @@ A curated list of resources for learning about natural language processing, text
 - [SAS CEO offers analytics over BI, reveals use cases for text analytics](http://www.computerweekly.com/news/2240037240/SAS-CEO-offers-analytics-over-BI-reveals-use-cases-for-text-analytics) June 2011.
 - [Value and benefits of text mining](https://www.jisc.ac.uk/reports/value-and-benefits-of-text-mining). Sep 2015.
 - [Text Mining South Park](http://kaylinwalker.com/text-mining-south-park/) Feb 2016
+- [Natural Language Processing: An Introduction](http://jamia.oxfordjournals.org/content/18/5/544.full)
+- [Natural Language Processing Tutorial](http://www.vikparuchuri.com/blog/natural-language-processing-tutorial/). June 2013.
+- [Natural Language Processing blog](http://nlpers.blogspot.ca/). 
 
 ### Scraping
 - [https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/](https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/)
 - [Extract text from any document; no muss, no fuss.](https://datascopeanalytics.com/blog/extract-text-from-any-document-no-muss-no-fuss/). July 2014.
+
+### Parsing
+- [Deep Parsing in Watson](http://nlp.cs.rpi.edu/course/spring14/deepparsing.pdf)
 
 ### Document Classification
 - [Naive Bayes and Text Classification](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html). Oct 2014
@@ -56,6 +63,8 @@ A curated list of resources for learning about natural language processing, text
 ### Concept Analysis/Topic Modeling
 - [Topic models: Past, present, and future](https://www.oreilly.com/ideas/topic-models-past-present-and-future)
 - [Word vectors using LSA, Part - 2](http://www.vikasing.com/2015/05/word-vectors-using-lsa-part-2.html)
+- [Probabilistic
+Topic Models](https://www.cs.princeton.edu/~blei/papers/Blei2012.pdf)
 
 ### Sentiment Analysis
 - [Donald Trump vs Hillary Clinton: sentiment analysis on Twitter mentions](https://blog.monkeylearn.com/donald-trump-vs-hillary-clinton-sentiment-analysis-twitter-mentions/)
@@ -98,6 +107,9 @@ Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf)
 - [Big Data University: Text Analytics – Getting Results with SystemT](https://bigdatauniversity.com/courses/system-t/)
 - [Big Data University: Advanced Text Analytics – Getting Results with SystemT](https://bigdatauniversity.com/courses/adv-text-analytics-getting-results-with-systemt/)
 - [Big Data University: Text mining in action: Analyzing Twitter data for Democratic General Elections (BETA Version)](http://archive.bigdatauniversity.com/courses/text-mining-in-action-analyzing-twitter-data-for-democratic-general-elections/)
+- [Columbia: COMS W4705: Natural Language Processing](http://www.cs.columbia.edu/~cs4705/)
+- [Columbia: COMS E6998: Machine Learning for Natural Language Processing (Spring 2012)](http://www.cs.columbia.edu/~mcollins/courses/6998-2012/index.html)
+- [Machine Translation: Spring 2016](http://mt-class.org/)
 
 ## APIs and Libraries
 - [R packages](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
