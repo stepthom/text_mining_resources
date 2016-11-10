@@ -48,6 +48,8 @@ A curated list of resources for learning about natural language processing, text
 - [Natural Language Processing: An Introduction](http://jamia.oxfordjournals.org/content/18/5/544.full)
 - [Natural Language Processing Tutorial](http://www.vikparuchuri.com/blog/natural-language-processing-tutorial/). June 2013.
 - [Natural Language Processing blog](http://nlpers.blogspot.ca/). 
+- [An Introduction to Text Mining using Twitter Streaming API and Python](http://adilmoujahid.com/posts/2014/07/twitter-analytics/)
+  - GitHub repo with code: https://github.com/adilmoujahid/Twitter_Analytics
 
 ### Scraping
 - [https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/](https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/)
