@@ -17,18 +17,32 @@ Resources for learning about natural language processing, text mining, and text 
 ## Videos
 - [NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
 
-## Blogs/Articles
+## Blogs/Articles/Papers/Case Studies
+
+### General
 - [From Natural Language to Calendar Entries, with Clojure](http://edeferia.blogspot.ca/2015/03/from-natural-language-to-calendar.html). March 2015. NLP, Clojure
 - [Ask HN: How Can I Get into NLP (Natural Language Processing)?](https://news.ycombinator.com/item?id=12916498)
 - [Lekta Blog](https://lekta.ai/blog/)
 - [Quora: How do I learn Natural Language Processing?](https://www.quora.com/How-do-I-learn-Natural-Language-Processing)
 - [Quora Topic: Natural Language Processing](https://www.quora.com/topic/Natural-Language-Processing)
 - [The Definitive Guide to Natural Language Processing](https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/) October 2015.
+- [Futures of text](http://whoo.ps/2015/02/23/futures-of-text) Feb 2015.
+
+### Sentiment Analysis
 - [Donald Trump vs Hillary Clinton: sentiment analysis on Twitter mentions](https://blog.monkeylearn.com/donald-trump-vs-hillary-clinton-sentiment-analysis-twitter-mentions/)
 - [Does sentiment analysis work? A tidy analysis of Yelp reviews](http://varianceexplained.org/r/yelp-sentiment/)
 - [CACM: Techniques and Applications for Sentiment Analysis](http://cacm.acm.org/magazines/2013/4/162501-techniques-and-applications-for-sentiment-analysis/abstract)
-- [Futures of text](http://whoo.ps/2015/02/23/futures-of-text) Feb 2015.
-
+- [Twitter mood predicts the stock market](https://arxiv.org/abs/1010.3003)
+- [A nonlinear impact: evidences of causal effects of social
+media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
+- [Stock Sentiment Data: Measuring the Mood of the Market](Stock Sentiment Data: Measuring the Mood of the Market)
+- [Stock Prediction Using Twitter Sentiment Analysis](http://cs229.stanford.edu/proj2011/GoelMittal-StockMarketPredictionUsingTwitterSentimentAnalysis.pdf). Stanford course project report.
+- [Forbes: How Quant Traders Use Sentiment To Get An Edge On The Market](http://www.forbes.com/sites/kumesharoomoogan/2015/08/06/how-quant-traders-use-sentiment-to-get-an-edge-on-the-market/#6266d9ec2fd8)
+- [News Sentiment Analysis Using R
+to Predict Stock Market Trends](http://www.rinfinance.com/agenda/2012/talk/Nagar+Hahsler.pdf). SMU lecture.
+- [On the Predictability of Stock Market Behavior
+using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Predictability-of-stock-market-behavior-using-stocktwits-sentiment-and-posting-volume_NunoOliveira.pdf)
+- [Sentdex: Quantifying the Qualitative](http://sentdex.com/financial-analysis/)
 
 ## Online courses
 - [Coursera: Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)
