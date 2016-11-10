@@ -13,6 +13,7 @@ Resources for learning about natural language processing, text mining, and text 
 - [Language Processing with Perl and Prolog: Theories, Implementation, and Application (Cognitive Technologies)](https://www.amazon.com/Language-Processing-Perl-Prolog-Implementation/dp/364241463X/ref=redir_mobile_desktop?ie=UTF8&ref_=dp_ob_neva_mobile)
 - [An introduction for information retrieval](http://nlp.stanford.edu/IR-book/)
 - [Handbook of Natural Language Processing](https://karczmarczuk.users.greyc.fr/TEACH/TAL/Doc/Handbook%20Of%20Natural%20Language%20Processing,%20Second%20Edition%20Chapman%20&%20Hall%20Crc%20Machine%20Learning%20&%20Pattern%20Recognition%202010.pdf)
+- [Practical Text Mining and Statistical Analysis for Non-structured Text Data Applications](http://store.elsevier.com/Practical-Text-Mining-and-Statistical-Analysis-for-Non-structured-Text-Data-Applications/Gary-Miner/isbn-9780123870117/)
 
 ## Videos
 - [NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
@@ -43,6 +44,13 @@ to Predict Stock Market Trends](http://www.rinfinance.com/agenda/2012/talk/Nagar
 - [On the Predictability of Stock Market Behavior
 using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Predictability-of-stock-market-behavior-using-stocktwits-sentiment-and-posting-volume_NunoOliveira.pdf)
 - [Sentdex: Quantifying the Qualitative](http://sentdex.com/financial-analysis/)
+- [Leveraging international market sentiment for trading strategies](https://www.repustate.com/finance-sentiment-analysis-and-text-analytics/)
+
+### Document Clustering
+- [Document Clustering](http://cse.iitkgp.ac.in/~abhij/facad/03UG/Report/03CS3024_Pankaj_Jajoo.pdf). MSc Thesis.
+
+### Text Summarization
+- [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
 
 ## Online courses
 - [Coursera: Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)
@@ -56,17 +64,40 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [UT CS 388: Natural Language Processing](http://www.cs.cmu.edu/~nasmith/LS2.F06/)
 
 ## Tools and Libraries
-- [NLTK](http://www.nltk.org) is a great Python package.
+- [R packages](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
+  - [tm]()
+  - [lsa]()
+  - [lda]()
+  - [textir]()
+  - [corpora]()
+  - [tau]()
+- [Python modules]()
+  - [NLTK](http://www.nltk.org).
+  - [spaCy](https://spacy.io/): Industrial-Strength Natural Language Processing in Python
+  - [textblob]()
+  - [Gensim]()
 - [Apache Tika](http://tika.apache.org/) - a content analysis tookilt.
-- [spaCy](https://spacy.io/): Industrial-Strength Natural Language Processing in Python
+
 - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/): a suite of core NLP tools
   - Also checkout http://corenlp.run for a hosted version of the CoreNLP server.
 - [Stanford Parser](http://nlp.stanford.edu/software/lex-parser.html)
 - [Stanford POS Tagger](http://nlp.stanford.edu/software/tagger.html)
 - [Stanford Named Entity Recognizer](http://nlp.stanford.edu/software/CRF-NER.html)
 - [Stanford Classifier](http://nlp.stanford.edu/software/classifier.html)
+- [Stanford OpenIE](http://nlp.stanford.edu/software/openie.html)
 - [MALLET](http://mallet.cs.umass.edu/): MAchine Learning for LanguagE Toolkit
   - Github: https://github.com/mimno/Mallet
+- [SAS Text Miner (Part of SAS Enterprise Miner)](http://www.sas.com/en_us/software/analytics/text-miner.html)
+- [SAS Sentiment Analysis](http://www.sas.com/en_ca/software/analytics/sentiment-analysis.html)
+- [STATISTICA](http://www.statsoft.com/Products/STATISTICA/Product-Index)
+- [KNIME](https://www.knime.org/)
+- [RapidMiner](https://rapidminer.com/)
+- [Gate](https://gate.ac.uk/)
+- [Apache OpenNLP](https://opennlp.apache.org/)
+- [IBM Watson](http://www.ibm.com/watson/)
+  - [Video: How IBM Watson learns (3 minutes)](https://www.youtube.com/watch?v=ymUFadN_MO4)
+  - [Video: IBM Watson on Jeapardy! (10 minutes)](https://www.youtube.com/watch?v=lI-M7O_bRNg)
+  - [Video: IBM Watson: The Science Behind an Answer (7 minutes)](https://www.youtube.com/watch?v=DywO4zksfXw)
 
 
   
