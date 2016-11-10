@@ -35,7 +35,7 @@ Resources for learning about natural language processing, text mining, and text 
 - [Twitter mood predicts the stock market](https://arxiv.org/abs/1010.3003)
 - [A nonlinear impact: evidences of causal effects of social
 media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
-- [Stock Sentiment Data: Measuring the Mood of the Market](Stock Sentiment Data: Measuring the Mood of the Market)
+- [Stock Sentiment Data: Measuring the Mood of the Market](https://blog.quandl.com/stock-sentiment-data)
 - [Stock Prediction Using Twitter Sentiment Analysis](http://cs229.stanford.edu/proj2011/GoelMittal-StockMarketPredictionUsingTwitterSentimentAnalysis.pdf). Stanford course project report.
 - [Forbes: How Quant Traders Use Sentiment To Get An Edge On The Market](http://www.forbes.com/sites/kumesharoomoogan/2015/08/06/how-quant-traders-use-sentiment-to-get-an-edge-on-the-market/#6266d9ec2fd8)
 - [News Sentiment Analysis Using R
