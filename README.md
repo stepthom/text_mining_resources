@@ -14,6 +14,8 @@ Resources for learning about natural language processing, text mining, and text 
 - [An introduction for information retrieval](http://nlp.stanford.edu/IR-book/)
 - [Handbook of Natural Language Processing](https://karczmarczuk.users.greyc.fr/TEACH/TAL/Doc/Handbook%20Of%20Natural%20Language%20Processing,%20Second%20Edition%20Chapman%20&%20Hall%20Crc%20Machine%20Learning%20&%20Pattern%20Recognition%202010.pdf)
 - [Practical Text Mining and Statistical Analysis for Non-structured Text Data Applications](http://store.elsevier.com/Practical-Text-Mining-and-Statistical-Analysis-for-Non-structured-Text-Data-Applications/Gary-Miner/isbn-9780123870117/)
+- [Fundamentals of Predictive Text Mining](http://www.springer.com/us/book/9781447125655#otherversion=9781849962254)
+- [Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Google+, GitHub, and More](https://www.amazon.com/Mining-Social-Web-Facebook-LinkedIn/dp/1449367615/ref=pd_sim_b_3?ie=UTF8&refRID=1HV4RRVDA02CYH3S6W8C)
 
 ## Videos
 - [NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
@@ -24,6 +26,7 @@ Resources for learning about natural language processing, text mining, and text 
 ### General
 - [From Natural Language to Calendar Entries, with Clojure](http://edeferia.blogspot.ca/2015/03/from-natural-language-to-calendar.html). March 2015. NLP, Clojure
 - [Ask HN: How Can I Get into NLP (Natural Language Processing)?](https://news.ycombinator.com/item?id=12916498)
+- [Ask HN: What are the best tools for analyzing large bodies of text?](https://news.ycombinator.com/item?id=9733883)
 - [Lekta Blog](https://lekta.ai/blog/)
 - [Quora: How do I learn Natural Language Processing?](https://www.quora.com/How-do-I-learn-Natural-Language-Processing)
 - [Quora Topic: Natural Language Processing](https://www.quora.com/topic/Natural-Language-Processing)
@@ -34,6 +37,11 @@ Resources for learning about natural language processing, text mining, and text 
 - [Text Mining in R and Python: 8 Tips To Get Started](https://www.r-bloggers.com/text-mining-in-r-and-python-8-tips-to-get-started/). Oct 2016
 - [An introduction to text analysis with Python, Part 1](http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-1/) April 2012.
 - [Mining Twitter Data with Python (Part 1: Collecting Data)](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
+- [a gentle introduction to historical data analysis](http://fredgibbs.net/extras/text-mining-digital-poster/)
+- [Why Text Mining May Be The Next Big Thing](http://business.time.com/2012/03/20/why-text-mining-may-be-the-next-big-thing/). March 2012.
+- [BREAKTHROUGH ANALYSIS](https://breakthroughanalysis.com/)
+- [SAS CEO offers analytics over BI, reveals use cases for text analytics](http://www.computerweekly.com/news/2240037240/SAS-CEO-offers-analytics-over-BI-reveals-use-cases-for-text-analytics) June 2011.
+- [Value and benefits of text mining](https://www.jisc.ac.uk/reports/value-and-benefits-of-text-mining). Sep 2015.
 
 ### Sentiment Analysis
 - [Donald Trump vs Hillary Clinton: sentiment analysis on Twitter mentions](https://blog.monkeylearn.com/donald-trump-vs-hillary-clinton-sentiment-analysis-twitter-mentions/)
@@ -102,12 +110,13 @@ Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf)
   - Github: https://github.com/mimno/Mallet
 - [Apache OpenNLP](https://opennlp.apache.org/)
 - [Streamcrab](https://github.com/cyhex/streamcrab): Real-Time, Twitter sentiment analyzer engine http:/www.streamcrab.com
-
+- [TextRazor API](https://www.textrazor.com/): Extract Meaning from your Text.
 
 ## Products
 - [SAS Text Miner (Part of SAS Enterprise Miner)](http://www.sas.com/en_us/software/analytics/text-miner.html)
 - [SAS Sentiment Analysis](http://www.sas.com/en_ca/software/analytics/sentiment-analysis.html)
 - [STATISTICA](http://www.statsoft.com/Products/STATISTICA/Product-Index)
+  - [Text Mining (Big Data, Unstructured Data)](http://www.statsoft.com/Textbook/Text-Mining/button/3)
 - [KNIME](https://www.knime.org/)
 - [RapidMiner](https://rapidminer.com/)
 - [Gate](https://gate.ac.uk/)
