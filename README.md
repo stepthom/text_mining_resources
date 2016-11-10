@@ -1,5 +1,5 @@
-# text_mining_resources
-Resources for learning about natural language processing, text mining, and text analytics.
+# Text Mining Resources
+A curated list of resources for learning about natural language processing, text mining, text analytics, and unstructured data.
 
 ## Other Curated Lists
 - [awesome-nlp](https://github.com/keonkim/awesome-nlp)
