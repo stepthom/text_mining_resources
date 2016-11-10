@@ -47,9 +47,11 @@ A curated list of resources for learning about natural language processing, text
 
 ### Scraping
 - [https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/](https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/)
+- [Extract text from any document; no muss, no fuss.](https://datascopeanalytics.com/blog/extract-text-from-any-document-no-muss-no-fuss/). July 2014.
 
 ### Document Classification
 - [Naive Bayes and Text Classification](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html). Oct 2014
+- [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)
 
 ### Concept Analysis/Topic Modeling
 - [Topic models: Past, present, and future](https://www.oreilly.com/ideas/topic-models-past-present-and-future)
@@ -111,6 +113,7 @@ Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf)
   - [NLTK](http://www.nltk.org): Natural Language Toolkit.
   - [spaCy](https://spacy.io/): Industrial-Strength Natural Language Processing in Python.
   - [textblob](https://textblob.readthedocs.io/en/dev/): Simplified Text processing.
+    - [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
   - [Gensim](https://radimrehurek.com/gensim/): Topic Modelling for humans.
   - [textmining](https://pypi.python.org/pypi/textmining/1.0): Pytyhon Text Mining utilities.
 - [Apache Tika](http://tika.apache.org/): a content analysis tookilt.
