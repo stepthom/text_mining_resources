@@ -62,22 +62,22 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [Stanford CS 224N / Ling 284](http://web.stanford.edu/class/cs224n/)
 - [CMU Language and Statistics II: (More) Empirical Methods in Natural Language Processing](http://www.cs.cmu.edu/~nasmith/LS2.F06/)
 - [UT CS 388: Natural Language Processing](http://www.cs.cmu.edu/~nasmith/LS2.F06/)
+- [Coursera: Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining)
 
 ## Tools and Libraries
 - [R packages](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
-  - [tm]()
-  - [lsa]()
-  - [lda]()
-  - [textir]()
-  - [corpora]()
-  - [tau]()
-- [Python modules]()
-  - [NLTK](http://www.nltk.org).
-  - [spaCy](https://spacy.io/): Industrial-Strength Natural Language Processing in Python
-  - [textblob]()
-  - [Gensim]()
-- [Apache Tika](http://tika.apache.org/) - a content analysis tookilt.
-
+  - [tm](https://cran.r-project.org/web/packages/tm/index.html): Text Mining.
+  - [lsa](https://cran.r-project.org/web/packages/lsa/index.html): Latent Semantic Analysis.
+  - [lda](https://cran.r-project.org/web/packages/lda/lda.pdf): Collapsed Gibbs Sampling Methods for Topic Models.
+  - [textir](https://cran.r-project.org/web/packages/textir/index.html): Inverse Regression for Text Analysis.
+  - [corpora](https://cran.r-project.org/web/packages/corpora/index.html): Statistics and data sets for corpus frequency data.
+  - [tau](https://cran.r-project.org/web/packages/tau/index.html): Text Analysis Utilities.
+- Python modules
+  - [NLTK](http://www.nltk.org): Natural Language Toolkit.
+  - [spaCy](https://spacy.io/): Industrial-Strength Natural Language Processing in Python.
+  - [textblob](https://textblob.readthedocs.io/en/dev/): Simplified Text processing.
+  - [Gensim](https://radimrehurek.com/gensim/): Topic Modelling for humans.
+- [Apache Tika](http://tika.apache.org/): a content analysis tookilt.
 - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/): a suite of core NLP tools
   - Also checkout http://corenlp.run for a hosted version of the CoreNLP server.
 - [Stanford Parser](http://nlp.stanford.edu/software/lex-parser.html)
