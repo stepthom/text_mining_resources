@@ -124,6 +124,7 @@ Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf)
 - [Stanford Named Entity Recognizer](http://nlp.stanford.edu/software/CRF-NER.html)
 - [Stanford Classifier](http://nlp.stanford.edu/software/classifier.html)
 - [Stanford OpenIE](http://nlp.stanford.edu/software/openie.html)
+- [Stanford Topic Modeling Toolbox](http://nlp.stanford.edu/software/tmt/tmt-0.2/)
 - [MALLET](http://mallet.cs.umass.edu/): MAchine Learning for LanguagE Toolkit
   - Github: https://github.com/mimno/Mallet
 - [Apache OpenNLP](https://opennlp.apache.org/)
@@ -151,6 +152,8 @@ Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf)
 - [Google's Natural Language API](https://cloud.google.com/natural-language): Derive insights from unstructured text using Google machine learning
 - [Alchemy API](http://www.alchemyapi.com/)
 
+## Tools
+- [Peter Holme's word stemmer](http://holme.se/stem/)
   
 ## Interesting Applications
 - [Betty: a friendly English-like interface for your command line.](https://github.com/pickhardt/betty)
