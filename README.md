@@ -58,6 +58,9 @@ A curated list of resources for learning about natural language processing, text
 ### Parsing
 - [Deep Parsing in Watson](http://nlp.cs.rpi.edu/course/spring14/deepparsing.pdf)
 
+### Stemming
+- [Article: Text Stemming: Approaches, Applications, and Challenges](http://dl.acm.org/citation.cfm?id=2975608)
+
 ### Document Classification
 - [Naive Bayes and Text Classification](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html). Oct 2014
 - [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)
