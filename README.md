@@ -10,7 +10,7 @@ A curated list of resources for learning about natural language processing, text
 ## Books
 - [Taming Text](https://www.manning.com/books/taming-text)
 - [Natural Language Processing with Python](http://www.nltk.org/book/)
-- [Speech and Language Processing](Speech and Language Processing)
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/)
 - [Language Processing with Perl and Prolog: Theories, Implementation, and Application (Cognitive Technologies)](https://www.amazon.com/Language-Processing-Perl-Prolog-Implementation/dp/364241463X/ref=redir_mobile_desktop?ie=UTF8&ref_=dp_ob_neva_mobile)
 - [An introduction for information retrieval](http://nlp.stanford.edu/IR-book/)
