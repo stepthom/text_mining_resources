@@ -6,6 +6,7 @@ A curated list of resources for learning about natural language processing, text
 - [Deep Learning for NLP resources](https://github.com/andrewt3000/dl4nlp)
 - [Opinion Mining, Sentiment Analysis, and Opinion Spam Detection](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets)
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#cpp-nlp)
+- [Sentiment140](http://help.sentiment140.com)
 
 ## Books
 - [Taming Text](https://www.manning.com/books/taming-text)
