@@ -176,8 +176,10 @@ Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf)
 - [Google's Natural Language API](https://cloud.google.com/natural-language): Derive insights from unstructured text using Google machine learning
 - [Alchemy API](http://www.alchemyapi.com/)
 
-## Tools
+## Online Tools
 - [Peter Holme's word stemmer](http://holme.se/stem/)
+- [Stanford Parser](http://nlp.stanford.edu:8080/parser/)
+- [Stanford CoreNLP] (http://nlp.stanford.edu:8080/corenlp/)
   
 ## Interesting Applications
 - [Betty: a friendly English-like interface for your command line.](https://github.com/pickhardt/betty)
