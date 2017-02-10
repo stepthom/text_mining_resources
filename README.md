@@ -95,6 +95,7 @@ Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf)
 - [On the negativity of negation](http://web.stanford.edu/~cgpotts/papers/potts-salt20-negation.pdf)
 - [Blog Post: That Sentimental Feeling](http://www.matthewjockers.net/2015/12/20/that-sentimental-feeling/)
   - [Update: More Syuzhet Validation](http://www.matthewjockers.net/2016/08/11/more-syuzhet-validation/)
+- [Trump2Cash: A stock trading bot powered by Trump tweets](https://github.com/maxbbraun/trump2cash)
 
 ### Document Clustering
 - [Document Clustering](http://cse.iitkgp.ac.in/~abhij/facad/03UG/Report/03CS3024_Pankaj_Jajoo.pdf). MSc Thesis.
