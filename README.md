@@ -107,6 +107,7 @@ Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf)
 
 ## Machine Translation
 - [Blog Post: Found in translation: More accurate, fluent sentences in Google Translate](https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/) Nov 2016
+- [NYTimes: The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?_r=0) Dec 2016
 
 ## Online courses
 - [Coursera: Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)
