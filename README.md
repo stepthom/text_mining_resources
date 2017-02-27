@@ -181,6 +181,16 @@ Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf)
 - [Alchemy API](http://www.alchemyapi.com/)
 - [Monkey Learn](http://monkeylearn.com/)
 
+#### Getting Data out of PDFs
+
+- [Apache PDFBox](https://pdfbox.apache.org/)
+- [Tabula: A tool for liberating data tables locked inside PDF files.](http://tabula.technology/)
+- [PDFLayoutTextStripper: Converts a pdf file into a text file while keeping the layout of the original pdf.](https://github.com/JonathanLink/PDFLayoutTextStripper)
+- [pdftabextract: A set of tools for extracting tables from PDF files helping to do data mining on (OCR-processed) scanned documents.](https://github.com/WZBSocialScienceCenter/pdftabextract)
+- [SO: How to extract text from a PDF?](http://stackoverflow.com/questions/3650957/how-to-extract-text-from-a-pdf)
+- [Tools for Extracting Data and Text from PDFs - A Review](http://okfnlabs.org/blog/2016/04/19/pdf-tools-extract-text-and-data-from-pdfs.html)
+
+
 ## Online Tools
 - [Peter Holme's word stemmer](http://holme.se/stem/)
 - [Stanford Parser](http://nlp.stanford.edu:8080/parser/)
