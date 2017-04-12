@@ -1,5 +1,24 @@
 # Text Mining Resources
+
+```
+ ____ ____ ____ ____ _________ ____ ____ ____ ____ ____ ____ 
+||t |||e |||x |||t |||       |||m |||i |||n |||i |||n |||g ||
+||__|||__|||__|||__|||_______|||__|||__|||__|||__|||__|||__||
+|/__\|/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|/__\|/__\|
+```
+
 A curated list of resources for learning about natural language processing, text mining, text analytics, and unstructured data.
+
+## Table of Contents
+- [Other Curated Lists](#other-curated-lists)
+- [Books](#books)
+- [Videos](#videos)
+- [Blogs, Articles, Papers, Case Studies](#blogs-articles-papers-case-studies)
+- [Online Courses](#online-courses)
+- [APIs and Libraries](#apis-and-libraries)
+- [Products](#products)
+- [Online Tools](#online-tools)
+- [Datasets](#datasets)
 
 ## Other Curated Lists
 - [awesome-nlp](https://github.com/keonkim/awesome-nlp)
@@ -25,7 +44,7 @@ A curated list of resources for learning about natural language processing, text
 - [NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
 - [Emotional Spell Check](https://vimeo.com/17859540)
 
-## Blogs/Articles/Papers/Case Studies
+## Blogs, Articles, Papers, Case Studies
 
 ### General
 - [From Natural Language to Calendar Entries, with Clojure](http://edeferia.blogspot.ca/2015/03/from-natural-language-to-calendar.html). March 2015. NLP, Clojure
@@ -52,7 +71,8 @@ A curated list of resources for learning about natural language processing, text
 - [Natural Language Processing blog](http://nlpers.blogspot.ca/). 
 - [An Introduction to Text Mining using Twitter Streaming API and Python](http://adilmoujahid.com/posts/2014/07/twitter-analytics/)
   - GitHub repo with code: https://github.com/adilmoujahid/Twitter_Analytics
-- [How To Get Into Natural Language Processing](http://blog.ycombinator.com/how-to-get-into-natural-language-processing/)
+- [How To Get Into Natural Language Processing](http://blog.ycombinator.com/how-to-get-into-natural-language-processing/)'
+- [Betty: a friendly English-like interface for your command line.](https://github.com/pickhardt/betty)
 
 ### Scraping
 - [https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/](https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/)
@@ -105,7 +125,7 @@ Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf)
 ### Text Summarization
 - [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
 
-## Machine Translation
+### Machine Translation
 - [Blog Post: Found in translation: More accurate, fluent sentences in Google Translate](https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/) Nov 2016
 - [NYTimes: The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?_r=0) Dec 2016
 
@@ -195,10 +215,6 @@ Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf)
 - [Peter Holme's word stemmer](http://holme.se/stem/)
 - [Stanford Parser](http://nlp.stanford.edu:8080/parser/)
 - [Stanford CoreNLP](http://nlp.stanford.edu:8080/corenlp/)
-  
-## Interesting Applications
-- [Betty: a friendly English-like interface for your command line.](https://github.com/pickhardt/betty)
-
 
 ## Datasets
 
