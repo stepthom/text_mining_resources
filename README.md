@@ -39,6 +39,7 @@ A curated list of resources for learning about natural language processing, text
 - [Practical Text Mining and Statistical Analysis for Non-structured Text Data Applications](http://store.elsevier.com/Practical-Text-Mining-and-Statistical-Analysis-for-Non-structured-Text-Data-Applications/Gary-Miner/isbn-9780123870117/)
 - [Fundamentals of Predictive Text Mining](http://www.springer.com/us/book/9781447125655#otherversion=9781849962254)
 - [Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Google+, GitHub, and More](https://www.amazon.com/Mining-Social-Web-Facebook-LinkedIn/dp/1449367615/ref=pd_sim_b_3?ie=UTF8&refRID=1HV4RRVDA02CYH3S6W8C)
+- [Text Mining with R](http://tidytextmining.com/)
 
 ## Videos
 - [NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
