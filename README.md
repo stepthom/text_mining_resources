@@ -119,6 +119,8 @@ Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf)
   - [Update: More Syuzhet Validation](http://www.matthewjockers.net/2016/08/11/more-syuzhet-validation/)
 - [Trump2Cash: A stock trading bot powered by Trump tweets](https://github.com/maxbbraun/trump2cash)
   - [Related Blog Article: This Machine Turns Trump Tweets into Planned Parenthood Donations](https://medium.com/@maxbraun/this-machine-turns-trump-tweets-into-planned-parenthood-donations-4ece8301e722#.3232hx7gx)
+- [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/). April 2017.
+- [Current State of Text Sentiment Analysis from Opinion to Emotion Mining](http://dl.acm.org/citation.cfm?id=3057270) Feb 2017
 
 ### Document Clustering
 - [Document Clustering](http://cse.iitkgp.ac.in/~abhij/facad/03UG/Report/03CS3024_Pankaj_Jajoo.pdf). MSc Thesis.
