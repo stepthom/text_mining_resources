@@ -161,11 +161,12 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
   - [Sentiment140](https://github.com/okugami79/sentiment140): R package for sentiment text analysis
   - [sentimentr](https://cran.r-project.org/web/packages/sentimentr/sentimentr.pdf) Lexicon-based sentiment analysis.
   - [cleanNLP](https://cran.r-project.org/web/packages/cleanNLP/cleanNLP.pdf) ML-based sentiment analysis.
+  - [RSentiment](https://cran.r-project.org/web/packages/RSentiment/RSentiment.pdf) Lexicon-based sentiment analysis. Contains support for negation detection and sarcasum.
 - Python modules
   - [NLTK](http://www.nltk.org): Natural Language Toolkit.
   - [spaCy](https://spacy.io/): Industrial-Strength Natural Language Processing in Python.
   - [textblob](https://textblob.readthedocs.io/en/dev/): Simplified Text processing.
-    - [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
+  - [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
   - [Gensim](https://radimrehurek.com/gensim/): Topic Modeling for humans.
   - [textmining](https://pypi.python.org/pypi/textmining/1.0): Python Text Mining utilities.
 
