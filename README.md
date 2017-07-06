@@ -112,8 +112,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [Sentdex: Quantifying the Qualitative](http://sentdex.com/financial-analysis/)
 - [Leveraging international market sentiment for trading strategies](https://www.repustate.com/finance-sentiment-analysis-and-text-analytics/)
 - [From tweets to polls: Linking text sentiment to public opinion time series](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/viewFile/1536/1842)
-- [Lexicon-Based Methods for
-Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf)
+- [Lexicon-Based Methods for Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf)
 - [On the negativity of negation](http://web.stanford.edu/~cgpotts/papers/potts-salt20-negation.pdf)
 - [Blog Post: That Sentimental Feeling](http://www.matthewjockers.net/2015/12/20/that-sentimental-feeling/)
   - [Update: More Syuzhet Validation](http://www.matthewjockers.net/2016/08/11/more-syuzhet-validation/)
@@ -160,13 +159,16 @@ Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf)
   - [tau](https://cran.r-project.org/web/packages/tau/index.html): Text Analysis Utilities.
   - [tidytext](https://github.com/juliasilge/tidytext): Text mining using dplyr, ggplot2, and other tidy tools
   - [Sentiment140](https://github.com/okugami79/sentiment140): R package for sentiment text analysis
+  - [sentimentr](https://cran.r-project.org/web/packages/sentimentr/sentimentr.pdf) Lexicon-based sentiment analysis.
+  - [cleanNLP](https://cran.r-project.org/web/packages/cleanNLP/cleanNLP.pdf) ML-based sentiment analysis.
 - Python modules
   - [NLTK](http://www.nltk.org): Natural Language Toolkit.
   - [spaCy](https://spacy.io/): Industrial-Strength Natural Language Processing in Python.
   - [textblob](https://textblob.readthedocs.io/en/dev/): Simplified Text processing.
     - [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
-  - [Gensim](https://radimrehurek.com/gensim/): Topic Modelling for humans.
-  - [textmining](https://pypi.python.org/pypi/textmining/1.0): Pytyhon Text Mining utilities.
+  - [Gensim](https://radimrehurek.com/gensim/): Topic Modeling for humans.
+  - [textmining](https://pypi.python.org/pypi/textmining/1.0): Python Text Mining utilities.
+
 - [Apache Tika](http://tika.apache.org/): a content analysis tookilt.
 - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/): a suite of core NLP tools
   - Also checkout http://corenlp.run for a hosted version of the CoreNLP server.
