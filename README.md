@@ -120,6 +120,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
   - [Related Blog Article: This Machine Turns Trump Tweets into Planned Parenthood Donations](https://medium.com/@maxbraun/this-machine-turns-trump-tweets-into-planned-parenthood-donations-4ece8301e722#.3232hx7gx)
 - [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/). April 2017.
 - [Current State of Text Sentiment Analysis from Opinion to Emotion Mining](http://dl.acm.org/citation.cfm?id=3057270) Feb 2017
+- [Does sentiment analysis work? A tidy analysis of Yelp reviews](http://varianceexplained.org/r/yelp-sentiment/)
 
 ### Document Clustering
 - [Document Clustering](http://cse.iitkgp.ac.in/~abhij/facad/03UG/Report/03CS3024_Pankaj_Jajoo.pdf). MSc Thesis.
