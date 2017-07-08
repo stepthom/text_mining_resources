@@ -89,11 +89,14 @@ A curated list of resources for learning about natural language processing, text
 - [Naive Bayes and Text Classification](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html). Oct 2014
 - [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)
 
+### Document Clusterin
+
+- [Text Clustering: Get quick insights from Unstructured Data](http://www.kdnuggets.com/2017/06/text-clustering-unstructured-data.html). July 2017.
+
 ### Concept Analysis/Topic Modeling
 - [Topic models: Past, present, and future](https://www.oreilly.com/ideas/topic-models-past-present-and-future)
 - [Word vectors using LSA, Part - 2](http://www.vikasing.com/2015/05/word-vectors-using-lsa-part-2.html)
-- [Probabilistic
-Topic Models](https://www.cs.princeton.edu/~blei/papers/Blei2012.pdf)
+- [Probabilistic Topic Models](https://www.cs.princeton.edu/~blei/papers/Blei2012.pdf)
 
 ### Sentiment Analysis
 - [Donald Trump vs Hillary Clinton: sentiment analysis on Twitter mentions](https://blog.monkeylearn.com/donald-trump-vs-hillary-clinton-sentiment-analysis-twitter-mentions/)
