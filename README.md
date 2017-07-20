@@ -89,9 +89,14 @@ A curated list of resources for learning about natural language processing, text
 - [Naive Bayes and Text Classification](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html). Oct 2014
 - [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)
 
-### Document Clusterin
+### Entity Extraction
+
+- [Entity Extraction and Network Analysis](http://brandonrose.org/ner2sna). Python, `StanfordCoreNLP`
+
+### Document Clustering
 
 - [Text Clustering: Get quick insights from Unstructured Data](http://www.kdnuggets.com/2017/06/text-clustering-unstructured-data.html). July 2017.
+- [Document Clustering](http://cse.iitkgp.ac.in/~abhij/facad/03UG/Report/03CS3024_Pankaj_Jajoo.pdf). MSc Thesis.
 
 ### Concept Analysis/Topic Modeling
 - [Topic models: Past, present, and future](https://www.oreilly.com/ideas/topic-models-past-present-and-future)
@@ -125,9 +130,6 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [Current State of Text Sentiment Analysis from Opinion to Emotion Mining](http://dl.acm.org/citation.cfm?id=3057270) Feb 2017
 - [Does sentiment analysis work? A tidy analysis of Yelp reviews](http://varianceexplained.org/r/yelp-sentiment/)
 - [Lost at Sea: How Social Media is Helping Cruise Lines Attract Millennials](https://www.crimsonhexagon.com/blog/cruises-hunting-millennials/?mkt_tok=eyJpIjoiTlRNMlkyVTJOV1EwWkdGbSIsInQiOiJWRG9vSXU0bnRKWFZCZlNOUUVGY29cL3QwR2pHK1NKZVl6ZnR4VElFQWlESU9OS2I3VVlYN3VYQUE2bEdXYkZzVTZiTllvRDBaWEFlMmRBazFodjFwcW50RFVEYng5ZmNEcE1McTFYOXRKSktYSFkwZWo3RlpCdElzWjhDXC9lNmVCIn0%3D) 
-
-### Document Clustering
-- [Document Clustering](http://cse.iitkgp.ac.in/~abhij/facad/03UG/Report/03CS3024_Pankaj_Jajoo.pdf). MSc Thesis.
 
 ### Text Summarization
 - [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
