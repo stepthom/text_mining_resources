@@ -88,6 +88,7 @@ A curated list of resources for learning about natural language processing, text
 ### Document Classification
 - [Naive Bayes and Text Classification](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html). Oct 2014
 - [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)
+- [Text Classifier Algorithms in Machine Learning](https://blog.statsbot.co/text-classifier-algorithms-in-machine-learning-acc115293278) July 2017
 
 ### Entity Extraction
 
@@ -191,6 +192,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [Apache OpenNLP](https://opennlp.apache.org/)
 - [Streamcrab](https://github.com/cyhex/streamcrab): Real-Time, Twitter sentiment analyzer engine http:/www.streamcrab.com
 - [TextRazor API](https://www.textrazor.com/): Extract Meaning from your Text.
+- [fastText](https://github.com/facebookresearch/fastText). Library for fast text representation and classification. Facebook.
 
 ## Products
 - [SAS Text Miner (Part of SAS Enterprise Miner)](http://www.sas.com/en_us/software/analytics/text-miner.html)
