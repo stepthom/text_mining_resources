@@ -141,6 +141,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [NYTimes: The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?_r=0) Dec 2016
 
 ## Online courses
+- [DataCamp: Text Mining: Bag of Words](https://www.datacamp.com/courses/intro-to-text-mining-bag-of-words)
 - [Coursera: Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)
 - [Stanford course on NLP: Dan Jurafsky and Chris Manning](https://www.youtube.com/watch?v=nfoudtpBV68&list=PL6397E4B26D00A269)
 - [Stanford Deep Learning NLP Course](https://www.youtube.com/playlist?list=PLIiVRB6G_w0i-uOoS6cDh_5nkUyxy_hxe)
@@ -178,7 +179,6 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
   - [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
   - [Gensim](https://radimrehurek.com/gensim/): Topic Modeling for humans.
   - [textmining](https://pypi.python.org/pypi/textmining/1.0): Python Text Mining utilities.
-
 - [Apache Tika](http://tika.apache.org/): a content analysis tookilt.
 - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/): a suite of core NLP tools
   - Also checkout http://corenlp.run for a hosted version of the CoreNLP server.
