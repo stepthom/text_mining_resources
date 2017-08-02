@@ -240,3 +240,6 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
 - [SentiWordNet](http://sentiwordnet.isti.cnr.it/)
 
+## Misc
+- [AskReddit: People with a mother tongue that isn't English, what are the most annoying things about the English language when you are trying to learn it?](https://www.reddit.com/r/AskReddit/comments/6qvmny/people_with_a_mother_tongue_that_isnt_english/)
+
