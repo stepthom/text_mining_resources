@@ -134,6 +134,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [Current State of Text Sentiment Analysis from Opinion to Emotion Mining](http://dl.acm.org/citation.cfm?id=3057270) Feb 2017
 - [Does sentiment analysis work? A tidy analysis of Yelp reviews](http://varianceexplained.org/r/yelp-sentiment/)
 - [Lost at Sea: How Social Media is Helping Cruise Lines Attract Millennials](https://www.crimsonhexagon.com/blog/cruises-hunting-millennials/?mkt_tok=eyJpIjoiTlRNMlkyVTJOV1EwWkdGbSIsInQiOiJWRG9vSXU0bnRKWFZCZlNOUUVGY29cL3QwR2pHK1NKZVl6ZnR4VElFQWlESU9OS2I3VVlYN3VYQUE2bEdXYkZzVTZiTllvRDBaWEFlMmRBazFodjFwcW50RFVEYng5ZmNEcE1McTFYOXRKSktYSFkwZWo3RlpCdElzWjhDXC9lNmVCIn0%3D) 
+- [Harry Plotter: Celebrating the 20 year anniversary with tidytext and the tidyverse in R](https://paulvanderlaken.com/2017/08/03/harry-plotter-celebrating-the-20-year-anniversary-with-tidytext-the-tidyverse-and-r/) August 2015.
 
 ### Text Summarization
 - [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
