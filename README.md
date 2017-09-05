@@ -185,6 +185,8 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
   - [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
   - [Gensim](https://radimrehurek.com/gensim/): Topic Modeling for humans.
   - [textmining](https://pypi.python.org/pypi/textmining/1.0): Python Text Mining utilities.
+  - [gtrendsR](https://cran.r-project.org/web/packages/gtrendsR/index.html)
+     - [Analyzing Google Trends Data in R](https://datascienceplus.com/analyzing-google-trends-data-in-r/)
 - [Apache Tika](http://tika.apache.org/): a content analysis tookilt.
 - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/): a suite of core NLP tools
   - Also checkout http://corenlp.run for a hosted version of the CoreNLP server.
