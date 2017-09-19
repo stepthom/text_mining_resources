@@ -108,6 +108,7 @@ A curated list of resources for learning about natural language processing, text
 - [Probabilistic Topic Models](https://www.cs.princeton.edu/~blei/papers/Blei2012.pdf)
 
 ### Sentiment Analysis
+- [Sentiment analysis on Trump's tweets using Python](https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_149). Sep 2017.
 - [Donald Trump vs Hillary Clinton: sentiment analysis on Twitter mentions](https://blog.monkeylearn.com/donald-trump-vs-hillary-clinton-sentiment-analysis-twitter-mentions/)
 - [Does sentiment analysis work? A tidy analysis of Yelp reviews](http://varianceexplained.org/r/yelp-sentiment/)
 - [CACM: Techniques and Applications for Sentiment Analysis](http://cacm.acm.org/magazines/2013/4/162501-techniques-and-applications-for-sentiment-analysis/abstract)
@@ -142,6 +143,8 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 ### Machine Translation
 - [Blog Post: Found in translation: More accurate, fluent sentences in Google Translate](https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/) Nov 2016
 - [NYTimes: The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?_r=0) Dec 2016
+- [Machine Learning Translation and the Google Translate Algorithm](http://www.kdnuggets.com/2017/09/machine-learning-translation-google-translate-algorithm.html)
+
 
 ## Online courses
 
