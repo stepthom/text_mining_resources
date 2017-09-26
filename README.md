@@ -65,7 +65,7 @@ A curated list of resources for learning about natural language processing, text
 - [Mining Twitter Data with Python (Part 1: Collecting Data)](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
 - [a gentle introduction to historical data analysis](http://fredgibbs.net/extras/text-mining-digital-poster/)
 - [Why Text Mining May Be The Next Big Thing](http://business.time.com/2012/03/20/why-text-mining-may-be-the-next-big-thing/). March 2012.
-- [BREAKTHROUGH ANALYSIS](https://breakthroughanalysis.com/)
+- [BREAKTHROUGH ANALYSIS](https://breakthroughanalysis.com/). A blog by Seth Grimes, on NLP, text analytics, sentiment analysis, BI, visualization and more.
 - [SAS CEO offers analytics over BI, reveals use cases for text analytics](http://www.computerweekly.com/news/2240037240/SAS-CEO-offers-analytics-over-BI-reveals-use-cases-for-text-analytics) June 2011.
 - [Value and benefits of text mining](https://www.jisc.ac.uk/reports/value-and-benefits-of-text-mining). Sep 2015.
 - [Text Mining South Park](http://kaylinwalker.com/text-mining-south-park/) Feb 2016
