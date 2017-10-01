@@ -12,13 +12,13 @@ A curated list of resources for learning about natural language processing, text
 ## Table of Contents
 - [Other Curated Lists](#other-curated-lists)
 - [Books](#books)
-- [Videos](#videos)
 - [Blogs, Articles, Papers, Case Studies](#blogs-articles-papers-case-studies)
 - [Online Courses](#online-courses)
 - [APIs and Libraries](#apis-and-libraries)
 - [Products](#products)
 - [Online Tools](#online-tools)
 - [Datasets](#datasets)
+- [Misc](#Misc)
 
 ## Other Curated Lists
 - [awesome-nlp](https://github.com/keonkim/awesome-nlp)
@@ -42,9 +42,6 @@ A curated list of resources for learning about natural language processing, text
 - [Text Mining with R](http://tidytextmining.com/)
 - [Mastering Text Mining with R](http://shop.oreilly.com/product/9781783551811.do?green=C89CE13A-3CEC-5EBD-08AC-F97ED76586DF&intcmp=af-mybuy-9781783551811.IP)
 
-## Videos
-- [NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
-- [Emotional Spell Check](https://vimeo.com/17859540)
 
 ## Blogs, Articles, Papers, Case Studies
 
@@ -188,9 +185,10 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
   - [RSentiment](https://cran.r-project.org/web/packages/RSentiment/RSentiment.pdf) Lexicon-based sentiment analysis. Contains support for negation detection and sarcasum.
 - Python modules
   - [NLTK](http://www.nltk.org): Natural Language Toolkit.
+    - [Video: NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
   - [spaCy](https://spacy.io/): Industrial-Strength Natural Language Processing in Python.
   - [textblob](https://textblob.readthedocs.io/en/dev/): Simplified Text processing.
-  - [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
+    - [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
   - [Gensim](https://radimrehurek.com/gensim/): Topic Modeling for humans.
   - [textmining](https://pypi.python.org/pypi/textmining/1.0): Python Text Mining utilities.
   - [gtrendsR](https://cran.r-project.org/web/packages/gtrendsR/index.html)
@@ -264,4 +262,5 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 
 ## Misc
 - [AskReddit: People with a mother tongue that isn't English, what are the most annoying things about the English language when you are trying to learn it?](https://www.reddit.com/r/AskReddit/comments/6qvmny/people_with_a_mother_tongue_that_isnt_english/)
+- [Funny Video: Emotional Spell Check](https://vimeo.com/17859540)
 
