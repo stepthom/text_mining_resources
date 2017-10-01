@@ -18,7 +18,7 @@ A curated list of resources for learning about natural language processing, text
 - [Products](#products)
 - [Online Tools](#online-tools)
 - [Datasets](#datasets)
-- [Misc](#Misc)
+- [Misc](#misc)
 
 ## Other Curated Lists
 - [awesome-nlp](https://github.com/keonkim/awesome-nlp)
