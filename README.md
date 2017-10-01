@@ -81,6 +81,7 @@ A curated list of resources for learning about natural language processing, text
 ### Scraping
 - [https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/](https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/)
 - [Extract text from any document; no muss, no fuss.](https://datascopeanalytics.com/blog/extract-text-from-any-document-no-muss-no-fuss/). July 2014.
+- [Using Scrapy to Build your Own Dataset](https://medium.com/towards-data-science/using-scrapy-to-build-your-own-dataset-64ea2d7d4673) Sep 2017.
 
 ### Parsing
 - [Deep Parsing in Watson](http://nlp.cs.rpi.edu/course/spring14/deepparsing.pdf)
@@ -194,6 +195,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
   - [textmining](https://pypi.python.org/pypi/textmining/1.0): Python Text Mining utilities.
   - [gtrendsR](https://cran.r-project.org/web/packages/gtrendsR/index.html)
      - [Analyzing Google Trends Data in R](https://datascienceplus.com/analyzing-google-trends-data-in-r/)
+  - [Scrapy](https://scrapy.org/)
 - [Apache Tika](http://tika.apache.org/): a content analysis tookilt.
 - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/): a suite of core NLP tools
   - Also checkout http://corenlp.run for a hosted version of the CoreNLP server.
