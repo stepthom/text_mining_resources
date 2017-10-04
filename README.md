@@ -263,4 +263,5 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 ## Misc
 - [AskReddit: People with a mother tongue that isn't English, what are the most annoying things about the English language when you are trying to learn it?](https://www.reddit.com/r/AskReddit/comments/6qvmny/people_with_a_mother_tongue_that_isnt_english/)
 - [Funny Video: Emotional Spell Check](https://vimeo.com/17859540)
+- [How to win Kaggle competition based on NLP task, if you are not an NLP expert](http://www.kdnuggets.com/2017/09/win-kaggle-nlp-not-expert.html)
 
