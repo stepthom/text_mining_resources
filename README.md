@@ -151,6 +151,13 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 
 - [Meet Lucy: Creating a Chatbot Prototype](http://www.kdnuggets.com/2017/09/meet-lucy-chatbot-prototype.html)
 
+### Fuzzy Matching, Probabilistic Matching
+
+- [Fuzzy String Matching – a survival skill to tackle unstructured information](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sariyar+Borg.pdf)
+- [The RecordLinkage Package: Detecting
+Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sariyar+Borg.pdf)
+- [R package fastLink: Fast Probabilistic Record Linkage](https://github.com/kosukeimai/fastLink)
+- [Fuzzy merge in R](https://www.princeton.edu/~otorres/FuzzyMergeR101.pdf)
 
 ## Online courses
 
