@@ -107,7 +107,8 @@ A curated list of resources for learning about natural language processing, text
 - [Topic models: Past, present, and future](https://www.oreilly.com/ideas/topic-models-past-present-and-future)
 - [Word vectors using LSA, Part - 2](http://www.vikasing.com/2015/05/word-vectors-using-lsa-part-2.html)
 - [Probabilistic Topic Models](https://www.cs.princeton.edu/~blei/papers/Blei2012.pdf)
-- [LEGO color themes as topic models](http://nateaff.com/2017/09/11/lego-topic-models/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_150) Sep 2017,
+- [LEGO color themes as topic models](http://nateaff.com/2017/09/11/lego-topic-models/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_150) Sep 2017.
+- [How our startup switched from Unsupervised LDA to Semi-Supervised GuidedLDA](https://medium.freecodecamp.org/how-we-changed-unsupervised-lda-to-semi-supervised-guidedlda-e36a95f3a164)
 
 ### Sentiment Analysis
 - [Sentiment analysis on Trump's tweets using Python](https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_149). Sep 2017.
