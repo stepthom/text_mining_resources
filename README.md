@@ -262,16 +262,19 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 ## Datasets
 
-### Lexicons
+- [UCI's Text Datasets](https://archive.ics.uci.edu/ml/datasets.html?format=&task=&att=&area=&numAtt=&numIns=&type=text&sort=nameUp&view=table)
+- [data.world's Text Datasets](https://data.world/datasets/text-mining)
+- [Awesome Public Datasets' Natural Languge](https://github.com/caesar0301/awesome-public-datasets#natural-language)
+- [Insight Resources Datasets](http://mlg.ucd.ie/datasets/index.html#data)
+- [Bing Sentiment Analysis](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets)
+
+### Lexicons for Sentiment Analysis
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
 - [SentiWordNet](http://sentiwordnet.isti.cnr.it/)
 - [AFINN](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010)
 - [Bing](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
 - [nrc](http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm)
 
-
-### Corpora
-- [Bing](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
 
 ## Misc
 - [AskReddit: People with a mother tongue that isn't English, what are the most annoying things about the English language when you are trying to learn it?](https://www.reddit.com/r/AskReddit/comments/6qvmny/people_with_a_mother_tongue_that_isnt_english/)
