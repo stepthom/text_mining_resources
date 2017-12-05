@@ -74,6 +74,7 @@ A curated list of resources for learning about natural language processing, text
 - [How To Get Into Natural Language Processing](http://blog.ycombinator.com/how-to-get-into-natural-language-processing/)'
 - [Betty: a friendly English-like interface for your command line.](https://github.com/pickhardt/betty)
 - [Creating machine learning models to analyze startup news - Part1](https://monkeylearn.com/blog/filtering-startup-news-machine-learning/). [Part 2](https://monkeylearn.com/blog/creating-machine-learning-models-analyze-news/). [Part 3](https://monkeylearn.com/blog/analyzing-startup-news-with-machine-learning/).
+- [A Tidytext Analysis of the Weinstein Effect](https://www.gokhanciflikli.com/post/weinstein-effect/) Dec 2013.
 
 ### Scraping
 - [https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/](https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/)
