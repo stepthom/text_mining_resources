@@ -272,6 +272,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Awesome Public Datasets' Natural Languge](https://github.com/caesar0301/awesome-public-datasets#natural-language)
 - [Insight Resources Datasets](http://mlg.ucd.ie/datasets/index.html#data)
 - [Bing Sentiment Analysis](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets)
+- [Consumer Complaint Database](https://www.consumerfinance.gov/data-research/consumer-complaints/#download-the-data). From the Consumer Financial Protection Bureau.
+- [Sentiment Labelled Sentences Data Set ](http://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences). Contains sentences lableed as "positive" or "negative", from imdb.com, amazon.com, and yelp.com.
 
 ### Lexicons for Sentiment Analysis
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
