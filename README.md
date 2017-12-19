@@ -19,6 +19,7 @@ A curated list of resources for learning about natural language processing, text
 - [Online Tools](#online-tools)
 - [Datasets](#datasets)
 - [Misc](#misc)
+- [Meta](#meta)
 
 ## Other Curated Lists
 - [awesome-nlp](https://github.com/keonkim/awesome-nlp)
@@ -289,4 +290,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [AskReddit: People with a mother tongue that isn't English, what are the most annoying things about the English language when you are trying to learn it?](https://www.reddit.com/r/AskReddit/comments/6qvmny/people_with_a_mother_tongue_that_isnt_english/)
 - [Funny Video: Emotional Spell Check](https://vimeo.com/17859540)
 - [How to win Kaggle competition based on NLP task, if you are not an NLP expert](http://www.kdnuggets.com/2017/09/win-kaggle-nlp-not-expert.html)
+
+## Meta
+
+- [Deep Learning for NLP, advancements and trends in 2017](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_162)
 
