@@ -88,6 +88,9 @@ A curated list of resources for learning about natural language processing, text
 ### Stemming
 - [Article: Text Stemming: Approaches, Applications, and Challenges](http://dl.acm.org/citation.cfm?id=2975608)
 
+### Dimensionality Reduction
+- [Taming Text with the SVD](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.395.4666&rep=rep1&type=pdf). SAS. Jan 2004.
+
 ### Sarcasm Detection
 - [Automatic Sarcasm Detection: A Survey](https://dl.acm.org/citation.cfm?id=3124420) ACM Computer Surveys, Sep 2017.
 
