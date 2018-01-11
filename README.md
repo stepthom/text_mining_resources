@@ -206,7 +206,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - [Sentiment140](https://github.com/okugami79/sentiment140): R package for sentiment text analysis
   - [sentimentr](https://cran.r-project.org/web/packages/sentimentr/sentimentr.pdf) Lexicon-based sentiment analysis.
   - [cleanNLP](https://cran.r-project.org/web/packages/cleanNLP/cleanNLP.pdf) ML-based sentiment analysis.
-  - [RSentiment](https://cran.r-project.org/web/packages/RSentiment/RSentiment.pdf) Lexicon-based sentiment analysis. Contains support for negation detection and sarcasum.
+  - [RSentiment](https://cran.r-project.org/web/packages/RSentiment/RSentiment.pdf) Lexicon-based sentiment analysis. Contains support for negation detection and sarcasm.
 - Python modules
   - [NLTK](http://www.nltk.org): Natural Language Toolkit.
     - [Video: NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
