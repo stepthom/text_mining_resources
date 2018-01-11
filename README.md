@@ -108,6 +108,7 @@ A curated list of resources for learning about natural language processing, text
 
 - [Text Clustering: Get quick insights from Unstructured Data](http://www.kdnuggets.com/2017/06/text-clustering-unstructured-data.html). July 2017.
 - [Document Clustering](http://cse.iitkgp.ac.in/~abhij/facad/03UG/Report/03CS3024_Pankaj_Jajoo.pdf). MSc Thesis.
+- [Document Clustering: A Detailed Review](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.401.8494&rep=rep1&type=pdf). Shah and Mahajan. IJAIS 2012.
 
 ### Concept Analysis/Topic Modeling
 - [Topic models: Past, present, and future](https://www.oreilly.com/ideas/topic-models-past-present-and-future)
