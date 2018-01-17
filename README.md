@@ -210,6 +210,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - Python modules
   - [NLTK](http://www.nltk.org): Natural Language Toolkit.
     - [Video: NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
+  - [scikit-learn](http://scikit-learn.org/)
+     - [Tutorial](http://nbviewer.jupyter.org/gist/rjweiss/7158866)
   - [spaCy](https://spacy.io/): Industrial-Strength Natural Language Processing in Python.
   - [textblob](https://textblob.readthedocs.io/en/dev/): Simplified Text processing.
     - [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
