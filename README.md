@@ -207,6 +207,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - [sentimentr](https://cran.r-project.org/web/packages/sentimentr/sentimentr.pdf) Lexicon-based sentiment analysis.
   - [cleanNLP](https://cran.r-project.org/web/packages/cleanNLP/cleanNLP.pdf) ML-based sentiment analysis.
   - [RSentiment](https://cran.r-project.org/web/packages/RSentiment/RSentiment.pdf) Lexicon-based sentiment analysis. Contains support for negation detection and sarcasm.
+  - [text2vec](https://cran.r-project.org/web/packages/text2vec/index.html). Fast and memory-friendly tools for text vectorization, topic modeling (LDA, LSA), word embeddings (GloVe), similarities.
 - Python modules
   - [NLTK](http://www.nltk.org): Natural Language Toolkit.
     - [Video: NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
