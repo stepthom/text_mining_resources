@@ -102,6 +102,7 @@ A curated list of resources for learning about natural language processing, text
 - [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)
 - [Text Classifier Algorithms in Machine Learning](https://blog.statsbot.co/text-classifier-algorithms-in-machine-learning-acc115293278) July 2017
 - [Classifying Documents in the Reuters-21578 R8 Dataset](https://rstudio-pubs-static.s3.amazonaws.com/202711_8f3ddd24fc9a4a6594d31f5da6344dcc.html). August 2016.
+- [Tidy Text Mining Beer Reviews](http://kaylinwalker.com/tidy-text-beer/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_167) Jan 2018.
 
 ### Entity Extraction
 
