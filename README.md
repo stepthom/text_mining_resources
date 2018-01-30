@@ -85,6 +85,9 @@ A curated list of resources for learning about natural language processing, text
 ### Parsing
 - [Deep Parsing in Watson](http://nlp.cs.rpi.edu/course/spring14/deepparsing.pdf)
 
+### Cleaning
+- [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) Jan 2018.
+
 ### Stemming
 - [Article: Text Stemming: Approaches, Applications, and Challenges](http://dl.acm.org/citation.cfm?id=2975608)
 
@@ -168,7 +171,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [R package fastLink: Fast Probabilistic Record Linkage](https://github.com/kosukeimai/fastLink)
 - [Fuzzy merge in R](https://www.princeton.edu/~otorres/FuzzyMergeR101.pdf)
 
-# word2vec
+### word2vec
 
 - [An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec)
 
