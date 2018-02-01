@@ -228,6 +228,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - [gtrendsR](https://cran.r-project.org/web/packages/gtrendsR/index.html)
      - [Analyzing Google Trends Data in R](https://datascienceplus.com/analyzing-google-trends-data-in-r/)
   - [Scrapy](https://scrapy.org/)
+  - [lda2vec](https://github.com/cemoody/lda2vec): Tools for interpreting natural language
 - [Apache Tika](http://tika.apache.org/): a content analysis tookilt.
 - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/): a suite of core NLP tools
   - Also checkout http://corenlp.run for a hosted version of the CoreNLP server.
