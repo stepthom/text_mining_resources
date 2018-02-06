@@ -114,6 +114,8 @@ A curated list of resources for learning about natural language processing, text
 - [Document Clustering](http://cse.iitkgp.ac.in/~abhij/facad/03UG/Report/03CS3024_Pankaj_Jajoo.pdf). MSc Thesis.
 - [Document Clustering: A Detailed Review](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.401.8494&rep=rep1&type=pdf). Shah and Mahajan. IJAIS 2012.
 - [Document Clsutering with Python](https://github.com/harrywang/document_clustering) A GitHub repository that clusters IMDB movie descriptions. Based on [this original tutorial](http://brandonrose.org/clustering), whose GitHub repo is [here](https://github.com/brandomr/document_cluster). 
+- [Text mining and sentiment analysis on video game user reviews using
+SAS® Enterprise Miner](http://analytics.ncsu.edu/sesug/2016/EPO-280_Final_PDF.pdf)
 
 ### Concept Analysis/Topic Modeling
 - [Topic models: Past, present, and future](https://www.oreilly.com/ideas/topic-models-past-present-and-future)
