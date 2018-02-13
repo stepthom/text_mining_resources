@@ -295,6 +295,11 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Consumer Complaint Database](https://www.consumerfinance.gov/data-research/consumer-complaints/#download-the-data). From the Consumer Financial Protection Bureau.
 - [Sentiment Labelled Sentences Data Set ](http://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences). Contains sentences lableed as "positive" or "negative", from imdb.com, amazon.com, and yelp.com.]
 - [Amazon product data](http://jmcauley.ucsd.edu/data/amazon/)
+- [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
+- [FiveThirtyEight's datasets](https://data.fivethirtyeight.com/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_169)
+- [r/datasets](https://www.reddit.com/r/datasets/)
+- [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets)
+- [R's `datasets` package](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
 
 ### Lexicons for Sentiment Analysis
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
