@@ -30,8 +30,14 @@ A curated list of resources for learning about natural language processing, text
 - [Sentiment140](http://help.sentiment140.com)
 
 ## Books
-- [Taming Text](https://www.manning.com/books/taming-text)
+#### R
+- [Text Mining with R](http://tidytextmining.com/)
+- [Mastering Text Mining with R](http://shop.oreilly.com/product/9781783551811.do?green=C89CE13A-3CEC-5EBD-08AC-F97ED76586DF&intcmp=af-mybuy-9781783551811.IP)
+- [Text Mining in Practice with R](https://www.wiley.com/en-us/Text+Mining+in+Practice+with+R-p-9781119282013)
+#### Python
 - [Natural Language Processing with Python](http://www.nltk.org/book/)
+#### General
+- [Taming Text](https://www.manning.com/books/taming-text)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/)
 - [Language Processing with Perl and Prolog: Theories, Implementation, and Application (Cognitive Technologies)](https://www.amazon.com/Language-Processing-Perl-Prolog-Implementation/dp/364241463X/ref=redir_mobile_desktop?ie=UTF8&ref_=dp_ob_neva_mobile)
@@ -40,10 +46,9 @@ A curated list of resources for learning about natural language processing, text
 - [Practical Text Mining and Statistical Analysis for Non-structured Text Data Applications](http://store.elsevier.com/Practical-Text-Mining-and-Statistical-Analysis-for-Non-structured-Text-Data-Applications/Gary-Miner/isbn-9780123870117/)
 - [Fundamentals of Predictive Text Mining](http://www.springer.com/us/book/9781447125655#otherversion=9781849962254)
 - [Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Google+, GitHub, and More](https://www.amazon.com/Mining-Social-Web-Facebook-LinkedIn/dp/1449367615/ref=pd_sim_b_3?ie=UTF8&refRID=1HV4RRVDA02CYH3S6W8C)
-- [Text Mining with R](http://tidytextmining.com/)
-- [Mastering Text Mining with R](http://shop.oreilly.com/product/9781783551811.do?green=C89CE13A-3CEC-5EBD-08AC-F97ED76586DF&intcmp=af-mybuy-9781783551811.IP)
 - [Neural Network Methods for Natural Language Processing](http://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037)
-
+- [Text Mining: A Guidebook for the Social Sciences](https://us.sagepub.com/en-us/nam/text-mining/book244124)
+- [Practical Text Analytics: Interpreting Text and Unstructured Data for Business Intelligence](https://www.koganpage.com/product/practical-text-analytics-9780749474010#region)
 
 ## Blogs, Articles, Papers, Case Studies
 
