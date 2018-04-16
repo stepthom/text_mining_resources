@@ -179,6 +179,8 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 
 ### Fuzzy Matching, Probabilistic Matching
 
+- [agrep method in R](http://stat.ethz.ch/R-manual/R-devel/library/base/html/agrep.html). Approximate String Matching (Fuzzy Matching)
+- [fuzzywuzzy package in R](https://cran.r-project.org/web/packages/fuzzywuzzyR/index.html). [Example usage](http://mlampros.github.io/2017/04/13/fuzzywuzzyR_package).
 - [Fuzzy String Matching – a survival skill to tackle unstructured information](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sariyar+Borg.pdf)
 - [The RecordLinkage Package: Detecting
 Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sariyar+Borg.pdf)
