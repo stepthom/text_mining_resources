@@ -164,6 +164,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [Cannes Lions 2017: Hungerithm, Mars Chocolate Australia (Clemenger BBDO, Melbourne)](https://vimeo.com/223731129). Snickers price goes down as anger goes up.
 - [A survey on sentiment analysis challenges](https://www.sciencedirect.com/science/article/pii/S1018363916300071). April 2016.
 - [Challenges in Sentiment Analysis](http://saifmohammad.com/WebDocs/sentiment-challenges.pdf). 2015.
+- [Sentiment Analysis Tools Overview, Part 1. Positive and Negative Words Databases](https://medium.com/@datamonsters/sentiment-analysis-tools-overview-part-1-positive-and-negative-words-databases-ae35431a470c). July 2017
 
 ### Text Summarization
 - [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
