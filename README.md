@@ -110,6 +110,7 @@ A curated list of resources for learning about natural language processing, text
 - [Classifying Documents in the Reuters-21578 R8 Dataset](https://rstudio-pubs-static.s3.amazonaws.com/202711_8f3ddd24fc9a4a6594d31f5da6344dcc.html). August 2016.
 - [Tidy Text Mining Beer Reviews](http://kaylinwalker.com/tidy-text-beer/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_167) Jan 2018.
 - [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+- [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
 
 ### Entity Extraction
 
@@ -197,6 +198,11 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 ### Deep Learning
 - [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
+
+### Knowledge Graphs
+
+- [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
+- [WTF is a knowledge graph?](https://hackernoon.com/wtf-is-a-knowledge-graph-a16603a1a25f)
 
 ## Online courses
 
