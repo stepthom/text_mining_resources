@@ -273,6 +273,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Streamcrab](https://github.com/cyhex/streamcrab): Real-Time, Twitter sentiment analyzer engine http:/www.streamcrab.com
 - [TextRazor API](https://www.textrazor.com/): Extract Meaning from your Text.
 - [fastText](https://github.com/facebookresearch/fastText). Library for fast text representation and classification. Facebook.
+- [Comparison of Top 6 Python NLP Libraries](https://www.kdnuggets.com/2018/07/comparison-top-6-python-nlp-libraries.html).
 
 ## Products
 - [SAS Text Miner (Part of SAS Enterprise Miner)](http://www.sas.com/en_us/software/analytics/text-miner.html)
