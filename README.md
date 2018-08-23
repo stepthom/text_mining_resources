@@ -201,6 +201,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Text Classification With Word2Vec](http://nadbordrozd.github.io/blog/2016/05/20/text-classification-with-word2vec/) 2016.
 - [Document Embedding](http://sybrandt.com/post/document-embedding/) 2017
 - [From Word Embeddings To Document Distances](http://proceedings.mlr.press/v37/kusnerb15.pdf) 2015.
+- [Word Embeddings, Bias in ML, Why You Don't Like Math, & Why AI Needs You](https://www.youtube.com/watch?v=25nC0n9ERq4) 2017. Rachel Thomas (fastai)
 
 ### Deep Learning
 - [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
