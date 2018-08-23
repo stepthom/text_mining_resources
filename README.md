@@ -192,9 +192,15 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [R package fastLink: Fast Probabilistic Record Linkage](https://github.com/kosukeimai/fastLink)
 - [Fuzzy merge in R](https://www.princeton.edu/~otorres/FuzzyMergeR101.pdf)
 
-### word2vec
+### Word and Document Embeddings
 
 - [An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec)
+- [An Empirical Evaluation of doc2vec with Practical Insights into Document Embedding Generation](https://arxiv.org/pdf/1607.05368.pdf) 2016. From IBM.
+- [Document Embedding with Paragraph Vectors](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/44894.pdf) 2015. From Google.
+- [GloVe Word Embeddings Demo](https://github.com/fastai/word-embeddings-workshop/blob/master/Word%20Embeddings.ipynb) 2017. From fasti.
+- [Text Classification With Word2Vec](http://nadbordrozd.github.io/blog/2016/05/20/text-classification-with-word2vec/) 2016.
+- [Document Embedding](http://sybrandt.com/post/document-embedding/) 2017
+- [From Word Embeddings To Document Distances](http://proceedings.mlr.press/v37/kusnerb15.pdf) 2015.
 
 ### Deep Learning
 - [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
