@@ -133,6 +133,7 @@ SAS® Enterprise Miner](http://analytics.ncsu.edu/sesug/2016/EPO-280_Final_PDF.p
 - [Probabilistic Topic Models](https://www.cs.princeton.edu/~blei/papers/Blei2012.pdf)
 - [LEGO color themes as topic models](http://nateaff.com/2017/09/11/lego-topic-models/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_150) Sep 2017.
 - [How our startup switched from Unsupervised LDA to Semi-Supervised GuidedLDA](https://medium.freecodecamp.org/how-we-changed-unsupervised-lda-to-semi-supervised-guidedlda-e36a95f3a164)
+- [Topic Modeling with LSA, PLSA, LDA & lda2Vec](https://www.kdnuggets.com/2018/08/topic-modeling-lsa-plsa-lda-lda2vec.html) Aug 2018.
 
 ### Sentiment Analysis
 - [Sentiment analysis on Trump's tweets using Python](https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_149). Sep 2017.
@@ -205,6 +206,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Document Embedding](http://sybrandt.com/post/document-embedding/) 2017
 - [From Word Embeddings To Document Distances](http://proceedings.mlr.press/v37/kusnerb15.pdf) 2015.
 - [Word Embeddings, Bias in ML, Why You Don't Like Math, & Why AI Needs You](https://www.youtube.com/watch?v=25nC0n9ERq4) 2017. Rachel Thomas (fastai)
+- [Word Vectors in Natural Language Processing: Global Vectors (GloVe)](https://www.kdnuggets.com/2018/08/word-vectors-nlp-glove.html). Aug 2018.
 
 ### Deep Learning
 - [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
