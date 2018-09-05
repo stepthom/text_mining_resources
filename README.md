@@ -82,6 +82,7 @@ A curated list of resources for learning about natural language processing, text
 - [Betty: a friendly English-like interface for your command line.](https://github.com/pickhardt/betty)
 - [Creating machine learning models to analyze startup news - Part1](https://monkeylearn.com/blog/filtering-startup-news-machine-learning/). [Part 2](https://monkeylearn.com/blog/creating-machine-learning-models-analyze-news/). [Part 3](https://monkeylearn.com/blog/analyzing-startup-news-with-machine-learning/).
 - [A Tidytext Analysis of the Weinstein Effect](https://www.gokhanciflikli.com/post/weinstein-effect/) Dec 2013.
+- [Comparison of the Most Useful Text Processing APIs](https://www.kdnuggets.com/2018/08/comparison-most-useful-text-processing-apis.html)
 
 ### Scraping
 - [https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/](https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/)
@@ -111,6 +112,7 @@ A curated list of resources for learning about natural language processing, text
 - [Tidy Text Mining Beer Reviews](http://kaylinwalker.com/tidy-text-beer/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_167) Jan 2018.
 - [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 - [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
+- [Multi-Class Text Classification with Scikit-Learn](https://www.kdnuggets.com/2018/08/multi-class-text-classification-scikit-learn.html)
 
 ### Entity Extraction
 
@@ -167,6 +169,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [Challenges in Sentiment Analysis](http://saifmohammad.com/WebDocs/sentiment-challenges.pdf). 2015.
 - [Sentiment Analysis Tools Overview, Part 1. Positive and Negative Words Databases](https://medium.com/@datamonsters/sentiment-analysis-tools-overview-part-1-positive-and-negative-words-databases-ae35431a470c). July 2017
 - [Sentiment analysis: 10 applications and 4 services](https://towardsdatascience.com/machine-learning-as-a-service-487e930265b2)
+- [Emotion and Sentiment Analysis: A Practitioner’s Guide to NLP](https://www.kdnuggets.com/2018/08/emotion-sentiment-analysis-practitioners-guide-nlp-5.html)
 
 ### Text Summarization
 - [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
