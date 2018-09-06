@@ -341,6 +341,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [R's `datasets` package](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
 - [200,000 Russian Troll Tweets](https://www.reddit.com/r/politics/comments/7zfk4i/im_a_reporter_for_nbc_news_and_we_published_over/)
 - [Wikipedia: List of datasets for ML research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
+- [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 
 ### Lexicons for Sentiment Analysis
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
