@@ -172,6 +172,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [Sentiment Analysis Tools Overview, Part 1. Positive and Negative Words Databases](https://medium.com/@datamonsters/sentiment-analysis-tools-overview-part-1-positive-and-negative-words-databases-ae35431a470c). July 2017
 - [Sentiment analysis: 10 applications and 4 services](https://towardsdatascience.com/machine-learning-as-a-service-487e930265b2)
 - [Emotion and Sentiment Analysis: A Practitioner’s Guide to NLP](https://www.kdnuggets.com/2018/08/emotion-sentiment-analysis-practitioners-guide-nlp-5.html)
+- [Sentiment analysis: 10 applications and 4 services](https://towardsdatascience.com/machine-learning-as-a-service-487e930265b2). June 2018.
 
 ### Text Summarization
 - [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
