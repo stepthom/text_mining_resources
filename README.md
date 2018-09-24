@@ -190,7 +190,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [Microsoft Bot Framework](https://dev.botframework.com/). A [YouTube video](https://www.youtube.com/watch?v=7wNg18NYT6s) describing the product.
 - [Training Millions of Personalized Dialogue Agents](https://arxiv.org/abs/1809.01984)
 
-### Fuzzy Matching, Probabilistic Matching
+### Fuzzy Matching, Probabilistic Matching, Etc.
 
 - [agrep method in R](http://stat.ethz.ch/R-manual/R-devel/library/base/html/agrep.html). Approximate String Matching (Fuzzy Matching)
 - [fuzzywuzzy package in R](https://cran.r-project.org/web/packages/fuzzywuzzyR/index.html). [Example usage](http://mlampros.github.io/2017/04/13/fuzzywuzzyR_package).
@@ -199,6 +199,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sariyar+Borg.pdf)
 - [R package fastLink: Fast Probabilistic Record Linkage](https://github.com/kosukeimai/fastLink)
 - [Fuzzy merge in R](https://www.princeton.edu/~otorres/FuzzyMergeR101.pdf)
+- [Learning Text Similarity with Siamese Recurrent Networks](http://www.aclweb.org/anthology/W/W16/W16-1617.pdf)
 
 ### Word and Document Embeddings
 
