@@ -313,6 +313,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Google's Natural Language API](https://cloud.google.com/natural-language): Derive insights from unstructured text using Google machine learning
 - [Alchemy API](http://www.alchemyapi.com/)
 - [Monkey Learn](http://monkeylearn.com/)
+- [LightTag Annotation Tool](https://lighttag.io). Hosted annotation tool for teams. 
 
 #### Getting Data out of PDFs
 
