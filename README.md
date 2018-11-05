@@ -1,4 +1,4 @@
-# Text Mining Resources
+# Text Mining and Natural Language Processing Resources
 
 ```
  ____ ____ ____ ____ _________ ____ ____ ____ ____ ____ ____ 
@@ -225,8 +225,6 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 - [Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/)
 - [Deep Learning for Natural Language Processing: Tutorials with Jupyter Notebooks](https://insights.untapt.com/deep-learning-for-natural-language-processing-tutorials-with-jupyter-notebooks-ad67f336ce3f)
-- []()
-
 
 ### Knowledge Graphs
 
@@ -360,6 +358,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [200,000 Russian Troll Tweets](https://www.reddit.com/r/politics/comments/7zfk4i/im_a_reporter_for_nbc_news_and_we_published_over/)
 - [Wikipedia: List of datasets for ML research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
+- [Kaggle: UMICH SI650 - Sentiment Classification](https://www.kaggle.com/c/si650winter11/data)
 
 ### Lexicons for Sentiment Analysis
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
