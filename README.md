@@ -7,7 +7,7 @@
 |/__\|/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|/__\|/__\|
 ```
 
-A curated list of resources for learning about natural language processing, text mining, text analytics, and unstructured data.
+A curated list of resources for learning about natural language processing, text mining, text analytics, and unstructured data. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Table of Contents
 - [Other Curated Lists](#other-curated-lists)
