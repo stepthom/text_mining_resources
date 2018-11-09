@@ -237,16 +237,13 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 ## Online courses
 
-- [DataCamp: Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)
-- [DataCamp: Sentiment Analysis in R: The Tidy Way](https://www.datacamp.com/courses/sentiment-analysis-in-r-the-tidy-way)
-- [DataCamp: Text Mining: Bag of Words](https://www.datacamp.com/courses/intro-to-text-mining-bag-of-words)
-- [Coursera: Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)
+- [Stanford CS 224N / Ling 284](http://web.stanford.edu/class/cs224n/)
+- [Deep Learning for NLP](https://github.com/oxford-cs-deepnlp-2017/lectures). DeepMind and University of Oxford Department of Computer Science.
+- [YSDA NLP course](https://github.com/yandexdataschool/nlp_course). [Yandex School of data analysis](https://yandexdataschool.com/).
 - [Stanford course on NLP: Dan Jurafsky and Chris Manning](https://www.youtube.com/watch?v=nfoudtpBV68&list=PL6397E4B26D00A269)
 - [Stanford Deep Learning NLP Course](https://www.youtube.com/playlist?list=PLIiVRB6G_w0i-uOoS6cDh_5nkUyxy_hxe)
   - Website: http://cs224d.stanford.edu/
   - Reddit: https://www.reddit.com/r/CS224d/comments/4n04ew/follow_along_with_cs224d_2015_or_2016/
-- [Coursera: Nartual Language Processing](http://academictorrents.com/details/f99e7184fca947ee8f77901679e171fcadbf82e7)
-- [Stanford CS 224N / Ling 284](http://web.stanford.edu/class/cs224n/)
 - [CMU Language and Statistics II: (More) Empirical Methods in Natural Language Processing](http://www.cs.cmu.edu/~nasmith/LS2.F06/)
 - [UT CS 388: Natural Language Processing](http://www.cs.cmu.edu/~nasmith/LS2.F06/)
 - [Coursera: Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining)
@@ -256,6 +253,13 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Columbia: COMS W4705: Natural Language Processing](http://www.cs.columbia.edu/~cs4705/)
 - [Columbia: COMS E6998: Machine Learning for Natural Language Processing (Spring 2012)](http://www.cs.columbia.edu/~mcollins/courses/6998-2012/index.html)
 - [Machine Translation: Spring 2016](http://mt-class.org/)
+- [DataCamp: Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)
+- [DataCamp: Sentiment Analysis in R: The Tidy Way](https://www.datacamp.com/courses/sentiment-analysis-in-r-the-tidy-way)
+- [DataCamp: Text Mining: Bag of Words](https://www.datacamp.com/courses/intro-to-text-mining-bag-of-words)
+- [DataCamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)
+- [Coursera: Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)
+- [Coursera: Nartual Language Processing](http://academictorrents.com/details/f99e7184fca947ee8f77901679e171fcadbf82e7)
+
 
 ## APIs and Libraries
 - [R packages](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
