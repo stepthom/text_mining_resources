@@ -31,10 +31,12 @@ A curated list of resources for learning about natural language processing, text
 - [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp)
 
 ## Books
+
 #### R
 - [Text Mining with R](http://tidytextmining.com/)
 - [Mastering Text Mining with R](http://shop.oreilly.com/product/9781783551811.do?green=C89CE13A-3CEC-5EBD-08AC-F97ED76586DF&intcmp=af-mybuy-9781783551811.IP)
 - [Text Mining in Practice with R](https://www.wiley.com/en-us/Text+Mining+in+Practice+with+R-p-9781119282013)
+
 #### Python
 - [Natural Language Processing with Python](http://www.nltk.org/book/)
 - [Natural Language Processing with PyTorch](http://shop.oreilly.com/product/0636920063445.do)
@@ -43,7 +45,9 @@ A curated list of resources for learning about natural language processing, text
 - [Natural Language Processing: Python and NLTK](http://shop.oreilly.com/product/9781787285101.do)
 - [Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning](http://shop.oreilly.com/product/0636920052555.do)
 - [Deep Learning with Text](http://shop.oreilly.com/product/0636920076063.do)
+
 #### General
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Taming Text](https://www.manning.com/books/taming-text)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/)
