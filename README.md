@@ -47,7 +47,6 @@ A curated list of resources for learning about natural language processing, text
 - [Deep Learning with Text](http://shop.oreilly.com/product/0636920076063.do)
 
 #### General
-- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Taming Text](https://www.manning.com/books/taming-text)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/)
