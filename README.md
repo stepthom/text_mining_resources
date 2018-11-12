@@ -147,6 +147,7 @@ SAS® Enterprise Miner](http://analytics.ncsu.edu/sesug/2016/EPO-280_Final_PDF.p
 - [LEGO color themes as topic models](http://nateaff.com/2017/09/11/lego-topic-models/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_150) Sep 2017.
 - [How our startup switched from Unsupervised LDA to Semi-Supervised GuidedLDA](https://medium.freecodecamp.org/how-we-changed-unsupervised-lda-to-semi-supervised-guidedlda-e36a95f3a164)
 - [Topic Modeling with LSA, PLSA, LDA & lda2Vec](https://www.kdnuggets.com/2018/08/topic-modeling-lsa-plsa-lda-lda2vec.html) Aug 2018.
+- [text2vec's Description of Topic Models](http://text2vec.org/topic_modeling.html)
 
 ### Sentiment Analysis
 - [Sentiment analysis on Trump's tweets using Python](https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_149). Sep 2017.
