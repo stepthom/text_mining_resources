@@ -370,6 +370,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 - [Kaggle: UMICH SI650 - Sentiment Classification](https://www.kaggle.com/c/si650winter11/data)
 - [Lee's Similarity Data Sets](https://faculty.sites.uci.edu/mdlee/similarity-data/)
+- [Corpus of Presidential Speeches (CoPS) and a Clinton/Trump Corpus ](http://www.thegrammarlab.com/?nor-portfolio=corpus-of-presidential-speeches-cops-and-a-clintontrump-corpus)
 
 ### Lexicons for Sentiment Analysis
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
