@@ -149,6 +149,7 @@ SAS® Enterprise Miner](http://analytics.ncsu.edu/sesug/2016/EPO-280_Final_PDF.p
 - [Topic Modeling with LSA, PLSA, LDA & lda2Vec](https://www.kdnuggets.com/2018/08/topic-modeling-lsa-plsa-lda-lda2vec.html) Aug 2018.
 - [text2vec's Description of Topic Models](http://text2vec.org/topic_modeling.html)
 - [Topic Modelling Portal](http://topicmodels.west.uni-koblenz.de/)
+- [Applications of Topic Models](https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf) 2017.
 
 ### Sentiment Analysis
 - [Sentiment analysis on Trump's tweets using Python](https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_149). Sep 2017.
