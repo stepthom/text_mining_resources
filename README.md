@@ -285,6 +285,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - [LDAvis](https://cran.r-project.org/web/packages/LDAvis/): Interactive visualization of topic models.
   - [keras](https://cran.r-project.org/web/packages/keras/index.html): Interface to [Keras](https://keras.io), a high-level neural networks 'API'. ([RStudio Blog: TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_169))
   - [retweet](http://rtweet.info/): R client for accessing Twitter’s REST and stream APIs ([21 Recipes for Mining Twitter Data with rtweet](https://rud.is/books/21-recipes/))
+  - [topicmodels](https://cran.r-project.org/web/packages/topicmodels/topicmodels.pdf): Provides an interface to the C code for Latent Dirichlet Allocation (LDA)
+  - [textmineR](https://cran.r-project.org/web/packages/textmineR/index.html): An aid for text mining in R, with a syntax that should be familiar to experienced R users.
 - Python modules
   - [NLTK](http://www.nltk.org): Natural Language Toolkit.
     - [Video: NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
