@@ -150,6 +150,8 @@ SAS® Enterprise Miner](http://analytics.ncsu.edu/sesug/2016/EPO-280_Final_PDF.p
 - [text2vec's Description of Topic Models](http://text2vec.org/topic_modeling.html)
 - [Topic Modelling Portal](http://topicmodels.west.uni-koblenz.de/)
 - [Applications of Topic Models](https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf) 2017.
+- [MACS 30500: Text analysis: topic modeling](https://cfss.uchicago.edu/text_topicmodels.html)
+
 
 ### Sentiment Analysis
 - [Sentiment analysis on Trump's tweets using Python](https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_149). Sep 2017.
