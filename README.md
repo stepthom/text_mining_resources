@@ -206,6 +206,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [Meet Lucy: Creating a Chatbot Prototype](http://www.kdnuggets.com/2017/09/meet-lucy-chatbot-prototype.html)
 - [Microsoft Bot Framework](https://dev.botframework.com/). A [YouTube video](https://www.youtube.com/watch?v=7wNg18NYT6s) describing the product.
 - [Training Millions of Personalized Dialogue Agents](https://arxiv.org/abs/1809.01984)
+- [Ultimate Guide to Leveraging NLP & Machine Learning for your Chatbot](https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c). 2016.
 
 ### Fuzzy Matching, Probabilistic Matching, Etc.
 
