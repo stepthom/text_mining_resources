@@ -70,6 +70,7 @@ A curated list of resources for learning about natural language processing, text
 - [Text Mining, Analytics & More](http://text-analytics101.rxnlp.com/)
 - [FriendlyData blog](https://friendlydata.io/blog)
 - [Salmon Run](http://sujitpal.blogspot.com/)
+- [Lekta Blog](https://lekta.ai/blog/)
 
 ## Blog Articles, Papers, Case Studies
 
@@ -79,7 +80,6 @@ A curated list of resources for learning about natural language processing, text
 - [From Natural Language to Calendar Entries, with Clojure](http://edeferia.blogspot.ca/2015/03/from-natural-language-to-calendar.html). March 2015. NLP, Clojure
 - [Ask HN: How Can I Get into NLP (Natural Language Processing)?](https://news.ycombinator.com/item?id=12916498)
 - [Ask HN: What are the best tools for analyzing large bodies of text?](https://news.ycombinator.com/item?id=9733883)
-- [Lekta Blog](https://lekta.ai/blog/)
 - [Quora: How do I learn Natural Language Processing?](https://www.quora.com/How-do-I-learn-Natural-Language-Processing)
 - [Quora Topic: Natural Language Processing](https://www.quora.com/topic/Natural-Language-Processing)
 - [The Definitive Guide to Natural Language Processing](https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/) October 2015.
