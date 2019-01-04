@@ -12,7 +12,8 @@ A curated list of resources for learning about natural language processing, text
 ## Table of Contents
 - [Other Curated Lists](#other-curated-lists)
 - [Books](#books)
-- [Blogs, Articles, Papers, Case Studies](#blogs-articles-papers-case-studies)
+- [Blogs](#blogs)
+- [Blog articles, Papers, Case Studies](#blog-articles-papers-case-studies)
 - [Online Courses](#online-courses)
 - [APIs and Libraries](#apis-and-libraries)
 - [Products](#products)
@@ -60,9 +61,20 @@ A curated list of resources for learning about natural language processing, text
 - [Text Mining: A Guidebook for the Social Sciences](https://us.sagepub.com/en-us/nam/text-mining/book244124)
 - [Practical Text Analytics: Interpreting Text and Unstructured Data for Business Intelligence](https://www.koganpage.com/product/practical-text-analytics-9780749474010#region)
 
-## Blogs, Articles, Papers, Case Studies
+## Blogs
+
+- [Probably Approximately a Scientific Blog](http://veredshwartz.blogspot.com/)
+- [Sebastian Ruder](http://ruder.io/)
+- [NLP-progress](https://nlpprogress.com/)
+- [natural language processing blog](https://nlpers.blogspot.com/)
+- [Text Mining, Analytics & More](http://text-analytics101.rxnlp.com/)
+- [FriendlyData blog](https://friendlydata.io/blog)
+- [Salmon Run](http://sujitpal.blogspot.com/)
+
+## Blog Articles, Papers, Case Studies
 
 ### General
+- [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com)
 - [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/definitive-guide-natural-language-processing/)
 - [From Natural Language to Calendar Entries, with Clojure](http://edeferia.blogspot.ca/2015/03/from-natural-language-to-calendar.html). March 2015. NLP, Clojure
 - [Ask HN: How Can I Get into NLP (Natural Language Processing)?](https://news.ycombinator.com/item?id=12916498)
@@ -380,6 +392,9 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Kaggle: UMICH SI650 - Sentiment Classification](https://www.kaggle.com/c/si650winter11/data)
 - [Lee's Similarity Data Sets](https://faculty.sites.uci.edu/mdlee/similarity-data/)
 - [Corpus of Presidential Speeches (CoPS) and a Clinton/Trump Corpus ](http://www.thegrammarlab.com/?nor-portfolio=corpus-of-presidential-speeches-cops-and-a-clintontrump-corpus)
+- [15 Best Chatbot Datasets for Machine Learning](https://gengo.ai/datasets/15-best-chatbot-datasets-for-machine-learning/)
+- [A Survey of Available Corpora for Building Data-Driven Dialogue Systems](https://arxiv.org/pdf/1512.05742.pdf)
+
 
 ### Lexicons for Sentiment Analysis
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
