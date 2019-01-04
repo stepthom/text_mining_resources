@@ -316,6 +316,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - [Scrapy](https://scrapy.org/)
   - [lda2vec](https://github.com/cemoody/lda2vec): Tools for interpreting natural language
   - [PyText](https://pytext-pytext.readthedocs-hosted.com/en/latest/) A deep-learning based NLP modeling framework built on PyTorch.
+  - [sent2vec](https://github.com/epfml/sent2vec): General purpose unsupervised sentence representations
 - [Apache Tika](http://tika.apache.org/): a content analysis tookilt.
 - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/): a suite of core NLP tools
   - Also checkout http://corenlp.run for a hosted version of the CoreNLP server.
