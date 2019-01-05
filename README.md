@@ -71,6 +71,7 @@ A curated list of resources for learning about natural language processing, text
 - [FriendlyData blog](https://friendlydata.io/blog)
 - [Salmon Run](http://sujitpal.blogspot.com/)
 - [Lekta Blog](https://lekta.ai/blog/)
+- [BREAKTHROUGH ANALYSIS](https://breakthroughanalysis.com/)
 
 ## Blog Articles, Papers, Case Studies
 
@@ -91,7 +92,6 @@ A curated list of resources for learning about natural language processing, text
 - [Mining Twitter Data with Python (Part 1: Collecting Data)](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
 - [a gentle introduction to historical data analysis](http://fredgibbs.net/extras/text-mining-digital-poster/)
 - [Why Text Mining May Be The Next Big Thing](http://business.time.com/2012/03/20/why-text-mining-may-be-the-next-big-thing/). March 2012.
-- [BREAKTHROUGH ANALYSIS](https://breakthroughanalysis.com/). A blog by Seth Grimes, on NLP, text analytics, sentiment analysis, BI, visualization and more.
 - [SAS CEO offers analytics over BI, reveals use cases for text analytics](http://www.computerweekly.com/news/2240037240/SAS-CEO-offers-analytics-over-BI-reveals-use-cases-for-text-analytics) June 2011.
 - [Value and benefits of text mining](https://www.jisc.ac.uk/reports/value-and-benefits-of-text-mining). Sep 2015.
 - [Text Mining South Park](http://kaylinwalker.com/text-mining-south-park/) Feb 2016
@@ -245,6 +245,14 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Doc2Vec Tutorial on the Lee Dataset](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb)
 - [Word Embeddings in Python with Spacy and Gensim](https://www.shanelynn.ie/word-embeddings-in-python-with-spacy-and-gensim/)
 - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/). Dec 2018.
+- [Deep Contextualized Word Represenations](https://arxiv.org/abs/1802.05365). ElMo. [PyTorch implmentation](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md). [TF Implementation](https://github.com/allenai/bilm-tf)
+- [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146).
+- [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364).
+- [Learned in Translation: Contextualized Word Vectors](https://arxiv.org/abs/1708.00107). CoVe.
+- [Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf). Paragraph vectors. See [doc2vec tutorial at gensim](http://rare-technologies.com/doc2vec-tutorial/)
+- [sense2vec](http://arxiv.org/abs/1511.06388). Word sense disambiguation.
+- [Skip Thought Vectors](http://arxiv.org/abs/1506.06726). Word representation method.
+- [Sequence to Sequence Learning with Neural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 
 ### Deep Learning
 - [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
@@ -358,12 +366,14 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Stocktwits](http://stocktwits.com/): Tap into the Pulse of Markets
 - [Meltwater](https://www.meltwater.com/)
 - [CrowdFlower](https://www.crowdflower.com/): AI for your business.
-- [Lexalytics Sematria](https://www.lexalytics.com/). API and Excel plugin.
+- [Lexalytics Sematria](https://www.lexalytics.com/): API and Excel plugin.
 - [Rosette Text Analytics](https://www.rosette.com/): AI for Human Language
 - [Google's Natural Language API](https://cloud.google.com/natural-language): Derive insights from unstructured text using Google machine learning
 - [Alchemy API](http://www.alchemyapi.com/)
 - [Monkey Learn](http://monkeylearn.com/)
 - [LightTag Annotation Tool](https://lighttag.io). Hosted annotation tool for teams. 
+- [Anafora](https://github.com/weitechen/anafora): Free and open source web-based raw text annotation tool
+- [brat](http://brat.nlplab.org/): Rapid annotation tool.
 
 #### Getting Data out of PDFs
 
