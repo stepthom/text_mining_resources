@@ -289,18 +289,21 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - [textir](https://cran.r-project.org/web/packages/textir/index.html): Inverse Regression for Text Analysis.
   - [corpora](https://cran.r-project.org/web/packages/corpora/index.html): Statistics and data sets for corpus frequency data.
   - [tau](https://cran.r-project.org/web/packages/tau/index.html): Text Analysis Utilities.
-  - [tidytext](https://github.com/juliasilge/tidytext): Text mining using dplyr, ggplot2, and other tidy tools
-  - [Sentiment140](https://github.com/okugami79/sentiment140): R package for sentiment text analysis
+  - [tidytext](https://github.com/juliasilge/tidytext): Text mining using dplyr, ggplot2, and other tidy tools.
+  - [Sentiment140](https://github.com/okugami79/sentiment140): Sentiment text analysis
   - [sentimentr](https://cran.r-project.org/web/packages/sentimentr/sentimentr.pdf): Lexicon-based sentiment analysis.
   - [cleanNLP](https://cran.r-project.org/web/packages/cleanNLP/cleanNLP.pdf): ML-based sentiment analysis.
   - [RSentiment](https://cran.r-project.org/web/packages/RSentiment/RSentiment.pdf): Lexicon-based sentiment analysis. Contains support for negation detection and sarcasm.
   - [text2vec](https://cran.r-project.org/web/packages/text2vec/index.html): Fast and memory-friendly tools for text vectorization, topic modeling (LDA, LSA), word embeddings (GloVe), similarities.
-  - [fastTextR](https://www.google.ca/search?q=fasttext+r&rlz=1C5CHFA_enCA704CA704&oq=fasttext+r&aqs=chrome..69i57j69i60j0l4.1910j0j7&sourceid=chrome&ie=UTF-8): An R interface to the fastText library.
+  - [fastTextR](https://www.google.ca/search?q=fasttext+r&rlz=1C5CHFA_enCA704CA704&oq=fasttext+r&aqs=chrome..69i57j69i60j0l4.1910j0j7&sourceid=chrome&ie=UTF-8): Interface to the fastText library.
   - [LDAvis](https://cran.r-project.org/web/packages/LDAvis/): Interactive visualization of topic models.
   - [keras](https://cran.r-project.org/web/packages/keras/index.html): Interface to [Keras](https://keras.io), a high-level neural networks 'API'. ([RStudio Blog: TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_169))
-  - [retweet](http://rtweet.info/): R client for accessing Twitter’s REST and stream APIs ([21 Recipes for Mining Twitter Data with rtweet](https://rud.is/books/21-recipes/))
-  - [topicmodels](https://cran.r-project.org/web/packages/topicmodels/topicmodels.pdf): Provides an interface to the C code for Latent Dirichlet Allocation (LDA)
-  - [textmineR](https://cran.r-project.org/web/packages/textmineR/index.html): An aid for text mining in R, with a syntax that should be familiar to experienced R users.
+  - [retweet](http://rtweet.info/): Client for accessing Twitter’s REST and stream APIs. ([21 Recipes for Mining Twitter Data with rtweet](https://rud.is/books/21-recipes/))
+  - [topicmodels](https://cran.r-project.org/web/packages/topicmodels/topicmodels.pdf): Interface to the C code for Latent Dirichlet Allocation (LDA).
+  - [textmineR](https://cran.r-project.org/web/packages/textmineR/index.html): Aid for text mining in R, with a syntax that should be familiar to experienced R users.
+  - [wordVectors](https://github.com/bmschmidt/wordVectors): Creating and exploring word2vec and other word embedding models
+  - [gtrendsR](https://cran.r-project.org/web/packages/gtrendsR/index.html): Interface for retrieving and displaying the information returned online by Google Trends.
+    - [Analyzing Google Trends Data in R](https://datascienceplus.com/analyzing-google-trends-data-in-r/)
 - Python modules
   - [NLTK](http://www.nltk.org): Natural Language Toolkit.
     - [Video: NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
@@ -311,13 +314,14 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
     - [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
   - [Gensim](https://radimrehurek.com/gensim/): Topic Modeling for humans.
   - [textmining](https://pypi.python.org/pypi/textmining/1.0): Python Text Mining utilities.
-  - [gtrendsR](https://cran.r-project.org/web/packages/gtrendsR/index.html)
-     - [Analyzing Google Trends Data in R](https://datascienceplus.com/analyzing-google-trends-data-in-r/)
-  - [Scrapy](https://scrapy.org/)
-  - [lda2vec](https://github.com/cemoody/lda2vec): Tools for interpreting natural language
+  - [Scrapy](https://scrapy.org/): Open source and collaborative framework for extracting the data you need from websites.
+  - [lda2vec](https://github.com/cemoody/lda2vec): Tools for interpreting natural language.
   - [PyText](https://pytext-pytext.readthedocs-hosted.com/en/latest/) A deep-learning based NLP modeling framework built on PyTorch.
-  - [sent2vec](https://github.com/epfml/sent2vec): General purpose unsupervised sentence representations
+  - [sent2vec](https://github.com/epfml/sent2vec): General purpose unsupervised sentence representations.
   - [flair](https://github.com/zalandoresearch/flair): A very simple framework for state-of-the-art Natural Language Processing (NLP)
+  - [word_forms](https://github.com/gutfeeling/word_forms): Accurately generate all possible forms of an English word e.g "election" --> "elect", "electoral", "electorate" etc.
+  - [AllenNLP](https://github.com/allenai/allennlp): Open-source NLP research library, built on PyTorch.
+  - [BigARTM](https://github.com/bigartm/bigartm): Fast topic modeling platform.
 - [Apache Tika](http://tika.apache.org/): a content analysis tookilt.
 - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/): a suite of core NLP tools
   - Also checkout http://corenlp.run for a hosted version of the CoreNLP server.
