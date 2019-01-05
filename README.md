@@ -71,7 +71,6 @@ A curated list of resources for learning about natural language processing, text
 - [FriendlyData blog](https://friendlydata.io/blog)
 - [Salmon Run](http://sujitpal.blogspot.com/)
 - [Lekta Blog](https://lekta.ai/blog/)
-- [BREAKTHROUGH ANALYSIS](https://breakthroughanalysis.com/)
 
 ## Blog Articles, Papers, Case Studies
 
