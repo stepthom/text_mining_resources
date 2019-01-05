@@ -10,26 +10,17 @@
 A curated list of resources for learning about natural language processing, text mining, text analytics, and unstructured data. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Table of Contents
-- [Other Curated Lists](#other-curated-lists)
 - [Books](#books)
 - [Blogs](#blogs)
 - [Blog articles, Papers, Case Studies](#blog-articles-papers-case-studies)
 - [Online Courses](#online-courses)
 - [APIs and Libraries](#apis-and-libraries)
 - [Products](#products)
-- [Online Tools](#online-tools)
+- [Online Demos and Tools](#online-demos-and-tools)
 - [Datasets](#datasets)
 - [Misc](#misc)
 - [Meta](#meta)
-
-## Other Curated Lists
-- [awesome-nlp](https://github.com/keonkim/awesome-nlp)
-- [Deep Learning for NLP resources](https://github.com/andrewt3000/dl4nlp)
-- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
-- [Opinion Mining, Sentiment Analysis, and Opinion Spam Detection](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets)
-- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#cpp-nlp)
-- [Sentiment140](http://help.sentiment140.com)
-- [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp)
+- [Other Curated Lists](#other-curated-lists)
 
 ## Books
 
@@ -384,10 +375,12 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Tools for Extracting Data and Text from PDFs - A Review](http://okfnlabs.org/blog/2016/04/19/pdf-tools-extract-text-and-data-from-pdfs.html)
 
 
-## Online Tools
+## Online Demos and Tools
 - [Peter Holme's word stemmer](http://holme.se/stem/)
 - [Stanford Parser](http://nlp.stanford.edu:8080/parser/)
 - [Stanford CoreNLP](http://nlp.stanford.edu:8080/corenlp/)
+- [word2vec demo](http://bionlp-www.utu.fi/wv_demo)
+- [Another word2vec demo](http://turbomaze.github.io/word2vecjson/)
 
 ## Datasets
 
@@ -432,6 +425,16 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 - [Deep Learning for NLP, advancements and trends in 2017](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_162)
 - [10 Exciting Ideas of 2018 in NLP](http://ruder.io/10-exciting-ideas-of-2018-in-nlp/)
+
+## Other Curated Lists
+- [awesome-nlp](https://github.com/keonkim/awesome-nlp)
+- [Deep Learning for NLP resources](https://github.com/andrewt3000/dl4nlp)
+- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
+- [Opinion Mining, Sentiment Analysis, and Opinion Spam Detection](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets)
+- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#cpp-nlp)
+- [Sentiment140](http://help.sentiment140.com)
+- [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp)
+
 
 # Contribute
 
