@@ -327,6 +327,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - [AllenNLP](https://github.com/allenai/allennlp): Open-source NLP research library, built on PyTorch.
   - [BigARTM](https://github.com/bigartm/bigartm): Fast topic modeling platform.
   - [Scattertext](https://github.com/JasonKessler/scattertext): Beautiful visualizations of how language differs among document types.
+  - [embeddings](https://pypi.org/project/embeddings/): Pretrained word embeddings in Python.
+  - [fastText](https://github.com/facebookresearch/fastText/tree/master/python): Library for efficient learning of word representations and sentence classification.
 - [Apache Tika](http://tika.apache.org/): a content analysis tookilt.
 - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/): a suite of core NLP tools
   - Also checkout http://corenlp.run for a hosted version of the CoreNLP server.
