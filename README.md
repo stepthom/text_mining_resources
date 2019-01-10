@@ -299,15 +299,16 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - [cleanNLP](https://cran.r-project.org/web/packages/cleanNLP/cleanNLP.pdf): ML-based sentiment analysis.
   - [RSentiment](https://cran.r-project.org/web/packages/RSentiment/RSentiment.pdf): Lexicon-based sentiment analysis. Contains support for negation detection and sarcasm.
   - [text2vec](https://cran.r-project.org/web/packages/text2vec/index.html): Fast and memory-friendly tools for text vectorization, topic modeling (LDA, LSA), word embeddings (GloVe), similarities.
-  - [fastTextR](https://www.google.ca/search?q=fasttext+r&rlz=1C5CHFA_enCA704CA704&oq=fasttext+r&aqs=chrome..69i57j69i60j0l4.1910j0j7&sourceid=chrome&ie=UTF-8): Interface to the fastText library.
+  - [fastTextR](https://cran.r-project.org/web/packages/fastTextR/README.html): Interface to the fastText library.
   - [LDAvis](https://cran.r-project.org/web/packages/LDAvis/): Interactive visualization of topic models.
-  - [keras](https://cran.r-project.org/web/packages/keras/index.html): Interface to [Keras](https://keras.io), a high-level neural networks 'API'. ([RStudio Blog: TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_169))
+  - [keras](https://cran.r-project.org/web/packages/keras/index.html): Interface to [Keras](https://keras.io), a high-level neural networks 'API'. ([RStudio Blog: TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r))
   - [retweet](http://rtweet.info/): Client for accessing Twitter’s REST and stream APIs. ([21 Recipes for Mining Twitter Data with rtweet](https://rud.is/books/21-recipes/))
   - [topicmodels](https://cran.r-project.org/web/packages/topicmodels/topicmodels.pdf): Interface to the C code for Latent Dirichlet Allocation (LDA).
   - [textmineR](https://cran.r-project.org/web/packages/textmineR/index.html): Aid for text mining in R, with a syntax that should be familiar to experienced R users.
-  - [wordVectors](https://github.com/bmschmidt/wordVectors): Creating and exploring word2vec and other word embedding models
+  - [wordVectors](https://github.com/bmschmidt/wordVectors): Creating and exploring word2vec and other word embedding models.
   - [gtrendsR](https://cran.r-project.org/web/packages/gtrendsR/index.html): Interface for retrieving and displaying the information returned online by Google Trends.
     - [Analyzing Google Trends Data in R](https://datascienceplus.com/analyzing-google-trends-data-in-r/)
+  - [textstem](https://cran.r-project.org/web/packages/textstem/): Tools that stem and lemmatize text.
 - Python modules
   - [NLTK](http://www.nltk.org): Natural Language Toolkit.
     - [Video: NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
