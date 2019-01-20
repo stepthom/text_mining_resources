@@ -52,7 +52,7 @@ A curated list of resources for learning about natural language processing, text
 - [Text Mining: A Guidebook for the Social Sciences](https://us.sagepub.com/en-us/nam/text-mining/book244124)
 - [Practical Text Analytics: Interpreting Text and Unstructured Data for Business Intelligence](https://www.koganpage.com/product/practical-text-analytics-9780749474010#region)
 - [Neural Network Methods in Natural Language Processing](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037)
-- [Machine Learning for Text (2018)] (https://www.springer.com/us/book/9783319735306)
+- [Machine Learning for Text (2018)](https://www.springer.com/us/book/9783319735306)
 
 ## Blogs
 
@@ -253,6 +253,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 - [Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/)
 - [Deep Learning for Natural Language Processing: Tutorials with Jupyter Notebooks](https://insights.untapt.com/deep-learning-for-natural-language-processing-tutorials-with-jupyter-notebooks-ad67f336ce3f)
+- [A Survey of the Usages of Deep Learning in Natural Language Processing](https://arxiv.org/abs/1807.10854)
 
 ### Knowledge Graphs
 
