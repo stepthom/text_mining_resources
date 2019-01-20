@@ -52,6 +52,7 @@ A curated list of resources for learning about natural language processing, text
 - [Text Mining: A Guidebook for the Social Sciences](https://us.sagepub.com/en-us/nam/text-mining/book244124)
 - [Practical Text Analytics: Interpreting Text and Unstructured Data for Business Intelligence](https://www.koganpage.com/product/practical-text-analytics-9780749474010#region)
 - [Neural Network Methods in Natural Language Processing](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037)
+- [Machine Learning for Text (2018)](https://www.springer.com/us/book/9783319735306)
 
 ## Blogs
 
@@ -198,6 +199,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 
 ### Text Summarization
 - [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
+- [Unsupervised Text Summarization using Sentence Embeddings](https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1)
 
 ### Machine Translation
 - [Blog Post: Found in translation: More accurate, fluent sentences in Google Translate](https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/) Nov 2016
@@ -251,6 +253,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 - [Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/)
 - [Deep Learning for Natural Language Processing: Tutorials with Jupyter Notebooks](https://insights.untapt.com/deep-learning-for-natural-language-processing-tutorials-with-jupyter-notebooks-ad67f336ce3f)
+- [A Survey of the Usages of Deep Learning in Natural Language Processing](https://arxiv.org/abs/1807.10854)
 
 ### Knowledge Graphs
 
@@ -283,6 +286,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Coursera: Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)
 - [Coursera: Nartual Language Processing](http://academictorrents.com/details/f99e7184fca947ee8f77901679e171fcadbf82e7)
 - [Commonlounge: Learn Natural Language Processing: From Beginner to Expert](https://www.commonlounge.com/discussion/9e98fc12d49e4cd59e248fc5fb72a8e9)
+- [Udacity: Natural Language Processing Nanodegree](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
 
 
 ## APIs and Libraries
@@ -341,7 +345,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Stanford Topic Modeling Toolbox](http://nlp.stanford.edu/software/tmt/tmt-0.2/)
 - [MALLET](http://mallet.cs.umass.edu/): MAchine Learning for LanguagE Toolkit
   - Github: https://github.com/mimno/Mallet
-- [Apache OpenNLP](https://opennlp.apache.org/)
+- [Apache OpenNLP](https://opennlp.apache.org/): Machine learning based toolkit for text NLP.
 - [Streamcrab](https://github.com/cyhex/streamcrab): Real-Time, Twitter sentiment analyzer engine http:/www.streamcrab.com
 - [TextRazor API](https://www.textrazor.com/): Extract Meaning from your Text.
 - [fastText](https://github.com/facebookresearch/fastText). Library for fast text representation and classification. Facebook.
@@ -445,7 +449,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 # Contribute
 
-Contributions are more than welcome! Please read the [contribution guidelines](contributing.md) first.
+Contributions are more than welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 
 ## License
