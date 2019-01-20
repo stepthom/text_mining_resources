@@ -342,7 +342,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Stanford Topic Modeling Toolbox](http://nlp.stanford.edu/software/tmt/tmt-0.2/)
 - [MALLET](http://mallet.cs.umass.edu/): MAchine Learning for LanguagE Toolkit
   - Github: https://github.com/mimno/Mallet
-- [Apache OpenNLP](https://opennlp.apache.org/)
+- [Apache OpenNLP](https://opennlp.apache.org/): Machine learning based toolkit for text NLP.
 - [Streamcrab](https://github.com/cyhex/streamcrab): Real-Time, Twitter sentiment analyzer engine http:/www.streamcrab.com
 - [TextRazor API](https://www.textrazor.com/): Extract Meaning from your Text.
 - [fastText](https://github.com/facebookresearch/fastText). Library for fast text representation and classification. Facebook.
