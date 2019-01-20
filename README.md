@@ -52,6 +52,7 @@ A curated list of resources for learning about natural language processing, text
 - [Text Mining: A Guidebook for the Social Sciences](https://us.sagepub.com/en-us/nam/text-mining/book244124)
 - [Practical Text Analytics: Interpreting Text and Unstructured Data for Business Intelligence](https://www.koganpage.com/product/practical-text-analytics-9780749474010#region)
 - [Neural Network Methods in Natural Language Processing](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037)
+- [Machine Learning for Text (2018)] (https://www.springer.com/us/book/9783319735306)
 
 ## Blogs
 
@@ -445,7 +446,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 # Contribute
 
-Contributions are more than welcome! Please read the [contribution guidelines](contributing.md) first.
+Contributions are more than welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 
 ## License
