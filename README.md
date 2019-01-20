@@ -284,6 +284,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Coursera: Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)
 - [Coursera: Nartual Language Processing](http://academictorrents.com/details/f99e7184fca947ee8f77901679e171fcadbf82e7)
 - [Commonlounge: Learn Natural Language Processing: From Beginner to Expert](https://www.commonlounge.com/discussion/9e98fc12d49e4cd59e248fc5fb72a8e9)
+- [Udacity: Natural Language Processing Nanodegree](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
 
 
 ## APIs and Libraries
