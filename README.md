@@ -262,6 +262,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 ## Online courses
 
+- [Deep Learning and NLP A-Z™: How to create a ChatBot](https://www.udemy.com/chatbot/)
+- [Natural Language Processing with Deep Learning in Python](https://www.udemy.com/natural-language-processing-with-deep-learning-in-python/)
 - [Stanford CS 224N / Ling 284](http://web.stanford.edu/class/cs224n/)
 - [Deep Learning for NLP](https://github.com/oxford-cs-deepnlp-2017/lectures). DeepMind and University of Oxford Department of Computer Science.
 - [CMU CS 11-747: Neural Network for NLP](http://phontron.com/class/nn4nlp2017/)
