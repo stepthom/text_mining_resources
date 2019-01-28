@@ -429,6 +429,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [AFINN](http://www2.imm.dtu.dk/pubdb/views/publication_details.php?id=6010)
 - [Bing](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
 - [nrc](http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm)
+- [vaderSentiment](https://github.com/cjhutto/vaderSentiment)
 
 
 ## Misc
