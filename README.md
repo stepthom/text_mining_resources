@@ -65,6 +65,7 @@ A curated list of resources for learning about natural language processing, text
 - [Salmon Run](http://sujitpal.blogspot.com/)
 - [Lekta Blog](https://lekta.ai/blog/)
 - [NLP News](http://newsletter.ruder.io/)
+- [NLP Techniques for Extracting Information](https://www.searchtechnologies.com/blog/natural-language-processing-techniques)
 
 ## Blog Articles, Papers, Case Studies
 
