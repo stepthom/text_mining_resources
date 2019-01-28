@@ -65,7 +65,6 @@ A curated list of resources for learning about natural language processing, text
 - [Salmon Run](http://sujitpal.blogspot.com/)
 - [Lekta Blog](https://lekta.ai/blog/)
 - [NLP News](http://newsletter.ruder.io/)
-- [NLP Techniques for Extracting Information](https://www.searchtechnologies.com/blog/natural-language-processing-techniques)
 
 ## Blog Articles, Papers, Case Studies
 
@@ -135,6 +134,10 @@ A curated list of resources for learning about natural language processing, text
 ### Entity Extraction
 
 - [Entity Extraction and Network Analysis](http://brandonrose.org/ner2sna). Python, `StanfordCoreNLP`
+
+### Information Extraction
+
+- [NLP Techniques for Extracting Information](https://www.searchtechnologies.com/blog/natural-language-processing-techniques)
 
 ### Document Clustering and Document Similarity
 
@@ -340,7 +343,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - [embeddings](https://pypi.org/project/embeddings/): Pretrained word embeddings in Python.
   - [fastText](https://github.com/facebookresearch/fastText/tree/master/python): Library for efficient learning of word representations and sentence classification.
   - [Google Seq2Seq](https://github.com/google/seq2seq): A general-purpose encoder-decoder framework for Tensorflow that can be used for Machine Translation, Text Summarization, Conversational Modeling, Image Captioning, and more.
-  - [polyglot](https://polyglot.readthedocs.io/en/latest/index.html): a natural language pipeline that supports multilingual applications.
+  - [polyglot](https://polyglot.readthedocs.io/en/latest/index.html): A natural language pipeline that supports multilingual applications.
 - [Apache Tika](http://tika.apache.org/): a content analysis tookilt.
 - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/): a suite of core NLP tools
   - Also checkout http://corenlp.run for a hosted version of the CoreNLP server.
@@ -382,7 +385,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [LightTag Annotation Tool](https://lighttag.io). Hosted annotation tool for teams. 
 - [Anafora](https://github.com/weitechen/anafora): Free and open source web-based raw text annotation tool
 - [brat](http://brat.nlplab.org/): Rapid annotation tool.
-- [Amazon Lex](https://aws.amazon.com/lex/): a service for building conversational interfaces into any application using voice and text.
+- [Amazon Lex](https://aws.amazon.com/lex/): A service for building conversational interfaces into any application using voice and text.
 
 #### Getting Data out of PDFs
 
