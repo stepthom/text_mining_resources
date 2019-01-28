@@ -131,12 +131,9 @@ A curated list of resources for learning about natural language processing, text
 - [Machine Learning with Text in scikit-learn (PyCon 2016)](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10)
 - [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 
-### Entity Extraction
+### Entity and Information Extraction
 
 - [Entity Extraction and Network Analysis](http://brandonrose.org/ner2sna). Python, `StanfordCoreNLP`
-
-### Information Extraction
-
 - [NLP Techniques for Extracting Information](https://www.searchtechnologies.com/blog/natural-language-processing-techniques)
 
 ### Document Clustering and Document Similarity
