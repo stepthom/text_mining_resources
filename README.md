@@ -68,7 +68,7 @@ A curated list of resources for learning about natural language processing, text
 ## Blog Articles, Papers, Case Studies
 
 ### General
-- [WEF Live Campaign - Twitter fed Global News Topics & Sentiment Tracker] (https://365.weflive.com/#!/r/worldwide/t/all-topics) - Live Jan 2019
+- [WEF Live Campaign - Twitter fed Global News Topics & Sentiment Tracker](https://365.weflive.com/#!/r/worldwide/t/all-topics) - Live Jan 2019
 - [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com)
 - [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/definitive-guide-natural-language-processing/)
 - [From Natural Language to Calendar Entries, with Clojure](http://edeferia.blogspot.ca/2015/03/from-natural-language-to-calendar.html). March 2015. NLP, Clojure
@@ -100,7 +100,7 @@ A curated list of resources for learning about natural language processing, text
 - [Comparison of the Most Useful Text Processing APIs](https://www.kdnuggets.com/2018/08/comparison-most-useful-text-processing-apis.html)
 
 ### Biases in NLP 
-- [Thought Leadership Blogpost-Biases in Word Embeddings] (https://neurodivergent-ai.github.io/blog/post_1.html) - Natural Language Processing News Dec 2018, Issue #35.
+- [Venturebeat Blogpost - Gender biases in datasets](https://venturebeat.com/2018/09/07/researchers-develop-a-method-that-reduces-gender-bias-in-ai-datasets/) - Based on UCLA research paper "Learning Gender Neutral Word Embeddings" Aug 2018 .
 
 ### Scraping
 - [https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/](https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/)
@@ -355,7 +355,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Comparison of Top 6 Python NLP Libraries](https://www.kdnuggets.com/2018/07/comparison-top-6-python-nlp-libraries.html).
 
 ## Products
-- [Systran - Enterprise Translation Products] (http://www.systransoft.com/translation-products/)
+- [Systran - Enterprise Translation Products](http://www.systransoft.com/translation-products/)
 - [SAS Text Miner (Part of SAS Enterprise Miner)](http://www.sas.com/en_us/software/analytics/text-miner.html)
 - [SAS Sentiment Analysis](http://www.sas.com/en_ca/software/analytics/sentiment-analysis.html)
 - [STATISTICA](http://www.statsoft.com/Products/STATISTICA/Product-Index)
@@ -391,8 +391,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 
 ## Online Demos and Tools
-- [MIT OpenNPT for neural machine translation and neural sequence modeling] (http://opennmt.net/)
-- [Stemming & Lemmatization with Python NLTK] (https://text-processing.com/demo/stem/)
+- [MIT OpenNPT for neural machine translation and neural sequence modeling](http://opennmt.net/)
+- [Stemming & Lemmatization with Python NLTK](https://text-processing.com/demo/stem/)
 - [Stanford Parser](http://nlp.stanford.edu:8080/parser/)
 - [Stanford CoreNLP](http://nlp.stanford.edu:8080/corenlp/)
 - [word2vec demo](http://bionlp-www.utu.fi/wv_demo)
