@@ -292,6 +292,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Udacity: Natural Language Processing Nanodegree](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
 - [Udemy: NLP - Natural Language Processing with Python](https://www.udemy.com/nlp-natural-language-processing-with-python/)
 - [Udemy: Deep Learning: Advanced NLP and RNNs](https://www.udemy.com/deep-learning-advanced-nlp/)
+- [Udemy: Natural Language Processing and Text Mining Without Coding](https://www.udemy.com/master-natural-language-processing-nlp-text-mining-without-coding/)
 
 ## APIs and Libraries
 - [R packages](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
@@ -339,7 +340,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - [embeddings](https://pypi.org/project/embeddings/): Pretrained word embeddings in Python.
   - [fastText](https://github.com/facebookresearch/fastText/tree/master/python): Library for efficient learning of word representations and sentence classification.
   - [Google Seq2Seq](https://github.com/google/seq2seq): A general-purpose encoder-decoder framework for Tensorflow that can be used for Machine Translation, Text Summarization, Conversational Modeling, Image Captioning, and more.
-  - [polyglot](https://polyglot.readthedocs.io/en/latest/index.html): a natural language pipeline that supports massive multilingual applications.
+  - [polyglot](https://polyglot.readthedocs.io/en/latest/index.html): a natural language pipeline that supports multilingual applications.
 - [Apache Tika](http://tika.apache.org/): a content analysis tookilt.
 - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/): a suite of core NLP tools
   - Also checkout http://corenlp.run for a hosted version of the CoreNLP server.
