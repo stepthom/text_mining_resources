@@ -380,6 +380,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [LightTag Annotation Tool](https://lighttag.io). Hosted annotation tool for teams. 
 - [Anafora](https://github.com/weitechen/anafora): Free and open source web-based raw text annotation tool
 - [brat](http://brat.nlplab.org/): Rapid annotation tool.
+- [Amazon Lex](https://aws.amazon.com/lex/): a service for building conversational interfaces into any application using voice and text.
 
 #### Getting Data out of PDFs
 
