@@ -55,7 +55,6 @@ A curated list of resources for learning about natural language processing, text
 - [Machine Learning for Text (2018)](https://www.springer.com/us/book/9783319735306)
 
 ## Blogs
-
 - [Probably Approximately a Scientific Blog](http://veredshwartz.blogspot.com/)
 - [Sebastian Ruder](http://ruder.io/)
 - [NLP-progress](https://nlpprogress.com/)
@@ -69,6 +68,7 @@ A curated list of resources for learning about natural language processing, text
 ## Blog Articles, Papers, Case Studies
 
 ### General
+- [WEF Live Campaign - Twitter fed Global News Topics & Sentiment Tracker](https://365.weflive.com/#!/r/worldwide/t/all-topics) - Live Jan 2019
 - [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com)
 - [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/definitive-guide-natural-language-processing/)
 - [From Natural Language to Calendar Entries, with Clojure](http://edeferia.blogspot.ca/2015/03/from-natural-language-to-calendar.html). March 2015. NLP, Clojure
@@ -98,6 +98,9 @@ A curated list of resources for learning about natural language processing, text
 - [Creating machine learning models to analyze startup news - Part1](https://monkeylearn.com/blog/filtering-startup-news-machine-learning/). [Part 2](https://monkeylearn.com/blog/creating-machine-learning-models-analyze-news/). [Part 3](https://monkeylearn.com/blog/analyzing-startup-news-with-machine-learning/).
 - [A Tidytext Analysis of the Weinstein Effect](https://www.gokhanciflikli.com/post/weinstein-effect/) Dec 2013.
 - [Comparison of the Most Useful Text Processing APIs](https://www.kdnuggets.com/2018/08/comparison-most-useful-text-processing-apis.html)
+
+### Biases in NLP 
+- [Venturebeat Blogpost - Gender biases in datasets](https://venturebeat.com/2018/09/07/researchers-develop-a-method-that-reduces-gender-bias-in-ai-datasets/) - Based on UCLA research paper "Learning Gender Neutral Word Embeddings" Aug 2018 .
 
 ### Scraping
 - [https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/](https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/)
@@ -359,6 +362,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Comparison of Top 6 Python NLP Libraries](https://www.kdnuggets.com/2018/07/comparison-top-6-python-nlp-libraries.html).
 
 ## Products
+- [Systran - Enterprise Translation Products](http://www.systransoft.com/translation-products/)
 - [SAS Text Miner (Part of SAS Enterprise Miner)](http://www.sas.com/en_us/software/analytics/text-miner.html)
 - [SAS Sentiment Analysis](http://www.sas.com/en_ca/software/analytics/sentiment-analysis.html)
 - [STATISTICA](http://www.statsoft.com/Products/STATISTICA/Product-Index)
@@ -395,7 +399,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 
 ## Online Demos and Tools
-- [Peter Holme's word stemmer](http://holme.se/stem/)
+- [MIT OpenNPT for neural machine translation and neural sequence modeling](http://opennmt.net/)
+- [Stemming & Lemmatization with Python NLTK](https://text-processing.com/demo/stem/)
 - [Stanford Parser](http://nlp.stanford.edu:8080/parser/)
 - [Stanford CoreNLP](http://nlp.stanford.edu:8080/corenlp/)
 - [word2vec demo](http://bionlp-www.utu.fi/wv_demo)
