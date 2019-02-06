@@ -228,6 +228,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [R package fastLink: Fast Probabilistic Record Linkage](https://github.com/kosukeimai/fastLink)
 - [Fuzzy merge in R](https://www.princeton.edu/~otorres/FuzzyMergeR101.pdf)
 - [Learning Text Similarity with Siamese Recurrent Networks](http://www.aclweb.org/anthology/W/W16/W16-1617.pdf)
+- [Dedupe: A python library for accurate and scaleable fuzzy matching, record deduplication and entity-resolution](https://github.com/dedupeio/dedupe)
 
 ### Word and Document Embeddings
 
