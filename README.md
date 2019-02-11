@@ -214,7 +214,8 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [Machine Learning Translation and the Google Translate Algorithm](http://www.kdnuggets.com/2017/09/machine-learning-translation-google-translate-algorithm.html)
 - [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt)
 - [Paper Dissected: “Attention is All You Need” Explained](http://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/) Explanation of an important paper that first introduced 'Attention mechanism' in 2017.
-- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) A new language representation model published in 2018.
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) A new language representation model published in 2018. - Implementation code: https://github.com/google-research/bert and https://github.com/codertimo/BERT-pytorch
+- [Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/abs/1804.07755) Proposed two model variants: neural and phrase-based model. Awarded as the Best Paper Award at EMNLP 2018. - Implementation code: https://github.com/facebookresearch/UnsupervisedMT
 
 ### Q&A Systems, Chatbots
 
@@ -251,7 +252,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Word Embeddings in Python with Spacy and Gensim](https://www.shanelynn.ie/word-embeddings-in-python-with-spacy-and-gensim/)
 - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/). Dec 2018.
 - [Deep Contextualized Word Represenations](https://arxiv.org/abs/1802.05365). ElMo. [PyTorch implmentation](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md). [TF Implementation](https://github.com/allenai/bilm-tf)
-- [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146).
+- [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146). - Implementation code:  http://nlp.fast.ai/category/classification.html
 - [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364).
 - [Learned in Translation: Contextualized Word Vectors](https://arxiv.org/abs/1708.00107). CoVe.
 - [Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf). Paragraph vectors. See [doc2vec tutorial at gensim](http://rare-technologies.com/doc2vec-tutorial/)
@@ -260,12 +261,14 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Sequence to Sequence Learning with Neural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 - [The Amazing Power of Word Vectors](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/). 2016.
 - [Contextual String Embeddings for Sequence Labeling](http://alanakbik.github.io/papers/coling2018.pdf). 2018.
+- [A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks](https://arxiv.org/abs/1811.06031) introducing a multi-task learning approach for a set of interrelated NLP tasks: Named Entity Recognition, Entity Mention Detection, Coreference Resolution and Relation Extraction.  Presented at AAAI conference in January 2019)  - Implementation code: https://github.com/huggingface/hmtl
 
 ### Deep Learning
 - [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 - [Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/)
 - [Deep Learning for Natural Language Processing: Tutorials with Jupyter Notebooks](https://insights.untapt.com/deep-learning-for-natural-language-processing-tutorials-with-jupyter-notebooks-ad67f336ce3f)
 - [A Survey of the Usages of Deep Learning in Natural Language Processing](https://arxiv.org/abs/1807.10854)
+- [Sequence Classification with Human Attention](http://aclweb.org/anthology/K18-1030) Using human attention derived from eye-tracking corpora to regularize attention in recurrent neural networks (RNN). Awarded for the best paper at CoNLL 2018. - Implementation code: https://github.com/coastalcph/Sequence_classification_with_human_attention
 
 ### Knowledge Graphs
 
@@ -442,6 +445,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language)
 - [First Quora Dataset Release: Question Pairs](https://data.world/socialmediadata/quora-question-pairs)
 - [The Best 25 Datasets for Natural Language Processing](https://gengo.ai/datasets/the-best-25-datasets-for-natural-language-processing/)
+- [SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference](https://github.com/rowanz/swagaf) A large-scale dataset created to support research toward Natural Language Inference (NLI) with common-sense reasoning
 
 ### Lexicons for Sentiment Analysis
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
@@ -470,7 +474,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#cpp-nlp)
 - [Sentiment140](http://help.sentiment140.com)
 - [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp)
-
+- [Paper with Code](https://paperswithcode.com/) A Fantastic latest machine learning papers on ArXiv with the code on GitHub  
 
 # Contribute
 
