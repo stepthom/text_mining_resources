@@ -208,7 +208,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [Machine Learning Translation and the Google Translate Algorithm](http://www.kdnuggets.com/2017/09/machine-learning-translation-google-translate-algorithm.html)
 - [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt)
 - [Paper Dissected: “Attention is All You Need” Explained](http://mlexplained.com/2017/12/29/attention-is-all-you-need-explained/) Explanation of an important paper that first introduced 'Attention mechanism' in 2017.
-- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) A new language representation model published in 2018.[Implementation code](https://github.com/google-research/bert). [Pytorch port.]( https://github.com/codertimo/BERT-pytorch)
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) A new language representation model published in 2018. [Implementation code](https://github.com/google-research/bert). [Pytorch port.]( https://github.com/codertimo/BERT-pytorch)
 - [Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/abs/1804.07755) Proposed two model variants: neural and phrase-based model. Awarded as the Best Paper Award at EMNLP 2018. [Implementation code](https://github.com/facebookresearch/UnsupervisedMT). 
 
 ### Q&A Systems, Chatbots
@@ -262,7 +262,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/)
 - [Deep Learning for Natural Language Processing: Tutorials with Jupyter Notebooks](https://insights.untapt.com/deep-learning-for-natural-language-processing-tutorials-with-jupyter-notebooks-ad67f336ce3f)
 - [A Survey of the Usages of Deep Learning in Natural Language Processing](https://arxiv.org/abs/1807.10854)
-- [Sequence Classification with Human Attention](http://aclweb.org/anthology/K18-1030) Using human attention derived from eye-tracking corpora to regularize attention in recurrent neural networks (RNN). Awarded for the best paper at CoNLL 2018. [Implementation code](https://github.com/coastalcph/Sequence_classification_with_human_attention).  
+- [Sequence Classification with Human Attention](http://aclweb.org/anthology/K18-1030): Using human attention derived from eye-tracking corpora to regularize attention in recurrent neural networks (RNN). [Implementation code](https://github.com/coastalcph/Sequence_classification_with_human_attention).  
 
 ### Knowledge Graphs
 
@@ -438,7 +438,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language)
 - [First Quora Dataset Release: Question Pairs](https://data.world/socialmediadata/quora-question-pairs)
 - [The Best 25 Datasets for Natural Language Processing](https://gengo.ai/datasets/the-best-25-datasets-for-natural-language-processing/)
-- [SWAG](https://github.com/rowanz/swagaf) A large-scale dataset created for Natural Language Inference(NLI) with common-sense reasoning
+- [SWAG](https://github.com/rowanz/swagaf): A large-scale dataset created for Natural Language Inference (NLI) with common-sense reasoning.
 
 ### Lexicons for Sentiment Analysis
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
@@ -467,7 +467,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#cpp-nlp)
 - [Sentiment140](http://help.sentiment140.com)
 - [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp)
-- [Paper with Code](https://paperswithcode.com/) A fantastic list of recent machine learning papers on ArXiv, with links to code.   
+- [Paper with Code](https://paperswithcode.com/): A fantastic list of recent machine learning papers on ArXiv, with links to code.   
 
 # Contribute
 
