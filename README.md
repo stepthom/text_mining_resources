@@ -255,7 +255,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Sequence to Sequence Learning with Neural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 - [The Amazing Power of Word Vectors](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/). 2016.
 - [Contextual String Embeddings for Sequence Labeling](http://alanakbik.github.io/papers/coling2018.pdf). 2018.
-- [A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks](https://arxiv.org/abs/1811.06031) introducing a multi-task learning approach for a set of interrelated NLP tasks: Named Entity Recognition, Entity Mention Detection, Coreference Resolution and Relation Extraction.  Presented at AAAI conference in January 2019)[Implementation code](https://github.com/huggingface/hmtl).  
+- [A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks](https://arxiv.org/abs/1811.06031) introducing a multi-task learning approach for a set of interrelated NLP tasks. Presented at AAAI conference in January 2019.[Implementation code](https://github.com/huggingface/hmtl).  
 
 ### Deep Learning
 - [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
