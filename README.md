@@ -99,7 +99,7 @@ A curated list of resources for learning about natural language processing, text
 - [A Tidytext Analysis of the Weinstein Effect](https://www.gokhanciflikli.com/post/weinstein-effect/) Dec 2013.
 - [Comparison of the Most Useful Text Processing APIs](https://www.kdnuggets.com/2018/08/comparison-most-useful-text-processing-apis.html)
 - [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
-- [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) - accompanied by a great step-by-step IPython Notebook
+- [Crowdsourcing Ground Truth for Medical Relation Extraction](https://dl.acm.org/citation.cfm?id=3152889)
 
 ### Biases in NLP 
 - [Venturebeat Blogpost - Gender biases in datasets](https://venturebeat.com/2018/09/07/researchers-develop-a-method-that-reduces-gender-bias-in-ai-datasets/) - Based on UCLA research paper "Learning Gender Neutral Word Embeddings" Aug 2018 .
@@ -393,6 +393,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Anafora](https://github.com/weitechen/anafora): Free and open source web-based raw text annotation tool
 - [brat](http://brat.nlplab.org/): Rapid annotation tool.
 - [Amazon Lex](https://aws.amazon.com/lex/): A service for building conversational interfaces into any application using voice and text.
+- [Google's Colab](http://colab.research.google.com): Ready-to-go Notebook environment that makes it easy to get up and running.
 
 #### Getting Data out of PDFs
 
@@ -412,6 +413,9 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Stanford CoreNLP](http://nlp.stanford.edu:8080/corenlp/)
 - [word2vec demo](http://bionlp-www.utu.fi/wv_demo)
 - [Another word2vec demo](http://turbomaze.github.io/word2vecjson/)
+- [sense2vec: Semantic Analysis of the Reddit Hivemind](https://explosion.ai/demos/sense2vec)
+- [RegexPal](https://www.regexpal.com/): Great tool for testing out regular expressions.
+- [AllenNLP Demo](https://demo.allennlp.org): Great demo using AllenNLP of everything from Named Entity Recognition to Textual Entailment.
 
 ## Datasets
 
