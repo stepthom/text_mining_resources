@@ -99,6 +99,7 @@ A curated list of resources for learning about natural language processing, text
 - [A Tidytext Analysis of the Weinstein Effect](https://www.gokhanciflikli.com/post/weinstein-effect/) Dec 2013.
 - [Comparison of the Most Useful Text Processing APIs](https://www.kdnuggets.com/2018/08/comparison-most-useful-text-processing-apis.html)
 - [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
+- [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) - accompanied by a great step-by-step IPython Notebook
 
 ### Biases in NLP 
 - [Venturebeat Blogpost - Gender biases in datasets](https://venturebeat.com/2018/09/07/researchers-develop-a-method-that-reduces-gender-bias-in-ai-datasets/) - Based on UCLA research paper "Learning Gender Neutral Word Embeddings" Aug 2018 .
