@@ -260,6 +260,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [The Amazing Power of Word Vectors](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/). 2016.
 - [Contextual String Embeddings for Sequence Labeling](http://alanakbik.github.io/papers/coling2018.pdf). 2018.
 - [A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks](https://arxiv.org/abs/1811.06031) Introducing a multi-task learning approach for a set of interrelated NLP tasks. Presented at AAAI conference in January 2019.[Implementation code](https://github.com/huggingface/hmtl).  
+- [An Idiot’s Guide to Word2vec Natural Language Processing](https://medium.com/@ODSC/an-idiots-guide-to-word2vec-natural-language-processing-5c3767cf8295)
 
 ### Deep Learning
 - [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
