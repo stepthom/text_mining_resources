@@ -119,6 +119,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Sarcasm Detection
 - [Automatic Sarcasm Detection: A Survey](https://dl.acm.org/citation.cfm?id=3124420) ACM Computer Surveys, Sep 2017.
+- [CASCADE: Contextual Sarcasm Detection in Online Discussion Forums](http://aclweb.org/anthology/C18-1156) 27th International Conference on Computational Linguistics, Aug 2018.
 
 ### Document Classification
 - [Naive Bayes and Text Classification](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html). Oct 2014
@@ -176,7 +177,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [Sentdex: Quantifying the Qualitative](http://sentdex.com/financial-analysis/)
 - [Leveraging international market sentiment for trading strategies](https://www.repustate.com/finance-sentiment-analysis-and-text-analytics/)
 - [From tweets to polls: Linking text sentiment to public opinion time series](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/viewFile/1536/1842)
-- [Lexicon-Based Methods for Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf)
+- [Lexicon-Based Methods for Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf) Uses SO-CAL (Semantic Orientation - CALculator, a measure of subjectivity and opinion for sentimental analysis
 - [On the negativity of negation](http://web.stanford.edu/~cgpotts/papers/potts-salt20-negation.pdf)
 - [Blog Post: That Sentimental Feeling](http://www.matthewjockers.net/2015/12/20/that-sentimental-feeling/)
   - [Update: More Syuzhet Validation](http://www.matthewjockers.net/2016/08/11/more-syuzhet-validation/)
@@ -201,6 +202,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 ### Text Summarization
 - [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
 - [Unsupervised Text Summarization using Sentence Embeddings](https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1)
+- [Improving Abstraction in Text Summarization](http://aclweb.org/anthology/D18-1207) Proposing two techniques for improvement
 
 ### Machine Translation
 - [Blog Post: Found in translation: More accurate, fluent sentences in Google Translate](https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/) Nov 2016
@@ -454,6 +456,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [AskReddit: People with a mother tongue that isn't English, what are the most annoying things about the English language when you are trying to learn it?](https://www.reddit.com/r/AskReddit/comments/6qvmny/people_with_a_mother_tongue_that_isnt_english/)
 - [Funny Video: Emotional Spell Check](https://vimeo.com/17859540)
 - [How to win Kaggle competition based on NLP task, if you are not an NLP expert](http://www.kdnuggets.com/2017/09/win-kaggle-nlp-not-expert.html)
+- [Detecting Gang-Involved Escalation on Social Media Using Context](http://aclweb.org/anthology/D18-1005) Detecting Aggression and Loss in social media using CNN
+- [Reasoning about Actions and State Changes by Injecting Commonsense Knowledge](http://aclweb.org/anthology/D18-1006) Incorporating global, commonsense constraints & biasing reading with preferences from large-scale corp
 
 ## Meta
 
