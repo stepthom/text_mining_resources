@@ -448,6 +448,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [First Quora Dataset Release: Question Pairs](https://data.world/socialmediadata/quora-question-pairs)
 - [The Best 25 Datasets for Natural Language Processing](https://gengo.ai/datasets/the-best-25-datasets-for-natural-language-processing/)
 - [SWAG](https://github.com/rowanz/swagaf): A large-scale dataset created for Natural Language Inference (NLI) with common-sense reasoning.
+- [MIMIC](https://mimic.physionet.org/gettingstarted/access/): an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~40,000 critical care patients.
 
 ### Lexicons for Sentiment Analysis
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
