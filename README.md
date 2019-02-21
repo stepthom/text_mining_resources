@@ -270,7 +270,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Deep Learning for Natural Language Processing: Tutorials with Jupyter Notebooks](https://insights.untapt.com/deep-learning-for-natural-language-processing-tutorials-with-jupyter-notebooks-ad67f336ce3f)
 - [A Survey of the Usages of Deep Learning in Natural Language Processing](https://arxiv.org/abs/1807.10854)
 - [Sequence Classification with Human Attention](http://aclweb.org/anthology/K18-1030): Using human attention derived from eye-tracking corpora to regularize attention in recurrent neural networks (RNN). [Implementation code](https://github.com/coastalcph/Sequence_classification_with_human_attention).  
-- [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf)
+- [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf): MT-DNN, Microsoft’s new deep learning approach to NLU that outperforms BERT
 
 ### Knowledge Graphs
 
@@ -469,7 +469,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [How to win Kaggle competition based on NLP task, if you are not an NLP expert](http://www.kdnuggets.com/2017/09/win-kaggle-nlp-not-expert.html)
 - [Detecting Gang-Involved Escalation on Social Media Using Context](http://aclweb.org/anthology/D18-1005) Detecting Aggression and Loss in social media using CNN
 - [Reasoning about Actions and State Changes by Injecting Commonsense Knowledge](http://aclweb.org/anthology/D18-1006) Incorporating global, commonsense constraints & biasing reading with preferences from large-scale corp
-- [The Language of Hip Hop, 2017](https://pudding.cool/2017/09/hip-hop-words/)
+- [The Language of Hip Hop, 2017](https://pudding.cool/2017/09/hip-hop-words/): A 2017 analysis by Matt Daniels of Pudding determining the popularity of various words in hip hop music and across artists
 
 ## Meta
 
