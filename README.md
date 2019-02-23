@@ -35,7 +35,7 @@ A curated list of resources for learning about natural language processing, text
   - [Word and Document Embeddings](#word-and-document-embeddings)
   - [Deep Learning](#deep-learning)
   - [Knowledge Graphs](#knowledge-graphs)
-  - [Benchmarks](#benchmarks)
+- [Benchmarks](#benchmarks)
 - [Online Courses](#online-courses)
 - [APIs and Libraries](#apis-and-libraries)
 - [Products](#products)
@@ -301,7 +301,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
 - [WTF is a knowledge graph?](https://hackernoon.com/wtf-is-a-knowledge-graph-a16603a1a25f)
 
-### Benchmarks
+## Benchmarks
 
 - [SQuAD leaderboard](https://rajpurkar.github.io/SQuAD-explorer/). A list of the strongest-performing NLP models on the Stanford Question Answering Dataset (SQuAD).
   - [SQuAD 1.0 paper](https://arxiv.org/pdf/1606.05250.pdf) (Last updated October 2016). SQuAD v1.1 includes over 100,000 question and answer pairs based on Wikipedia articles.
