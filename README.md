@@ -11,8 +11,31 @@ A curated list of resources for learning about natural language processing, text
 
 ## Table of Contents
 - [Books](#books)
+  - [R](#r)
+  - [Python](#python)
+  - [General](#general-books)
 - [Blogs](#blogs)
 - [Blog articles, Papers, Case Studies](#blog-articles-papers-case-studies)
+  - [General](#general-articles)
+  - [Biases in NLP](#biases-in-nlp)
+  - [Scraping](#scraping)
+  - [Cleaning](#cleaning)
+  - [Stemming](#stemming)
+  - [Dimensionality Reduction](#dimensionality-reduction)
+  - [Sarcasm Detection](#sarcasm-detection)
+  - [Document Classification](#document-classification)
+  - [Entity and Information Extraction](#entity-and-information-extraction)
+  - [Document Clustering and Document Similarity](#document-clustering-and-document-similarity)
+  - [Concept Analysis/Topic Modeling](#concept-analysis)
+  - [Sentiment Analysis](#sentiment-analysis)
+  - [Text Summarization](#text-summarization)
+  - [Machine Translation](#machine-translation)
+  - [Q&A Systems, Chatbots](#qa-systems)
+  - [Fuzzy Matching, Probabilistic Matching, Record Linkage, Etc.](#fuzzy-matching)
+  - [Word and Document Embeddings](#word-and-document-embeddings)
+  - [Deep Learning](#deep-learning)
+  - [Knowledge Graphs](#knowledge-graphs)
+- [Benchmarks](#benchmarks)
 - [Online Courses](#online-courses)
 - [APIs and Libraries](#apis-and-libraries)
 - [Products](#products)
@@ -39,7 +62,7 @@ A curated list of resources for learning about natural language processing, text
 - [Deep Learning with Text](http://shop.oreilly.com/product/0636920076063.do)
 - [Applied Natural Language Processing With Python](https://link.springer.com/book/10.1007%2F978-1-4842-3733-5) 2018.
 
-#### General
+#### General <a id="general-books"></a>
 - [Taming Text](https://www.manning.com/books/taming-text)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/)
@@ -68,7 +91,7 @@ A curated list of resources for learning about natural language processing, text
 
 ## Blog Articles, Papers, Case Studies
 
-### General
+### General <a id="general-articles"></a>
 - [WEF Live Campaign - Twitter fed Global News Topics & Sentiment Tracker](https://365.weflive.com/#!/r/worldwide/t/all-topics) - Live Jan 2019
 - [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com)
 - [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/definitive-guide-natural-language-processing/)
@@ -149,7 +172,7 @@ A curated list of resources for learning about natural language processing, text
 SAS® Enterprise Miner](http://analytics.ncsu.edu/sesug/2016/EPO-280_Final_PDF.pdf)
 - [Who wrote the anti-Trump New York Times op-ed? Using tidytext to find document similarity](http://varianceexplained.org/r/op-ed-text-analysis/)
 
-### Concept Analysis/Topic Modeling
+### Concept Analysis/Topic Modeling <a id="concept-analysis"></a>
 - [Topic models: Past, present, and future](https://www.oreilly.com/ideas/topic-models-past-present-and-future)
 - [Word vectors using LSA, Part - 2](http://www.vikasing.com/2015/05/word-vectors-using-lsa-part-2.html)
 - [Probabilistic Topic Models](http://www.cs.columbia.edu/~blei/papers/Blei2012.pdf)
@@ -214,7 +237,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) A new language representation model published in 2018. [Implementation code](https://github.com/google-research/bert). [Pytorch port.]( https://github.com/codertimo/BERT-pytorch)
 - [Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/abs/1804.07755) Proposed two model variants: neural and phrase-based model. Awarded as the Best Paper Award at EMNLP 2018. [Implementation code](https://github.com/facebookresearch/UnsupervisedMT). 
 
-### Q&A Systems, Chatbots
+### Q&A Systems, Chatbots <a id="qa-systems"></a>
 
 - [Meet Lucy: Creating a Chatbot Prototype](http://www.kdnuggets.com/2017/09/meet-lucy-chatbot-prototype.html)
 - [Microsoft Bot Framework](https://dev.botframework.com/). A [YouTube video](https://www.youtube.com/watch?v=7wNg18NYT6s) describing the product.
@@ -222,7 +245,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [Ultimate Guide to Leveraging NLP & Machine Learning for your Chatbot](https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c). 2016.
 - [A Survey on Dialogue Systems: Recent Advances and New Frontiers](https://arxiv.org/pdf/1711.01731.pdf) Jan 2018.
 
-### Fuzzy Matching, Probabilistic Matching, Record Linkage, Etc.
+### Fuzzy Matching, Probabilistic Matching, Record Linkage, Etc. <a id="fuzzy-matching"></a>
 
 - [agrep method in R](http://stat.ethz.ch/R-manual/R-devel/library/base/html/agrep.html). Approximate String Matching (Fuzzy Matching)
 - [fuzzywuzzy package in R](https://cran.r-project.org/web/packages/fuzzywuzzyR/index.html). [Example usage](http://mlampros.github.io/2017/04/13/fuzzywuzzyR_package).
@@ -263,16 +286,29 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [An Idiot’s Guide to Word2vec Natural Language Processing](https://medium.com/@ODSC/an-idiots-guide-to-word2vec-natural-language-processing-5c3767cf8295)
 
 ### Deep Learning
-- [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
-- [Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/)
-- [Deep Learning for Natural Language Processing: Tutorials with Jupyter Notebooks](https://insights.untapt.com/deep-learning-for-natural-language-processing-tutorials-with-jupyter-notebooks-ad67f336ce3f)
-- [A Survey of the Usages of Deep Learning in Natural Language Processing](https://arxiv.org/abs/1807.10854)
+- [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/). 
+  - Briefly describes convolutions, kernels, and CNNs (including hyperparameters and channels), then explains how CNNs apply to text data input, using images as an analogue. Explains that within NLP, CNNs excel for classification tasks (e.g. sentiment analysis, spam classification).
+- [Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/). 
+  - First half of the article describes RNNs, the anatomy of an LSTM cell, LSTM networks. Second half is a walkthrough of features in Keras for LSTM implementation using generators for data input. 
+- [Deep Learning for Natural Language Processing: Tutorials with Jupyter Notebooks](https://insights.untapt.com/deep-learning-for-natural-language-processing-tutorials-with-jupyter-notebooks-ad67f336ce3f). 
+  - A short article containing links and descriptions to further video tutorials for DL approaches to NLP problems. Five lessons total including preprocessing, word representations, and LSTM, among other topics.
+- [A Survey of the Usages of Deep Learning in Natural Language Processing](https://arxiv.org/abs/1807.10854). 
+  - A 35-page academic literature review of DL in NLP (University of Colorado, July 2018). Detailed description of neural network architectures followed by a comprehensive set of applications.
 - [Sequence Classification with Human Attention](http://aclweb.org/anthology/K18-1030): Using human attention derived from eye-tracking corpora to regularize attention in recurrent neural networks (RNN). [Implementation code](https://github.com/coastalcph/Sequence_classification_with_human_attention).  
 
 ### Knowledge Graphs
 
 - [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
 - [WTF is a knowledge graph?](https://hackernoon.com/wtf-is-a-knowledge-graph-a16603a1a25f)
+
+## Benchmarks
+
+- [SQuAD leaderboard](https://rajpurkar.github.io/SQuAD-explorer/). A list of the strongest-performing NLP models on the Stanford Question Answering Dataset (SQuAD).
+  - [SQuAD 1.0 paper](https://arxiv.org/pdf/1606.05250.pdf) (Last updated October 2016). SQuAD v1.1 includes over 100,000 question and answer pairs based on Wikipedia articles.
+  - [SQuAD 2.0 paper](https://arxiv.org/pdf/1806.03822.pdf) (October 2018). The second generation of SQuAD includes unanswerable questions that the NLP model must identify as being unanswerable from the training data.
+- [GLUE leaderboard](https://gluebenchmark.com/leaderboard). 
+  - [GLUE paper](https://arxiv.org/pdf/1804.07461.pdf) (September 2018). A collection of nine NLP tasks including single-sentence tasks (e.g. check if grammar is correct, sentiment analysis), similarity and paraphrase tasks (e.g. determine if two questions are equivalent), and inference tasks (e.g. determine whether a premise contradicts a hypothesis). 
+
 
 ## Online courses
 
