@@ -93,7 +93,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### General <a id="general-articles"></a>
 - [WEF Live Campaign - Twitter fed Global News Topics & Sentiment Tracker](https://365.weflive.com/#!/r/worldwide/t/all-topics) - Live Jan 2019
-- [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com)
+- [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com) Provide overview of theories and implementations of deep learning based natural language processing to solve various NLP tasks and applications.
 - [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/definitive-guide-natural-language-processing/)
 - [From Natural Language to Calendar Entries, with Clojure](http://edeferia.blogspot.ca/2015/03/from-natural-language-to-calendar.html). March 2015. NLP, Clojure
 - [Ask HN: How Can I Get into NLP (Natural Language Processing)?](https://news.ycombinator.com/item?id=12916498)
@@ -128,15 +128,17 @@ A curated list of resources for learning about natural language processing, text
 - [Venturebeat Blogpost - Gender biases in datasets](https://venturebeat.com/2018/09/07/researchers-develop-a-method-that-reduces-gender-bias-in-ai-datasets/) - Based on UCLA research paper "Learning Gender Neutral Word Embeddings" Aug 2018 .
 
 ### Scraping
-- [https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/](https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/)
+- [https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/](https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/) Tutorial on using the Python module Scrapy for easy data extraction from messy HTML websites.
 - [Extract text from any document; no muss, no fuss.](https://datascopeanalytics.com/blog/extract-text-from-any-document-no-muss-no-fuss/). July 2014.
 - [Using Scrapy to Build your Own Dataset](https://medium.com/towards-data-science/using-scrapy-to-build-your-own-dataset-64ea2d7d4673) Sep 2017.
 
 ### Cleaning
-- [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) Jan 2018.
+- [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) Jan 2018. A step by step guide on data cleaning and exploration for successful NLP model building.
 
 ### Stemming
 - [Article: Text Stemming: Approaches, Applications, and Challenges](http://dl.acm.org/citation.cfm?id=2975608)
+- [What is the Difference Between Stemming and Lemmatization?](https://blog.bitext.com/what-is-the-difference-between-stemming-and-lemmatization/)
+- [A Comparative Study of Stemming Algorithms](https://pdfs.semanticscholar.org/1c0c/0fa35d4ff8a2f925eb955e48d655494bd167.pdf)
 
 ### Dimensionality Reduction
 - [Taming Text with the SVD](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.395.4666&rep=rep1&type=pdf). SAS. Jan 2004.
