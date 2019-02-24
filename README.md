@@ -93,7 +93,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### General <a id="general-articles"></a>
 - [WEF Live Campaign - Twitter fed Global News Topics & Sentiment Tracker](https://365.weflive.com/#!/r/worldwide/t/all-topics) - Live Jan 2019
-- [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com) Provide overview of theories and implementations of deep learning based natural language processing to solve various NLP tasks and applications.
+- [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com) 
 - [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/definitive-guide-natural-language-processing/)
 - [From Natural Language to Calendar Entries, with Clojure](http://edeferia.blogspot.ca/2015/03/from-natural-language-to-calendar.html). March 2015. NLP, Clojure
 - [Ask HN: How Can I Get into NLP (Natural Language Processing)?](https://news.ycombinator.com/item?id=12916498)
@@ -142,6 +142,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Dimensionality Reduction
 - [Taming Text with the SVD](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.395.4666&rep=rep1&type=pdf). SAS. Jan 2004.
+- [Dimensionality Reduction for Bag-of-Words Models: PCA vs LSA] (http://cs229.stanford.edu/proj2017/final-reports/5163902.pdf) 
 
 ### Sarcasm Detection
 - [Automatic Sarcasm Detection: A Survey](https://dl.acm.org/citation.cfm?id=3124420) ACM Computer Surveys, Sep 2017.
