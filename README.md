@@ -142,7 +142,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Dimensionality Reduction
 - [Taming Text with the SVD](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.395.4666&rep=rep1&type=pdf). SAS. Jan 2004.
-- [Dimensionality Reduction for Bag-of-Words Models: PCA vs LSA] (http://cs229.stanford.edu/proj2017/final-reports/5163902.pdf) 
+- [Dimensionality Reduction for Bag-of-Words Models: PCA vs LSA](http://cs229.stanford.edu/proj2017/final-reports/5163902.pdf) 
 
 ### Sarcasm Detection
 - [Automatic Sarcasm Detection: A Survey](https://dl.acm.org/citation.cfm?id=3124420) ACM Computer Surveys, Sep 2017.
