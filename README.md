@@ -77,6 +77,7 @@ A curated list of resources for learning about natural language processing, text
 - [Practical Text Analytics: Interpreting Text and Unstructured Data for Business Intelligence](https://www.koganpage.com/product/practical-text-analytics-9780749474010#region)
 - [Neural Network Methods in Natural Language Processing](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037)
 - [Machine Learning for Text (2018)](https://www.springer.com/us/book/9783319735306)
+- [Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/pdf/1811.00196.pdf)
 
 ## Blogs
 - [Probably Approximately a Scientific Blog](http://veredshwartz.blogspot.com/)
@@ -123,7 +124,7 @@ A curated list of resources for learning about natural language processing, text
 - [Comparison of the Most Useful Text Processing APIs](https://www.kdnuggets.com/2018/08/comparison-most-useful-text-processing-apis.html)
 - [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 - [Crowdsourcing Ground Truth for Medical Relation Extraction](https://dl.acm.org/citation.cfm?id=3152889)
-
+- [Natural language based financial forecasting: a survey](https://sentic.net/natural-language-based-financial-forecasting.pdf)
 ### Biases in NLP 
 - [Venturebeat Blogpost - Gender biases in datasets](https://venturebeat.com/2018/09/07/researchers-develop-a-method-that-reduces-gender-bias-in-ai-datasets/) - Based on UCLA research paper "Learning Gender Neutral Word Embeddings" Aug 2018 .
 
@@ -298,6 +299,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [A Survey of the Usages of Deep Learning in Natural Language Processing](https://arxiv.org/abs/1807.10854). 
   - A 35-page academic literature review of DL in NLP (University of Colorado, July 2018). Detailed description of neural network architectures followed by a comprehensive set of applications.
 - [Sequence Classification with Human Attention](http://aclweb.org/anthology/K18-1030): Using human attention derived from eye-tracking corpora to regularize attention in recurrent neural networks (RNN). [Implementation code](https://github.com/coastalcph/Sequence_classification_with_human_attention).  
+- [Tutorial on Text Classification (NLP) using ULMFiT and fastai Library in Python](https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/)
 
 ### Knowledge Graphs
 
@@ -344,6 +346,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Udemy: NLP - Natural Language Processing with Python](https://www.udemy.com/nlp-natural-language-processing-with-python/)
 - [Udemy: Deep Learning: Advanced NLP and RNNs](https://www.udemy.com/deep-learning-advanced-nlp/)
 - [Udemy: Natural Language Processing and Text Mining Without Coding](https://www.udemy.com/master-natural-language-processing-nlp-text-mining-without-coding/)
+- [Introduction to StanfordNLP: An Incredible State-of-the-Art NLP Library for 53 Languages (with Python code)](https://www.analyticsvidhya.com/blog/2019/02/stanfordnlp-nlp-library-python/)
+- [Probabilistic Graphical Models:Lagrangian Relaxation Algorithms for Natural Language Processing](http://people.csail.mit.edu/dsontag/courses/pgm12/slides/lecture3.pdf)
 
 ## APIs and Libraries
 - [R packages](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
