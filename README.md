@@ -77,6 +77,7 @@ A curated list of resources for learning about natural language processing, text
 - [Practical Text Analytics: Interpreting Text and Unstructured Data for Business Intelligence](https://www.koganpage.com/product/practical-text-analytics-9780749474010#region)
 - [Neural Network Methods in Natural Language Processing](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037)
 - [Machine Learning for Text (2018)](https://www.springer.com/us/book/9783319735306)
+- [Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/pdf/1811.00196.pdf)
 
 ## Blogs
 - [Probably Approximately a Scientific Blog](http://veredshwartz.blogspot.com/)
