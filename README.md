@@ -148,6 +148,8 @@ A curated list of resources for learning about natural language processing, text
 ### Sarcasm Detection
 - [Automatic Sarcasm Detection: A Survey](https://dl.acm.org/citation.cfm?id=3124420) ACM Computer Surveys, Sep 2017.
 - [CASCADE: Contextual Sarcasm Detection in Online Discussion Forums](http://aclweb.org/anthology/C18-1156) 27th International Conference on Computational Linguistics, Aug 2018.
+- [A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural Networks](https://pdfs.semanticscholar.org/402f/bb0d3eb259eeabae0522a747de14b7d7f8b5.pdf) International Journal of Advanced Research in Computer Engineering & Technology, Volume 6, Issue 1, Jan 2017.
+- [Detecting Sarcasm with Deep Convolutional Neural Networks](https://medium.com/dair-ai/detecting-sarcasm-with-deep-convolutional-neural-networks-4a0657f79e80)
 
 ### Document Classification
 - [Naive Bayes and Text Classification](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html). Oct 2014
@@ -250,6 +252,8 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [Ultimate Guide to Leveraging NLP & Machine Learning for your Chatbot](https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c). 2016.
 - [A Survey on Dialogue Systems: Recent Advances and New Frontiers](https://arxiv.org/pdf/1711.01731.pdf) Jan 2018.
 - [Examining the Impact of an Automated Translation Chatbot on Online Collaborative Dialog for Incidental L2 Learning](https://www.researchgate.net/publication/329525159_Examining_the_impact_of_an_automated_translation_chatbot_on_online_collaborative_dialog_for_incidental_L2_learning)
+- [Create a banking chatbot with FAQ discovery, anger detection and natural language understanding] (https://github.com/IBM/watson-banking-chatbot)
+
 
 ### Fuzzy Matching, Probabilistic Matching, Record Linkage, Etc. <a id="fuzzy-matching"></a>
 
@@ -464,6 +468,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [sense2vec: Semantic Analysis of the Reddit Hivemind](https://explosion.ai/demos/sense2vec)
 - [RegexPal](https://www.regexpal.com/): Great tool for testing out regular expressions.
 - [AllenNLP Demo](https://demo.allennlp.org): Great demo using AllenNLP of everything from Named Entity Recognition to Textual Entailment.
+- [IBM NLP Demo](https://natural-language-understanding-demo.ng.bluemix.net): Examine a news article or other content from the link for NLP analysis using IBM NLP.
 
 ## Datasets
 
@@ -510,7 +515,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [How to win Kaggle competition based on NLP task, if you are not an NLP expert](http://www.kdnuggets.com/2017/09/win-kaggle-nlp-not-expert.html)
 - [Detecting Gang-Involved Escalation on Social Media Using Context](http://aclweb.org/anthology/D18-1005) Detecting Aggression and Loss in social media using CNN
 - [Reasoning about Actions and State Changes by Injecting Commonsense Knowledge](http://aclweb.org/anthology/D18-1006) Incorporating global, commonsense constraints & biasing reading with preferences from large-scale corp
-
+- [Using Natural Language Processing for Automatic Detection of Plagiarism] (https://pdfs.semanticscholar.org/636d/4c0b0fe6919abe6eb546907d28ed39bf56e6.pdf)
 ## Meta
 
 - [Deep Learning for NLP, advancements and trends in 2017](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_162)
