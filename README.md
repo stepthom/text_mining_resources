@@ -78,7 +78,7 @@ A curated list of resources for learning about natural language processing, text
 - [Neural Network Methods in Natural Language Processing](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037)
 - [Machine Learning for Text (2018)](https://www.springer.com/us/book/9783319735306)
 - [Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/pdf/1811.00196.pdf)
--[Natural Language Processing in Spanish](https://iaarbook.github.io/procesamiento-del-lenguaje-natural/)
+- [Natural Language Processing in Spanish](https://iaarbook.github.io/procesamiento-del-lenguaje-natural/)
 
 ## Blogs
 - [Probably Approximately a Scientific Blog](http://veredshwartz.blogspot.com/)
