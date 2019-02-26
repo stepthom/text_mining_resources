@@ -504,6 +504,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [The Best 25 Datasets for Natural Language Processing](https://gengo.ai/datasets/the-best-25-datasets-for-natural-language-processing/)
 - [SWAG](https://github.com/rowanz/swagaf): A large-scale dataset created for Natural Language Inference (NLI) with common-sense reasoning.
 - [MIMIC](https://mimic.physionet.org/gettingstarted/access/): an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~40,000 critical care patients.
+- [Million Song Lyrics](https://labrosa.ee.columbia.edu/millionsong/musixmatch): The Million Song Lyrics database. Would be interesting to build model of lyrics versus genres.
 
 ### Lexicons for Sentiment Analysis
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
