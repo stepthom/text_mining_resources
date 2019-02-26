@@ -227,12 +227,13 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [Emotion and Sentiment Analysis: A Practitioner’s Guide to NLP](https://www.kdnuggets.com/2018/08/emotion-sentiment-analysis-practitioners-guide-nlp-5.html)
 - [Sentiment analysis: 10 applications and 4 services](https://towardsdatascience.com/machine-learning-as-a-service-487e930265b2). June 2018.
 - [TWITTER SENTIMENT ANALYSIS USING COMBINED LSTM-CNN MODELS](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/)
-- [Breakthrough Research Papers and Models for Sentiment Analysis](https://blog.paralleldots.com/data-science/breakthrough-research-papers-and-models-for-sentiment-analysis/) Article contains different types of model for Sentiment Analysis.
+- [Breakthrough Research Papers and Models for Sentiment Analysis](https://blog.paralleldots.com/data-science/breakthrough-research-papers-and-models-for-sentiment-analysis/) Article contains different types of models for Sentiment Analysis.
 
 ### Text Summarization
 - [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
 - [Unsupervised Text Summarization using Sentence Embeddings](https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1)
 - [Improving Abstraction in Text Summarization](http://aclweb.org/anthology/D18-1207) Proposing two techniques for improvement
+- [Text Summarization and Categorization for Scientific and Health-Related Data](https://repository.library.georgetown.edu/bitstream/handle/10822/1050759/Cohan_georgetown_0076D_13889.pdf?sequence=1) 
 
 ### Machine Translation
 - [Blog Post: Found in translation: More accurate, fluent sentences in Google Translate](https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/) Nov 2016
@@ -250,7 +251,9 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [Training Millions of Personalized Dialogue Agents](https://arxiv.org/abs/1809.01984)
 - [Ultimate Guide to Leveraging NLP & Machine Learning for your Chatbot](https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c). 2016.
 - [A Survey on Dialogue Systems: Recent Advances and New Frontiers](https://arxiv.org/pdf/1711.01731.pdf) Jan 2018.
+- [Examining the Impact of an Automated Translation Chatbot on Online Collaborative Dialog for Incidental L2 Learning](https://www.researchgate.net/publication/329525159_Examining_the_impact_of_an_automated_translation_chatbot_on_online_collaborative_dialog_for_incidental_L2_learning)
 - [Create a banking chatbot with FAQ discovery, anger detection and natural language understanding] (https://github.com/IBM/watson-banking-chatbot)
+
 
 ### Fuzzy Matching, Probabilistic Matching, Record Linkage, Etc. <a id="fuzzy-matching"></a>
 
@@ -262,7 +265,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [R package fastLink: Fast Probabilistic Record Linkage](https://github.com/kosukeimai/fastLink)
 - [Fuzzy merge in R](https://www.princeton.edu/~otorres/FuzzyMergeR101.pdf)
 - [Learning Text Similarity with Siamese Recurrent Networks](http://www.aclweb.org/anthology/W/W16/W16-1617.pdf)
-- [Dedupe](https://github.com/dedupeio/dedupe): A python library for accurate and scaleable fuzzy matching, record deduplication and entity-resolution.
+- [Dedupe](https://github.com/dedupeio/dedupe): A Python library for accurate and scaleable fuzzy matching, record deduplication and entity-resolution.
 - [recordlinkage](https://github.com/J535D165/recordlinkage): A toolkit for record linkage and deduplication written in Python.
 
 ### Word and Document Embeddings
@@ -294,7 +297,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 ### Deep Learning
 - [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/). 
-  - Briefly describes convolutions, kernels, and CNNs (including hyperparameters and channels), then explains how CNNs apply to text data input, using images as an analogue. Explains that within NLP, CNNs excel for classification tasks (e.g. sentiment analysis, spam classification).
+  - Briefly describes convolutions, kernels, and CNNs (including hyperparameters and channels), then explains how CNNs apply to text data input using images as an analogue. Explains that within NLP, CNNs excel for classification tasks (e.g. sentiment analysis, spam classification).
 - [Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/). 
   - First half of the article describes RNNs, the anatomy of an LSTM cell, LSTM networks. Second half is a walkthrough of features in Keras for LSTM implementation using generators for data input. 
 - [Deep Learning for Natural Language Processing: Tutorials with Jupyter Notebooks](https://insights.untapt.com/deep-learning-for-natural-language-processing-tutorials-with-jupyter-notebooks-ad67f336ce3f). 
