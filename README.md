@@ -36,7 +36,7 @@ A curated list of resources for learning about natural language processing, text
 - [Mastering Natural Language Processing with Python](http://shop.oreilly.com/product/9781783989041.do)
 - [Natural Language Processing: Python and NLTK](http://shop.oreilly.com/product/9781787285101.do)
 - [Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning](http://shop.oreilly.com/product/0636920052555.do)
-- [Deep Learning with Text - Expected to be published on Feb 4, 2020](https://books.google.ca/books/about/Deep_Learning_with_Text.html?id=zoJ8swEACAAJ&source=kp_book_description&redir_esc=y)
+- [Deep Learning with Text](https://books.google.ca/books/about/Deep_Learning_with_Text.html?id=zoJ8swEACAAJ&source=kp_book_description&redir_esc=y)
 - [Applied Natural Language Processing With Python](https://link.springer.com/book/10.1007%2F978-1-4842-3733-5) 2018.
 
 #### General
