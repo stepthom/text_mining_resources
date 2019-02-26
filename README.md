@@ -225,7 +225,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [Emotion and Sentiment Analysis: A Practitioner’s Guide to NLP](https://www.kdnuggets.com/2018/08/emotion-sentiment-analysis-practitioners-guide-nlp-5.html)
 - [Sentiment analysis: 10 applications and 4 services](https://towardsdatascience.com/machine-learning-as-a-service-487e930265b2). June 2018.
 - [TWITTER SENTIMENT ANALYSIS USING COMBINED LSTM-CNN MODELS](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/)
-- [Breakthrough Research Papers and Models for Sentiment Analysis](https://blog.paralleldots.com/data-science/breakthrough-research-papers-and-models-for-sentiment-analysis/) Article contains different types of model for Sentiment Analysis.
+- [Breakthrough Research Papers and Models for Sentiment Analysis](https://blog.paralleldots.com/data-science/breakthrough-research-papers-and-models-for-sentiment-analysis/) Article contains different types of models for Sentiment Analysis.
 
 ### Text Summarization
 - [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
