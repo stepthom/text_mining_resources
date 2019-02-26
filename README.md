@@ -278,18 +278,18 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Udemy: NLP - Natural Language Processing with Python](https://www.udemy.com/nlp-natural-language-processing-with-python/)
 - [Udemy: Deep Learning: Advanced NLP and RNNs](https://www.udemy.com/deep-learning-advanced-nlp/)
 - [Udemy: Natural Language Processing and Text Mining Without Coding](https://www.udemy.com/master-natural-language-processing-nlp-text-mining-without-coding/)
-#### Standford
+#### Stanford
 - [Stanford CS 224N / Ling 284](http://web.stanford.edu/class/cs224n/)
   - Website: http://cs224d.stanford.edu/
   - Reddit: https://www.reddit.com/r/CS224d/comments/4n04ew/follow_along_with_cs224d_2015_or_2016/
-- [Lecture Collection | Natural Language PRocessing with Deep Learning (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+- [Lecture Collection | Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 #### Coursera
 - [Courses for "natural language processing" on Coursera](https://www.coursera.org/courses?query=natural%20language%20processing&)
 - [Coursera: Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining)
 - [Coursera: Nartual Language Processing](https://www.coursera.org/learn/language-processing)
 - [Coursera: Sequence Models for Time Series and Natural Language Processing](https://www.coursera.org/learn/sequence-models-tensorflow-gcp)
 - [Coursera: Coursera: Clinical Natural Language Processing](https://www.coursera.org/learn/clinical-natural-language-processing)
-#### Data Camp
+#### DataCamp
 - [DataCamp: Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)
 - [DataCamp: Sentiment Analysis in R: The Tidy Way](https://www.datacamp.com/courses/sentiment-analysis-in-r-the-tidy-way)
 - [DataCamp: Text Mining: Bag of Words](https://www.datacamp.com/courses/intro-to-text-mining-bag-of-words)
