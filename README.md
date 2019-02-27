@@ -305,6 +305,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - A 35-page academic literature review of DL in NLP (University of Colorado, July 2018). Detailed description of neural network architectures followed by a comprehensive set of applications.
 - [Sequence Classification with Human Attention](http://aclweb.org/anthology/K18-1030): Using human attention derived from eye-tracking corpora to regularize attention in recurrent neural networks (RNN). [Implementation code](https://github.com/coastalcph/Sequence_classification_with_human_attention).  
 - [Tutorial on Text Classification (NLP) using ULMFiT and fastai Library in Python](https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/)
+- [WHAT EVERY NLP ENGINEER NEEDS TO KNOW ABOUT PRE-TRAINED LANGUAGE MODELS](https://www.topbots.com/ai-nlp-research-pretrained-language-models). 2019.
 
 ### Knowledge Graphs
 
