@@ -60,7 +60,7 @@ A curated list of resources for learning about natural language processing, text
 - [Natural Language Processing: Python and NLTK](http://shop.oreilly.com/product/9781787285101.do)
 - [Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning](http://shop.oreilly.com/product/0636920052555.do)
 - [Deep Learning with Text](http://shop.oreilly.com/product/0636920076063.do)
-- [Applied Natural Language Processing With Python](https://link.springer.com/book/10.1007%2F978-1-4842-3733-5) 2018.
+- [Applied Natural Language Processing With Python (2018)](https://link.springer.com/book/10.1007%2F978-1-4842-3733-5) 
 
 #### General <a id="general-books"></a>
 - [Taming Text](https://www.manning.com/books/taming-text)
@@ -78,6 +78,7 @@ A curated list of resources for learning about natural language processing, text
 - [Neural Network Methods in Natural Language Processing](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037)
 - [Machine Learning for Text (2018)](https://www.springer.com/us/book/9783319735306)
 - [Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/pdf/1811.00196.pdf)
+- [Natural Language Processing in Spanish](https://iaarbook.github.io/procesamiento-del-lenguaje-natural/)
 
 ## Blogs
 - [Probably Approximately a Scientific Blog](http://veredshwartz.blogspot.com/)
@@ -130,7 +131,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Scraping
 - [Scraping HTML using Scrapy](https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/) Tutorial on using the Python module Scrapy for easy data extraction from messy HTML websites.
-- [Extract text from any document; no muss, no fuss.](https://datascopeanalytics.com/blog/extract-text-from-any-document-no-muss-no-fuss/). July 2014.
+- [Extract text from any document; no muss, no fuss.](https://datascopeanalytics.com/blog/extract-text-from-any-document-no-muss-no-fuss/) July 2014.
 - [Using Scrapy to Build your Own Dataset](https://medium.com/towards-data-science/using-scrapy-to-build-your-own-dataset-64ea2d7d4673) Sep 2017.
 
 ### Cleaning
@@ -529,12 +530,12 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [10 Exciting Ideas of 2018 in NLP](http://ruder.io/10-exciting-ideas-of-2018-in-nlp/)
 
 ## Other Curated Lists
-- [awesome-nlp](https://github.com/keonkim/awesome-nlp)
-- [Deep Learning for NLP resources](https://github.com/andrewt3000/dl4nlp)
+- [awesome-nlp](https://github.com/keonkim/awesome-nlp): A curated list of resources dedicated to Natural Language Processing (NLP)
+- [Deep Learning for NLP resources](https://github.com/andrewt3000/dl4nlp): State of the art resources for NLP sequence modeling tasks such as machine translation, image captioning, and dialog.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 - [Opinion Mining, Sentiment Analysis, and Opinion Spam Detection](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets)
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#cpp-nlp)
-- [Sentiment140](http://help.sentiment140.com)
+- [Sentiment140](http://help.sentiment140.com): Allows you to discover the sentiment of a brand, product, or topic on Twitter.
 - [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp)
 - [Paper with Code](https://paperswithcode.com/): A fantastic list of recent machine learning papers on ArXiv, with links to code.   
 
