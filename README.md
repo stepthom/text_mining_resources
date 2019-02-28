@@ -353,6 +353,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [DataCamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)
 
 #### Others
+- [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle) : Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP from this curated list of exciting lectures!
 - [Natural Language Processing | Dan Jurafsky, Christopher Manning](https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
 - [Deep Learning for NLP](https://github.com/oxford-cs-deepnlp-2017/lectures). DeepMind and University of Oxford Department of Computer Science.
 - [CMU CS 11-747: Neural Network for NLP](http://phontron.com/class/nn4nlp2017/)
@@ -544,7 +545,6 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [10 Exciting Ideas of 2018 in NLP](http://ruder.io/10-exciting-ideas-of-2018-in-nlp/)
 
 ## Other Curated Lists
-- [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle) : Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP from this curated list of exciting lectures!
 - [awesome-nlp](https://github.com/keonkim/awesome-nlp): A curated list of resources dedicated to Natural Language Processing (NLP)
 - [Deep Learning for NLP resources](https://github.com/andrewt3000/dl4nlp): State of the art resources for NLP sequence modeling tasks such as machine translation, image captioning, and dialog.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
