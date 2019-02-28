@@ -90,6 +90,8 @@ A curated list of resources for learning about natural language processing, text
 - [Salmon Run](http://sujitpal.blogspot.com/)
 - [Lekta Blog](https://lekta.ai/blog/)
 - [NLP News](http://newsletter.ruder.io/)
+- [NLP Blog](https://orizontal.wordpress.com/): NLP tutorials, Companies in the field, apps review
+- [Developing NLP Libraries](https://honnibal.wordpress.com/): Research and Development NLP libraries in Python
 
 ## Blog Articles, Papers, Case Studies
 
@@ -252,7 +254,8 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Ultimate Guide to Leveraging NLP & Machine Learning for your Chatbot](https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c). 2016.
 - [A Survey on Dialogue Systems: Recent Advances and New Frontiers](https://arxiv.org/pdf/1711.01731.pdf) Jan 2018.
 - [Examining the Impact of an Automated Translation Chatbot on Online Collaborative Dialog for Incidental L2 Learning](https://www.researchgate.net/publication/329525159_Examining_the_impact_of_an_automated_translation_chatbot_on_online_collaborative_dialog_for_incidental_L2_learning)
-- [Create a banking chatbot with FAQ discovery, anger detection and natural language understanding] (https://github.com/IBM/watson-banking-chatbot)
+- [Create a banking chatbot] (https://github.com/IBM/watson-banking-chatbot): Create a banking chatbot with FAQ discovery, anger detection and natural language understanding
+- [Simple Chatbot in Python(NLTK)]（https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e): Building a Simple Chatbot from Scratch in Python(using NLTK)
 
 
 ### Fuzzy Matching, Probabilistic Matching, Record Linkage, Etc. <a id="fuzzy-matching"></a>
@@ -433,6 +436,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [TextRazor API](https://www.textrazor.com/): Extract Meaning from your Text.
 - [fastText](https://github.com/facebookresearch/fastText). Library for fast text representation and classification. Facebook.
 - [Comparison of Top 6 Python NLP Libraries](https://www.kdnuggets.com/2018/07/comparison-top-6-python-nlp-libraries.html).
+- [Tensorflow](https://nbviewer.jupyter.org/github/roamanalytics/roamresearch/blob/master/BlogPosts/Modern_TensorFlow/modern-tensorflow.ipynb?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter): Good practices in Mordern Tensorflow for NLP
 
 ## Products
 - [Systran - Enterprise Translation Products](http://www.systransoft.com/translation-products/)
@@ -485,6 +489,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [RegexPal](https://www.regexpal.com/): Great tool for testing out regular expressions.
 - [AllenNLP Demo](https://demo.allennlp.org): Great demo using AllenNLP of everything from Named Entity Recognition to Textual Entailment.
 - [IBM NLP Demo](https://natural-language-understanding-demo.ng.bluemix.net): Examine a news article or other content from the link for NLP analysis using IBM NLP.
+- [diplaCy](https://github.com/explosion/displacy): displaCy Dependency Visualizer - An open-source NLP visualiser for the modern web
 
 ## Datasets
 
