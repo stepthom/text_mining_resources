@@ -99,7 +99,7 @@ A curated list of resources for learning about natural language processing, text
 - [A Tidytext Analysis of the Weinstein Effect](https://www.gokhanciflikli.com/post/weinstein-effect/) Dec 2013.
 - [Comparison of the Most Useful Text Processing APIs](https://www.kdnuggets.com/2018/08/comparison-most-useful-text-processing-apis.html)
 - [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
-- [Python Guide for dealing with Text Date](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
+- [Python Guide for dealing with Text Data](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
 ### Biases in NLP 
 - [Venturebeat Blogpost - Gender biases in datasets](https://venturebeat.com/2018/09/07/researchers-develop-a-method-that-reduces-gender-bias-in-ai-datasets/) - Based on UCLA research paper "Learning Gender Neutral Word Embeddings" Aug 2018 .
 
@@ -302,8 +302,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Udemy: NLP - Natural Language Processing with Python](https://www.udemy.com/nlp-natural-language-processing-with-python/)
 - [Udemy: Deep Learning: Advanced NLP and RNNs](https://www.udemy.com/deep-learning-advanced-nlp/)
 - [Udemy: Natural Language Processing and Text Mining Without Coding](https://www.udemy.com/master-natural-language-processing-nlp-text-mining-without-coding/)
-- [Standford NLP Lecture Series](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
-- [Python ML and AI Courses](https://pythonprogramming.net/)
+- [Stanford NLP Lecture Series](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
 ## APIs and Libraries
 - [R packages](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
@@ -462,7 +461,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 - [Deep Learning for NLP, advancements and trends in 2017](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_162)
 - [10 Exciting Ideas of 2018 in NLP](http://ruder.io/10-exciting-ideas-of-2018-in-nlp/)
-- [Repository of NLP Ressources](https://github.com/stepthom/text_mining_resources)
+
 
 ## Other Curated Lists
 - [awesome-nlp](https://github.com/keonkim/awesome-nlp)
