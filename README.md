@@ -307,6 +307,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Sequence Classification with Human Attention](http://aclweb.org/anthology/K18-1030): Using human attention derived from eye-tracking corpora to regularize attention in recurrent neural networks (RNN). [Implementation code](https://github.com/coastalcph/Sequence_classification_with_human_attention).  
 - [Tutorial on Text Classification (NLP) using ULMFiT and fastai Library in Python](https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/)
 - [WHAT EVERY NLP ENGINEER NEEDS TO KNOW ABOUT PRE-TRAINED LANGUAGE MODELS](https://www.topbots.com/ai-nlp-research-pretrained-language-models). 2019.
+- [Microsoft: Multi-Task Deep Neural Network (MT-DNN)](https://arxiv.org/pdf/1901.11504): Microsoft's improvement on Google's BERT with focus on natural language understanding. Code to be released. January 31, 2019.
+- [OpenAI: Better Language Models and Their Implications](https://blog.openai.com/better-language-models/): Pre-trained Transformer-based unsupervised language model that achieves state-of-the-art on many language benchmarks with focus on text generation. Controversial limited release. February 14, 2019. 
 
 ### Knowledge Graphs
 
@@ -542,6 +544,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [10 Exciting Ideas of 2018 in NLP](http://ruder.io/10-exciting-ideas-of-2018-in-nlp/)
 
 ## Other Curated Lists
+- [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle) : Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP from this curated list of exciting lectures!
 - [awesome-nlp](https://github.com/keonkim/awesome-nlp): A curated list of resources dedicated to Natural Language Processing (NLP)
 - [Deep Learning for NLP resources](https://github.com/andrewt3000/dl4nlp): State of the art resources for NLP sequence modeling tasks such as machine translation, image captioning, and dialog.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
