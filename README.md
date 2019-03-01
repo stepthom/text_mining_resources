@@ -536,6 +536,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Reasoning about Actions and State Changes by Injecting Commonsense Knowledge](http://aclweb.org/anthology/D18-1006) Incorporating global, commonsense constraints & biasing reading with preferences from large-scale corp
 - [Using Natural Language Processing for Automatic Detection of Plagiarism](https://pdfs.semanticscholar.org/636d/4c0b0fe6919abe6eb546907d28ed39bf56e6.pdf)
 - [Probabilistic Graphical Models: Lagrangian Relaxation Algorithms for Natural Language Processing](http://people.csail.mit.edu/dsontag/courses/pgm12/slides/lecture3.pdf)
+- [Human Emotion](https://www.youtube.com/watch?v=qwsft6tmvBA&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4) How to determine confidence level for manually labeled sentiment data?
 
 ## Meta
 - [Deep Learning for NLP, advancements and trends in 2017](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_162)
