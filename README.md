@@ -137,14 +137,21 @@ A curated list of resources for learning about natural language processing, text
 ### Cleaning
 - [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) Jan 2018. A step by step guide on data cleaning and exploration for successful NLP model building.
 
+### Stop Words
+- [Removing stop words with NLTK in Python](https://www.geeksforgeeks.org/removing-stop-words-nltk-python/)
+- [TEXT CLASSIFICATION FOR SENTIMENT ANALYSIS – STOPWORDS AND COLLOCATIONS](https://streamhacker.com/2010/05/24/text-classification-sentiment-analysis-stopwords-collocations/)
+
 ### Stemming
 - [Article: Text Stemming: Approaches, Applications, and Challenges](http://dl.acm.org/citation.cfm?id=2975608)
 - [What is the Difference Between Stemming and Lemmatization?](https://blog.bitext.com/what-is-the-difference-between-stemming-and-lemmatization/)
 - [Stemming and Lemmatization in Python](https://www.datacamp.com/community/tutorials/stemming-lemmatization-python)
+- [Sentiment Symposium Tutorial: Stemming](http://sentiment.christopherpotts.net/stemming.html)
 
 ### Dimensionality Reduction
 - [Taming Text with the SVD](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.395.4666&rep=rep1&type=pdf). SAS. Jan 2004.
 - [Dimensionality Reduction for Bag-of-Words Models: PCA vs LSA](http://cs229.stanford.edu/proj2017/final-reports/5163902.pdf) 
+- [An introduction to Bag of Words and how to code it in Python for NLP](https://medium.freecodecamp.org/an-introduction-to-bag-of-words-and-how-to-code-it-in-python-for-nlp-282e87a9da04) 
+- [Bag of Words and Tf-idf Explained](http://datameetsmedia.com/bag-of-words-tf-idf-explained/) 
 
 ### Sarcasm Detection
 - [Automatic Sarcasm Detection: A Survey](https://dl.acm.org/citation.cfm?id=3124420) ACM Computer Surveys, Sep 2017.
