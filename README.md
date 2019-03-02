@@ -546,7 +546,6 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [awesome-nlp](https://github.com/keonkim/awesome-nlp): A curated list of resources dedicated to Natural Language Processing (NLP)
 - [Deep Learning for NLP resources](https://github.com/andrewt3000/dl4nlp): State of the art resources for NLP sequence modeling tasks such as machine translation, image captioning, and dialog.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
-- [Opinion Mining, Sentiment Analysis, and Opinion Spam Detection](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets)
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#cpp-nlp)
 - [Sentiment140](http://help.sentiment140.com): Allows you to discover the sentiment of a brand, product, or topic on Twitter.
 - [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp)
