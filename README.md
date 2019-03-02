@@ -59,14 +59,13 @@ A curated list of resources for learning about natural language processing, text
 - [Mastering Natural Language Processing with Python](http://shop.oreilly.com/product/9781783989041.do)
 - [Natural Language Processing: Python and NLTK](http://shop.oreilly.com/product/9781787285101.do)
 - [Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning](http://shop.oreilly.com/product/0636920052555.do)
-- [Deep Learning with Text](http://shop.oreilly.com/product/0636920076063.do)
 - [Applied Natural Language Processing With Python (2018)](https://link.springer.com/book/10.1007%2F978-1-4842-3733-5) 
 
 #### General <a id="general-books"></a>
 - [Taming Text](https://www.manning.com/books/taming-text)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/)
-- [Language Processing with Perl and Prolog: Theories, Implementation, and Application (Cognitive Technologies)](https://www.amazon.com/Language-Processing-Perl-Prolog-Implementation/dp/364241463X/ref=redir_mobile_desktop?ie=UTF8&ref_=dp_ob_neva_mobile)
+- [Language Processing with Perl and Prolog: Theories, Implementation, and Application (Cognitive Technologies)](http://promethee.philo.ulg.ac.be/engdep1/download/bacIII/Nugues%20second%20ed.pdf)
 - [An introduction for information retrieval](http://nlp.stanford.edu/IR-book/)
 - [Handbook of Natural Language Processing](https://karczmarczuk.users.greyc.fr/TEACH/TAL/Doc/Handbook%20Of%20Natural%20Language%20Processing,%20Second%20Edition%20Chapman%20&%20Hall%20Crc%20Machine%20Learning%20&%20Pattern%20Recognition%202010.pdf)
 - [Practical Text Mining and Statistical Analysis for Non-structured Text Data Applications](http://store.elsevier.com/Practical-Text-Mining-and-Statistical-Analysis-for-Non-structured-Text-Data-Applications/Gary-Miner/isbn-9780123870117/)
@@ -128,6 +127,7 @@ A curated list of resources for learning about natural language processing, text
 - [Natural language based financial forecasting: a survey](https://sentic.net/natural-language-based-financial-forecasting.pdf)
 ### Biases in NLP 
 - [Venturebeat Blogpost - Gender biases in datasets](https://venturebeat.com/2018/09/07/researchers-develop-a-method-that-reduces-gender-bias-in-ai-datasets/) - Based on UCLA research paper "Learning Gender Neutral Word Embeddings" Aug 2018 .
+- [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520).
 
 ### Scraping
 - [Scraping HTML using Scrapy](https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/) Tutorial on using the Python module Scrapy for easy data extraction from messy HTML websites.
@@ -163,6 +163,7 @@ A curated list of resources for learning about natural language processing, text
 - [Multi-Class Text Classification with Scikit-Learn](https://www.kdnuggets.com/2018/08/multi-class-text-classification-scikit-learn.html)
 - [Machine Learning with Text in scikit-learn (PyCon 2016)](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10)
 - [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+- [Learning Document Embeddings by Predicting N-grams for Sentiment Classification of Long Movie Reviews](https://github.com/libofang/DV-ngram) - paper with code on Github
 
 ### Entity and Information Extraction
 
@@ -307,6 +308,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Sequence Classification with Human Attention](http://aclweb.org/anthology/K18-1030): Using human attention derived from eye-tracking corpora to regularize attention in recurrent neural networks (RNN). [Implementation code](https://github.com/coastalcph/Sequence_classification_with_human_attention).  
 - [Tutorial on Text Classification (NLP) using ULMFiT and fastai Library in Python](https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/)
 - [WHAT EVERY NLP ENGINEER NEEDS TO KNOW ABOUT PRE-TRAINED LANGUAGE MODELS](https://www.topbots.com/ai-nlp-research-pretrained-language-models). 2019.
+- [NEURAL READING COMPREHENSION AND BEYOND](https://cs.stanford.edu/~danqi/papers/thesis.pdf) December 2018 Stanford - Reading comprehension models built on top of deep neural networks.
 
 ### Knowledge Graphs
 
@@ -517,6 +519,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [MIMIC](https://mimic.physionet.org/gettingstarted/access/): an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~40,000 critical care patients.
 - [Clinical NLP Dataset Repository](https://clinical-nlp.github.io/2019/resources.html): A curated list of publicly-available clinical datasets for use in NLP research.  
 - [Million Song Lyrics](https://labrosa.ee.columbia.edu/millionsong/musixmatch)
+- [DuoRC](https://github.com/duorc/duorc/tree/master/dataset) – 186K unique question-answer pairs with evaluation script for Paraphrased Reading Comprehension
 
 
 ### Lexicons for Sentiment Analysis
