@@ -53,17 +53,17 @@ A curated list of resources for learning about natural language processing, text
 - [Text Mining in Practice with R](https://www.wiley.com/en-us/Text+Mining+in+Practice+with+R-p-9781119282013)
 
 #### Python
+- [NLTK Book](https://www.nltk.org/book/) This book provides a practical introduction to analyze text using python and NLP.
 - [Natural Language Processing with Python](http://www.nltk.org/book/)
 - [Natural Language Processing with PyTorch](http://shop.oreilly.com/product/0636920063445.do)
 - [Python Natural Language Processing](http://shop.oreilly.com/product/9781787121423.do)
 - [Mastering Natural Language Processing with Python](http://shop.oreilly.com/product/9781783989041.do)
 - [Natural Language Processing: Python and NLTK](http://shop.oreilly.com/product/9781787285101.do)
 - [Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning](http://shop.oreilly.com/product/0636920052555.do)
-- [Deep Learning with Text](http://shop.oreilly.com/product/0636920076063.do)
 - [Applied Natural Language Processing With Python](https://link.springer.com/book/10.1007%2F978-1-4842-3733-5) 2018.
 
 #### General <a id="general-books"></a>
-- [Taming Text](https://www.manning.com/books/taming-text)
+- [Taming Text](https://www.manning.com/books/taming-text)  A hands-on guide to learn innovative tools and techniques for finding, organizing, and manipulating unstructured text.
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/)
 - [Language Processing with Perl and Prolog: Theories, Implementation, and Application (Cognitive Technologies)](https://www.amazon.com/Language-Processing-Perl-Prolog-Implementation/dp/364241463X/ref=redir_mobile_desktop?ie=UTF8&ref_=dp_ob_neva_mobile)
@@ -93,6 +93,8 @@ A curated list of resources for learning about natural language processing, text
 ## Blog Articles, Papers, Case Studies
 
 ### General <a id="general-articles"></a>
+- [NLP in healthcare](https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/natural-language-processing-in-healthcare) An article by McKinsey & Company on how NLP can be used by healthcare payers and providers.
+- [AI Harvard Business Review](https://hbr.org/2018/07/ais-next-great-challenge-understanding-the-nuances-of-language) This article talks about the impact of improvement in NLP on human interaction with machines.
 - [WEF Live Campaign - Twitter fed Global News Topics & Sentiment Tracker](https://365.weflive.com/#!/r/worldwide/t/all-topics) - Live Jan 2019
 - [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com)
 - [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/definitive-guide-natural-language-processing/)
@@ -173,7 +175,7 @@ A curated list of resources for learning about natural language processing, text
 - [Text Clustering: Get quick insights from Unstructured Data](http://www.kdnuggets.com/2017/06/text-clustering-unstructured-data.html). July 2017.
 - [Document Clustering](http://cse.iitkgp.ac.in/~abhij/facad/03UG/Report/03CS3024_Pankaj_Jajoo.pdf). MSc Thesis.
 - [Document Clustering: A Detailed Review](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.401.8494&rep=rep1&type=pdf). Shah and Mahajan. IJAIS 2012.
-- [Document Clsutering with Python](https://github.com/harrywang/document_clustering) A GitHub repository that clusters IMDB movie descriptions. Based on [this original tutorial](http://brandonrose.org/clustering), whose GitHub repo is [here](https://github.com/brandomr/document_cluster). 
+- [Document clustering with Python](https://github.com/harrywang/document_clustering) A GitHub repository that clusters IMDB movie descriptions. Based on [this original tutorial](http://brandonrose.org/clustering), whose GitHub repo is [here](https://github.com/brandomr/document_cluster). 
 - [Text mining and sentiment analysis on video game user reviews using
 SAS® Enterprise Miner](http://analytics.ncsu.edu/sesug/2016/EPO-280_Final_PDF.pdf)
 - [Who wrote the anti-Trump New York Times op-ed? Using tidytext to find document similarity](http://varianceexplained.org/r/op-ed-text-analysis/)
@@ -252,7 +254,7 @@ using StockTwits Sentiment and Posting Volume](http://stocktwits.com/research/Pr
 - [Ultimate Guide to Leveraging NLP & Machine Learning for your Chatbot](https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c). 2016.
 - [A Survey on Dialogue Systems: Recent Advances and New Frontiers](https://arxiv.org/pdf/1711.01731.pdf) Jan 2018.
 - [Examining the Impact of an Automated Translation Chatbot on Online Collaborative Dialog for Incidental L2 Learning](https://www.researchgate.net/publication/329525159_Examining_the_impact_of_an_automated_translation_chatbot_on_online_collaborative_dialog_for_incidental_L2_learning)
-- [Create a banking chatbot with FAQ discovery, anger detection and natural language understanding] (https://github.com/IBM/watson-banking-chatbot)
+- [Create a banking chatbot with FAQ discovery, anger detection and natural language understanding](https://github.com/IBM/watson-banking-chatbot)
 
 
 ### Fuzzy Matching, Probabilistic Matching, Record Linkage, Etc. <a id="fuzzy-matching"></a>
@@ -356,6 +358,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Probabilistic Graphical Models:Lagrangian Relaxation Algorithms for Natural Language Processing](http://people.csail.mit.edu/dsontag/courses/pgm12/slides/lecture3.pdf)
 
 ## APIs and Libraries
+- [About spaCy](https://spacy.io/) spaCy is an NLP library used in Python for huge information extraction tasks.
 - [R packages](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
   - [tm](https://cran.r-project.org/web/packages/tm/index.html): Text Mining.
   - [lsa](https://cran.r-project.org/web/packages/lsa/index.html): Latent Semantic Analysis.
@@ -459,6 +462,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 
 ## Online Demos and Tools
+- [Stanford NLP Software](https://stanfordnlp.github.io/CoreNLP/) It provides a set of human languages technology tools for grammatical analysis and text analytics. 
 - [MIT OpenNPT for neural machine translation and neural sequence modeling](http://opennmt.net/)
 - [Stemming & Lemmatization with Python NLTK](https://text-processing.com/demo/stem/)
 - [Stanford Parser](http://nlp.stanford.edu:8080/parser/)
