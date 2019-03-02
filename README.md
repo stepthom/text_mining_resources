@@ -67,7 +67,7 @@ A curated list of resources for learning about natural language processing, text
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/)
 - [Language Processing with Perl and Prolog: Theories, Implementation, and Application (Cognitive Technologies)](https://www.amazon.com/Language-Processing-Perl-Prolog-Implementation/dp/364241463X/ref=redir_mobile_desktop?ie=UTF8&ref_=dp_ob_neva_mobile)
-- [An introduction for information retrieval](http://nlp.stanford.edu/IR-book/) ###Test
+- [An introduction for information retrieval](http://nlp.stanford.edu/IR-book/) 
 - [Handbook of Natural Language Processing](https://karczmarczuk.users.greyc.fr/TEACH/TAL/Doc/Handbook%20Of%20Natural%20Language%20Processing,%20Second%20Edition%20Chapman%20&%20Hall%20Crc%20Machine%20Learning%20&%20Pattern%20Recognition%202010.pdf)
 - [Practical Text Mining and Statistical Analysis for Non-structured Text Data Applications](http://store.elsevier.com/Practical-Text-Mining-and-Statistical-Analysis-for-Non-structured-Text-Data-Applications/Gary-Miner/isbn-9780123870117/)
 - [Fundamentals of Predictive Text Mining](http://www.springer.com/us/book/9781447125655#otherversion=9781849962254)
