@@ -96,7 +96,7 @@ A curated list of resources for learning about natural language processing, text
 ### General <a id="general-articles"></a>
 - [Natural Language Processing is Fun! How computers understand Human Language](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e). 2018.
 - [WEF Live Campaign - Twitter fed Global News Topics & Sentiment Tracker](https://365.weflive.com/#!/r/worldwide/t/all-topics) - Live Jan 2019
--[NLP — Building a Question Answering model](https://towardsdatascience.com/nlp-building-a-question-answering-model-ed0529a68c54). March 2018
+- [NLP — Building a Question Answering model](https://towardsdatascience.com/nlp-building-a-question-answering-model-ed0529a68c54). March 2018
 - [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com)
 - [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/definitive-guide-natural-language-processing/)
 - [From Natural Language to Calendar Entries, with Clojure](http://edeferia.blogspot.ca/2015/03/from-natural-language-to-calendar.html). March 2015. NLP, Clojure
@@ -365,11 +365,10 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Big Data University: Advanced Text Analytics – Getting Results with SystemT](https://bigdatauniversity.com/courses/adv-text-analytics-getting-results-with-systemt/)
 - [Udacity: Natural Language Processing Nanodegree](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
 - [University of Michigan: Natural Language Processing](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
--[Fast AI: Practical Deep Learning for Coders, v3](https://course.fast.ai/)
--[Cutting Edge Deep Learning For Coders](http://course18.fast.ai/part2.html)
--[Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
--[Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
--
+- [Fast AI: Practical Deep Learning for Coders, v3](https://course.fast.ai/)
+- [Cutting Edge Deep Learning For Coders](http://course18.fast.ai/part2.html)
+- [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
+- [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 
 
 ## APIs and Libraries
