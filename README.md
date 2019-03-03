@@ -433,6 +433,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [TextRazor API](https://www.textrazor.com/): Extract Meaning from your Text.
 - [fastText](https://github.com/facebookresearch/fastText). Library for fast text representation and classification. Facebook.
 - [Comparison of Top 6 Python NLP Libraries](https://www.kdnuggets.com/2018/07/comparison-top-6-python-nlp-libraries.html).
+- [TextBlob] (https://textblob.readthedocs.io/en.dev/): Python librarby for processing textual data. 
 
 ## Products
 - [Systran - Enterprise Translation Products](http://www.systransoft.com/translation-products/)
@@ -485,6 +486,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [RegexPal](https://www.regexpal.com/): Great tool for testing out regular expressions.
 - [AllenNLP Demo](https://demo.allennlp.org): Great demo using AllenNLP of everything from Named Entity Recognition to Textual Entailment.
 - [IBM NLP Demo](https://natural-language-understanding-demo.ng.bluemix.net): Examine a news article or other content from the link for NLP analysis using IBM NLP.
+- [Sentiment Anlaysis on Cryptocurrency news] (https://blog.cryptocompare.com/sentiment-analysis-on-cryptocurrency-news-d28923b356be): Jupyter notebook and demo uasing VADER for sentiment analysis.
 
 ## Datasets
 
@@ -536,6 +538,9 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Reasoning about Actions and State Changes by Injecting Commonsense Knowledge](http://aclweb.org/anthology/D18-1006) Incorporating global, commonsense constraints & biasing reading with preferences from large-scale corp
 - [Using Natural Language Processing for Automatic Detection of Plagiarism](https://pdfs.semanticscholar.org/636d/4c0b0fe6919abe6eb546907d28ed39bf56e6.pdf)
 - [Probabilistic Graphical Models: Lagrangian Relaxation Algorithms for Natural Language Processing](http://people.csail.mit.edu/dsontag/courses/pgm12/slides/lecture3.pdf)
+- [What Drives Cryptocurrency Prices? An Investigation ofGoogle Trends and Telegram Sentiment] (https://dl.acm.org/citation.cfm?id=3308955)
+- [Crypto Trading Bot - Sentiment Analysis Bot with TextBlob and Python] (https://medium.com/@BlockchainEng/crypto-trading-bot-sentiment-analysis-bot-bfbd8dd1df5a) 
+- [Algorithmic Trading using Sentiment Analysis and Reinforcement Learning] (http://cs229.stanford.edu/proj2017/final-reports/5222284.pdf)
 
 ## Meta
 - [Deep Learning for NLP, advancements and trends in 2017](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_162)
