@@ -63,7 +63,7 @@ A curated list of resources for learning about natural language processing, text
 - [Applied Natural Language Processing With Python (2018)](https://link.springer.com/book/10.1007%2F978-1-4842-3733-5) 
 
 #### General <a id="general-books"></a>
-- [Taming Text](https://www.manning.com/books/taming-text)
+- [Taming Text: How to Find, Organize, and Manipulate It](https://www.manning.com/books/taming-text)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/)
 - [Language Processing with Perl and Prolog: Theories, Implementation, and Application (Cognitive Technologies)](https://www.amazon.com/Language-Processing-Perl-Prolog-Implementation/dp/364241463X/ref=redir_mobile_desktop?ie=UTF8&ref_=dp_ob_neva_mobile)
@@ -104,7 +104,7 @@ A curated list of resources for learning about natural language processing, text
 - [Quora: How do I learn Natural Language Processing?](https://www.quora.com/How-do-I-learn-Natural-Language-Processing)
 - [Quora Topic: Natural Language Processing](https://www.quora.com/topic/Natural-Language-Processing)
 - [The Definitive Guide to Natural Language Processing](https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/) October 2015.
-- [Futures of text](http://whoo.ps/2015/02/23/futures-of-text) Feb 2015.
+- [Futures of text](http://whoo.ps/2015/02/23/futures-of-text) Feb 2015. A survey of all the current innovation in text as a medium.
 - [R or Python on Text Mining](https://datawarrior.wordpress.com/2015/08/12/codienerd-1-r-or-python-on-text-mining/) Aug 2015.
 - [Where to start in Text Mining](https://tedunderwood.com/2012/08/14/where-to-start-with-text-mining/) Aug 2012.
 - [Text Mining in R and Python: 8 Tips To Get Started](https://www.r-bloggers.com/text-mining-in-r-and-python-8-tips-to-get-started/). Oct 2016
@@ -140,7 +140,7 @@ A curated list of resources for learning about natural language processing, text
 ### Stemming
 - [Article: Text Stemming: Approaches, Applications, and Challenges](http://dl.acm.org/citation.cfm?id=2975608)
 - [What is the Difference Between Stemming and Lemmatization?](https://blog.bitext.com/what-is-the-difference-between-stemming-and-lemmatization/)
-- [Stemming and Lemmatization in Python](https://www.datacamp.com/community/tutorials/stemming-lemmatization-python)
+- [Stemming and Lemmatization in Python](https://www.datacamp.com/community/tutorials/stemming-lemmatization-python) Introduction and applications of Stemming and Lemmatization using NLTK package.
 
 ### Dimensionality Reduction
 - [Taming Text with the SVD](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.395.4666&rep=rep1&type=pdf). SAS. Jan 2004.
@@ -162,7 +162,6 @@ A curated list of resources for learning about natural language processing, text
 - [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
 - [Multi-Class Text Classification with Scikit-Learn](https://www.kdnuggets.com/2018/08/multi-class-text-classification-scikit-learn.html)
 - [Machine Learning with Text in scikit-learn (PyCon 2016)](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10)
-- [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 
 ### Entity and Information Extraction
 
@@ -516,7 +515,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [SWAG](https://github.com/rowanz/swagaf): A large-scale dataset created for Natural Language Inference (NLI) with common-sense reasoning.
 - [MIMIC](https://mimic.physionet.org/gettingstarted/access/): an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~40,000 critical care patients.
 - [Clinical NLP Dataset Repository](https://clinical-nlp.github.io/2019/resources.html): A curated list of publicly-available clinical datasets for use in NLP research.  
-- [Million Song Lyrics](https://labrosa.ee.columbia.edu/millionsong/musixmatch)
+- [Million Song Lyrics](https://labrosa.ee.columbia.edu/millionsong/musixmatch): Dataset of song lyrics in Bag-Of-Words (BOW) format.
 
 
 ### Lexicons for Sentiment Analysis
