@@ -228,8 +228,8 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [TWITTER SENTIMENT ANALYSIS USING COMBINED LSTM-CNN MODELS](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/)
 - [Breakthrough Research Papers and Models for Sentiment Analysis](https://blog.paralleldots.com/data-science/breakthrough-research-papers-and-models-for-sentiment-analysis/) Article contains different types of models for Sentiment Analysis.
 - [Twitter Sentiment Analysis in Python using TextBlob](https://medium.freecodecamp.org/how-to-build-a-twitter-sentiments-analyzer-in-python-using-textblob-948e1e8aae14). Oct 2018
--[Sentiment analysis, Concept analysis and Applicaitons](https://towardsdatascience.com/sentiment-analysis-concept-analysis-and-applications-6c94d6f58c17). Jan 2018
--[ASPECT BASED SENTIMENT ANALYSIS OF AMAZON PRODUCT REVIEWS](https://www.researchgate.net/publication/325843745_ASPECT_BASED_SENTIMENT_ANALYSIS_OF_AMAZON_PRODUCT_REVIEWS). Jun 2018
+- [Sentiment analysis, Concept analysis and Applicaitons](https://towardsdatascience.com/sentiment-analysis-concept-analysis-and-applications-6c94d6f58c17). Jan 2018
+- [ASPECT BASED SENTIMENT ANALYSIS OF AMAZON PRODUCT REVIEWS](https://www.researchgate.net/publication/325843745_ASPECT_BASED_SENTIMENT_ANALYSIS_OF_AMAZON_PRODUCT_REVIEWS). Jun 2018
 
 ### Text Summarization
 - [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
