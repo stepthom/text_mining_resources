@@ -420,11 +420,11 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/): a suite of core NLP tools
   - Also checkout http://corenlp.run for a hosted version of the CoreNLP server.
   - [Introduction to StanfordNLP: An Incredible State-of-the-Art NLP Library for 53 Languages (with Python code)](https://www.analyticsvidhya.com/blog/2019/02/stanfordnlp-nlp-library-python/)
-- [Stanford Parser](http://nlp.stanford.edu/software/lex-parser.html)
-- [Stanford POS Tagger](http://nlp.stanford.edu/software/tagger.html)
-- [Stanford Named Entity Recognizer](http://nlp.stanford.edu/software/CRF-NER.html)
-- [Stanford Classifier](http://nlp.stanford.edu/software/classifier.html)
-- [Stanford OpenIE](http://nlp.stanford.edu/software/openie.html)
+- [Stanford Parser](http://nlp.stanford.edu/software/lex-parser.html): Java implementations of probabilistic natural language parsers.
+- [Stanford POS Tagger](http://nlp.stanford.edu/software/tagger.html): Software the reads text in supported languages and assigns parts of speech to different words.
+- [Stanford Named Entity Recognizer](http://nlp.stanford.edu/software/CRF-NER.html): A Java implementation of a tool that recognizes proper nouns (things, places, organizations) and labels them as such.
+- [Stanford Classifier](http://nlp.stanford.edu/software/classifier.html): A Java implementation of a softmax classifier
+- [Stanford OpenIE](http://nlp.stanford.edu/software/openie.html): Extracts relationships between words in a sentence (e.g. Mark Zuckerberg; founded; Facebook).
 - [Stanford Topic Modeling Toolbox](http://nlp.stanford.edu/software/tmt/tmt-0.2/)
 - [MALLET](http://mallet.cs.umass.edu/): MAchine Learning for LanguagE Toolkit
   - Github: https://github.com/mimno/Mallet
@@ -517,8 +517,6 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [MIMIC](https://mimic.physionet.org/gettingstarted/access/): an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~40,000 critical care patients.
 - [Clinical NLP Dataset Repository](https://clinical-nlp.github.io/2019/resources.html): A curated list of publicly-available clinical datasets for use in NLP research.  
 - [Million Song Lyrics](https://labrosa.ee.columbia.edu/millionsong/musixmatch)
-- [Seattle Open Data](https://data.seattle.gov/): Datasets released by the city of Seattle including transportation, education, and finance data. 
-
 
 ### Lexicons for Sentiment Analysis
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
