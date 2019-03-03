@@ -280,7 +280,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Word Embeddings, Bias in ML, Why You Don't Like Math, & Why AI Needs You](https://www.youtube.com/watch?v=25nC0n9ERq4) 2017. Rachel Thomas (fastai)
 - [Word Vectors in Natural Language Processing: Global Vectors (GloVe)](https://www.kdnuggets.com/2018/08/word-vectors-nlp-glove.html). Aug 2018.
 - [Doc2Vec Tutorial on the Lee Dataset](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb)
-- [Word Embeddings in Python with Spacy and Gensim](https://www.shanelynn.ie/word-embeddings-in-python-with-spacy-and-gensim/)
+- [Word Embeddings in Python with SpaCy and Gensim](https://www.shanelynn.ie/word-embeddings-in-python-with-spaCy-and-gensim/)
 - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/). Dec 2018.
 - [Deep Contextualized Word Represenations](https://arxiv.org/abs/1802.05365). ElMo. [PyTorch implmentation](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md). [TF Implementation](https://github.com/allenai/bilm-tf)
 - [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146). [Implementation code](http://nlp.fast.ai/category/classification.html). 
@@ -470,7 +470,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [pdftabextract: A set of tools for extracting tables from PDF files helping to do data mining on (OCR-processed) scanned documents.](https://github.com/WZBSocialScienceCenter/pdftabextract)
 - [SO: How to extract text from a PDF?](http://stackoverflow.com/questions/3650957/how-to-extract-text-from-a-pdf)
 - [Tools for Extracting Data and Text from PDFs - A Review](http://okfnlabs.org/blog/2016/04/19/pdf-tools-extract-text-and-data-from-pdfs.html)
-- [How I used NLP (Spacy) to screen Data Science Resumes](https://towardsdatascience.com/do-the-keywords-in-your-resume-aptly-represent-what-type-of-data-scientist-you-are-59134105ba0d)
+- [How I used NLP (SpaCy) to screen Data Science Resumes](https://towardsdatascience.com/do-the-keywords-in-your-resume-aptly-represent-what-type-of-data-scientist-you-are-59134105ba0d)
  - [PyPDF2](https://github.com/mstamy2/PyPDF2): PDF file manipulation (PDF to PDF).
 
 
