@@ -103,7 +103,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Biases in NLP 
 - [Venturebeat Blogpost - Gender biases in datasets](https://venturebeat.com/2018/09/07/researchers-develop-a-method-that-reduces-gender-bias-in-ai-datasets/) - Based on UCLA research paper "Learning Gender Neutral Word Embeddings" Aug 2018 .
-- [Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems, 2018](http://aclweb.org/anthology/S18-2005)
+- [Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems](http://aclweb.org/anthology/S18-2005). 2018
 
 ### Scraping
 - [https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/](https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/)
