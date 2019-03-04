@@ -201,7 +201,7 @@ SAS® Enterprise Miner](http://analytics.ncsu.edu/sesug/2016/EPO-280_Final_PDF.p
 - [Donald Trump vs Hillary Clinton: sentiment analysis on Twitter mentions](https://blog.monkeylearn.com/donald-trump-vs-hillary-clinton-sentiment-analysis-twitter-mentions/)
 - [Does sentiment analysis work? A tidy analysis of Yelp reviews](http://varianceexplained.org/r/yelp-sentiment/)
 - [CACM: Techniques and Applications for Sentiment Analysis](http://cacm.acm.org/magazines/2013/4/162501-techniques-and-applications-for-sentiment-analysis/abstract)
-- [Twitter mood predicts the stock market](https://arxiv.org/abs/1010.3003)
+- [Twitter mood predicts the stock market](https://arxiv.org/abs/1010.3003). Oct 2010.
 - [A nonlinear impact: evidences of causal effects of social
 media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Stock Sentiment Data: Measuring the Mood of the Market](https://blog.quandl.com/stock-sentiment-data)
