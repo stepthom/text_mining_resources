@@ -485,6 +485,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [RegexPal](https://www.regexpal.com/): Great tool for testing out regular expressions.
 - [AllenNLP Demo](https://demo.allennlp.org): Great demo using AllenNLP of everything from Named Entity Recognition to Textual Entailment.
 - [IBM NLP Demo](https://natural-language-understanding-demo.ng.bluemix.net): Examine a news article or other content from the link for NLP analysis using IBM NLP.
+-[Streaming Analytics Tutorial on Azure](https://docs.microsoft.com/en-ca/azure/azure-databricks/databricks-sentiment-analysis-cognitive-services?toc=%2Fen-ca%2Fazure%2Fcognitive-services%2Ftext-analytics%2Ftoc.json&bc=%2Fen-ca%2Fazure%2Fbread%2Ftoc.json)
+-[How to Analyze sentiment in Azure](https://docs.microsoft.com/en-ca/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis)
 
 ## Datasets
 
@@ -550,6 +552,12 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Sentiment140](http://help.sentiment140.com): Allows you to discover the sentiment of a brand, product, or topic on Twitter.
 - [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp)
 - [Paper with Code](https://paperswithcode.com/): A fantastic list of recent machine learning papers on ArXiv, with links to code.   
+
+## Cloud Tools
+- [Microsoft Azure Text Analytics](https://docs.microsoft.com/en-ca/azure/cognitive-services/text-analytics/overview) - Link to complete documentation on text analytics in Azure.
+- [AWS NLP](https://aws.amazon.com/comprehend/) - Link to Amazon Comprehend
+- [Google - Cloud Natural Language] (https://cloud.google.com/natural-language/) - Link to Google Cloud Natural Language Portal
+
 
 # Contribute
 
