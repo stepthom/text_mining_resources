@@ -556,7 +556,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 ## Cloud Tools
 - [Microsoft Azure Text Analytics](https://docs.microsoft.com/en-ca/azure/cognitive-services/text-analytics/overview) - Link to complete documentation on text analytics in Azure.
 - [AWS NLP](https://aws.amazon.com/comprehend/) - Link to Amazon Comprehend
-- [Google - Cloud Natural Language] (https://cloud.google.com/natural-language/) - Link to Google Cloud Natural Language Portal
+- [Google - Cloud Natural Language](https://cloud.google.com/natural-language/) - Link to Google Cloud Natural Language Portal
 
 
 # Contribute
