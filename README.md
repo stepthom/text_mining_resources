@@ -197,7 +197,7 @@ SAS® Enterprise Miner](http://analytics.ncsu.edu/sesug/2016/EPO-280_Final_PDF.p
 - [Donald Trump vs Hillary Clinton: sentiment analysis on Twitter mentions](https://blog.monkeylearn.com/donald-trump-vs-hillary-clinton-sentiment-analysis-twitter-mentions/)
 - [Does sentiment analysis work? A tidy analysis of Yelp reviews](http://varianceexplained.org/r/yelp-sentiment/)
 - [CACM: Techniques and Applications for Sentiment Analysis](http://cacm.acm.org/magazines/2013/4/162501-techniques-and-applications-for-sentiment-analysis/abstract)
-- [Twitter mood predicts the stock market](https://arxiv.org/abs/1010.3003)
+- [Twitter mood predicts the stock market](https://arxiv.org/abs/1010.3003). Oct 2010.
 - [A nonlinear impact: evidences of causal effects of social
 media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Stock Sentiment Data: Measuring the Mood of the Market](https://blog.quandl.com/stock-sentiment-data)
@@ -206,7 +206,7 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Sentdex: Quantifying the Qualitative](http://sentdex.com/financial-analysis/)
 - [Leveraging international market sentiment for trading strategies](https://www.repustate.com/finance-sentiment-analysis-and-text-analytics/)
 - [From tweets to polls: Linking text sentiment to public opinion time series](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/viewFile/1536/1842)
-- [Lexicon-Based Methods for Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf) Uses SO-CAL (Semantic Orientation - CALculator, a measure of subjectivity and opinion for sentimental analysis
+- [Lexicon-Based Methods for Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf) Uses SO-CAL (Semantic Orientation CALculator), a measure of subjectivity and opinion for sentimental analysis.
 - [On the negativity of negation](http://web.stanford.edu/~cgpotts/papers/potts-salt20-negation.pdf)
 - [Blog Post: That Sentimental Feeling](http://www.matthewjockers.net/2015/12/20/that-sentimental-feeling/)
   - [Update: More Syuzhet Validation](http://www.matthewjockers.net/2016/08/11/more-syuzhet-validation/)
