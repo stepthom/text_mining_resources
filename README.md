@@ -485,8 +485,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [RegexPal](https://www.regexpal.com/): Great tool for testing out regular expressions.
 - [AllenNLP Demo](https://demo.allennlp.org): Great demo using AllenNLP of everything from Named Entity Recognition to Textual Entailment.
 - [IBM NLP Demo](https://natural-language-understanding-demo.ng.bluemix.net): Examine a news article or other content from the link for NLP analysis using IBM NLP.
--[Streaming Analytics Tutorial on Azure](https://docs.microsoft.com/en-ca/azure/azure-databricks/databricks-sentiment-analysis-cognitive-services?toc=%2Fen-ca%2Fazure%2Fcognitive-services%2Ftext-analytics%2Ftoc.json&bc=%2Fen-ca%2Fazure%2Fbread%2Ftoc.json)
--[How to Analyze sentiment in Azure](https://docs.microsoft.com/en-ca/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis)
+- [Streaming Analytics Tutorial on Azure](https://docs.microsoft.com/en-ca/azure/azure-databricks/databricks-sentiment-analysis-cognitive-services?toc=%2Fen-ca%2Fazure%2Fcognitive-services%2Ftext-analytics%2Ftoc.json&bc=%2Fen-ca%2Fazure%2Fbread%2Ftoc.json).
+- [How to Analyze sentiment in Azure](https://docs.microsoft.com/en-ca/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis).
 
 ## Datasets
 
