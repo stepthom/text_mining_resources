@@ -136,6 +136,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Cleaning
 - [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) Jan 2018. A step by step guide on data cleaning and exploration for successful NLP model building.
+- [Feature Extraction, Basic Pre-processing, and Advanced Processing](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
 
 ### Stemming
 - [Article: Text Stemming: Approaches, Applications, and Challenges](http://dl.acm.org/citation.cfm?id=2975608)
@@ -163,6 +164,7 @@ A curated list of resources for learning about natural language processing, text
 - [Multi-Class Text Classification with Scikit-Learn](https://www.kdnuggets.com/2018/08/multi-class-text-classification-scikit-learn.html)
 - [Machine Learning with Text in scikit-learn (PyCon 2016)](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10)
 - [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+- [Text Classification in Python with scikit-learn and nltk](https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a)
 
 ### Entity and Information Extraction
 
