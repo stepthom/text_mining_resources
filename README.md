@@ -61,6 +61,7 @@ A curated list of resources for learning about natural language processing, text
 - [Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning](http://shop.oreilly.com/product/0636920052555.do)
 - [Deep Learning with Text](http://shop.oreilly.com/product/0636920076063.do)
 - [Applied Natural Language Processing With Python (2018)](https://link.springer.com/book/10.1007%2F978-1-4842-3733-5) 
+- [
 
 #### General <a id="general-books"></a>
 - [Taming Text](https://www.manning.com/books/taming-text)
@@ -136,6 +137,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Cleaning
 - [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) Jan 2018. A step by step guide on data cleaning and exploration for successful NLP model building.
+- [How to Clean Text for Machine Learning with Python](https://machinelearningmastery.com/clean-text-machine-learning-python/) October 2017. Step-by-step guide of text data pre-processing. 
 
 ### Stemming
 - [Article: Text Stemming: Approaches, Applications, and Challenges](http://dl.acm.org/citation.cfm?id=2975608)
@@ -163,11 +165,13 @@ A curated list of resources for learning about natural language processing, text
 - [Multi-Class Text Classification with Scikit-Learn](https://www.kdnuggets.com/2018/08/multi-class-text-classification-scikit-learn.html)
 - [Machine Learning with Text in scikit-learn (PyCon 2016)](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10)
 - [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+- [Introducing state of the art text classification with universal language models](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html) May 2018. Introduces a groundbreaking transfer learning method for document classification!
 
 ### Entity and Information Extraction
 
 - [Entity Extraction and Network Analysis](http://brandonrose.org/ner2sna). Python, `StanfordCoreNLP`
 - [NLP Techniques for Extracting Information](https://www.searchtechnologies.com/blog/natural-language-processing-techniques)
+- [Natural Language Processing for Information Extraction](https://arxiv.org/abs/1807.02383)
 
 ### Document Clustering and Document Similarity
 
@@ -227,7 +231,7 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Sentiment analysis: 10 applications and 4 services](https://towardsdatascience.com/machine-learning-as-a-service-487e930265b2). June 2018.
 - [TWITTER SENTIMENT ANALYSIS USING COMBINED LSTM-CNN MODELS](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/)
 - [Breakthrough Research Papers and Models for Sentiment Analysis](https://blog.paralleldots.com/data-science/breakthrough-research-papers-and-models-for-sentiment-analysis/) Article contains different types of models for Sentiment Analysis.
-- [Twitter Sentiment Analysis Overview] (https://www.youtube.com/watch?v=o_OZdbCzHUA&t=235s) Video provides an overview on sentiment analysis, and contains a step-by-step walktrhough on how perform sentiment analysis usinga popular Python package, TextBlob!
+- [Twitter Sentiment Analysis Overview](https://www.youtube.com/watch?v=o_OZdbCzHUA&t=235s) October 2016. Overview of sentiment analysis, and a step-by-step walkthrough on how to perform sentiment analysis using TextBlob!
 
 ### Text Summarization
 - [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
@@ -518,6 +522,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [MIMIC](https://mimic.physionet.org/gettingstarted/access/): an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~40,000 critical care patients.
 - [Clinical NLP Dataset Repository](https://clinical-nlp.github.io/2019/resources.html): A curated list of publicly-available clinical datasets for use in NLP research.  
 - [Million Song Lyrics](https://labrosa.ee.columbia.edu/millionsong/musixmatch)
+- [Twitter US Airline Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment/home)
 
 
 ### Lexicons for Sentiment Analysis
