@@ -308,6 +308,16 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Tutorial on Text Classification (NLP) using ULMFiT and fastai Library in Python](https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/)
 - [WHAT EVERY NLP ENGINEER NEEDS TO KNOW ABOUT PRE-TRAINED LANGUAGE MODELS](https://www.topbots.com/ai-nlp-research-pretrained-language-models). 2019.
 
+### Deep Learning - Capsule Networks
+- [Investigating Capsule Networks with Dynamic Routing for Text Classification](https://arxiv.org/pdf/1804.00538.pdf). 2018.
+- [Attention-Based Capsule Networks with Dynamic Routing for Relation Extraction](http://aclweb.org/anthology/D18-1120). 2018. 
+- [TWITTER SENTIMENT ANALYSIS USING CAPSULE NETS AND GRU](https://wwjournals.com/index.php/ijsr/article/view/13386). 2018. 
+- [Identifying Aggression and Toxicity in Comments using Capsule Network](http://aclweb.org/anthology/W18-4412). 2018. 
+  - It is early days for Capsule Networks, which was introduced by Geoffrey Hinton, et al., in 2017 as an attempt to introduce an NN architecture superior to the classical CNNs. The idea aims to capture hierarchincal relationships in the input layer through dynamic routing between "capsules" of neurons. Due likely to the affinitity of the theme of addressing hierarchical complexities, the idea's extention to the NLP field has since been a sujbect of active research, such as in the papers listed above.
+- [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf). 2017. 
+- [MATRIX CAPSULES WITH EM ROUTING](https://openreview.net/pdf?id=HJWLfGWRb). 2018. 
+  - Links to the two initial papers by Geooffrey Hinton and his team.
+
 ### Knowledge Graphs
 
 - [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
