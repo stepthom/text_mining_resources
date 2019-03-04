@@ -163,6 +163,7 @@ A curated list of resources for learning about natural language processing, text
 - [Multi-Class Text Classification with Scikit-Learn](https://www.kdnuggets.com/2018/08/multi-class-text-classification-scikit-learn.html)
 - [Machine Learning with Text in scikit-learn (PyCon 2016)](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10)
 - [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+- [Ultimate guide to deal with Text Data (using Python) – for Data Scientists & Engineers](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python)
 
 ### Entity and Information Extraction
 
@@ -227,7 +228,10 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Sentiment analysis: 10 applications and 4 services](https://towardsdatascience.com/machine-learning-as-a-service-487e930265b2). June 2018.
 - [TWITTER SENTIMENT ANALYSIS USING COMBINED LSTM-CNN MODELS](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/)
 - [Breakthrough Research Papers and Models for Sentiment Analysis](https://blog.paralleldots.com/data-science/breakthrough-research-papers-and-models-for-sentiment-analysis/) Article contains different types of models for Sentiment Analysis.
-
+- [VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf) Paper that outlines using VADER for Sentiment Analysis
+- [A comparison of Lexicon-based approaches for Sentiment Analysis of microblog posts](http://ceur-ws.org/Vol-1314/paper-06.pdf) A paper that compares different lexicon approaches
+- [Emotion and Sentiment Analysis: A Practitioner’s Guide to NLP](https://www.kdnuggets.com/2018/08/emotion-sentiment-analysis-practitioners-guide-nlp-5.html)
+- [how-to-perform-sentiment-analysis-using-python-tutorial/](https://hub.packtpub.com/how-to-perform-sentiment-analysis-using-python-tutorial/)
 ### Text Summarization
 - [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
 - [Unsupervised Text Summarization using Sentence Embeddings](https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1)
