@@ -61,7 +61,6 @@ A curated list of resources for learning about natural language processing, text
 - [Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning](http://shop.oreilly.com/product/0636920052555.do)
 - [Deep Learning with Text](http://shop.oreilly.com/product/0636920076063.do)
 - [Applied Natural Language Processing With Python (2018)](https://link.springer.com/book/10.1007%2F978-1-4842-3733-5) 
-- [
 
 #### General <a id="general-books"></a>
 - [Taming Text](https://www.manning.com/books/taming-text)
