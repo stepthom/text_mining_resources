@@ -126,6 +126,7 @@ A curated list of resources for learning about natural language processing, text
 - [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 - [Crowdsourcing Ground Truth for Medical Relation Extraction](https://dl.acm.org/citation.cfm?id=3152889)
 - [Natural language based financial forecasting: a survey](https://sentic.net/natural-language-based-financial-forecasting.pdf)
+- [Natural Language Processing(NLP) for Machine Learning](https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b). Includes basic easy to understand preprocessing and compares a few ML classificaiotn models in Python.
 ### Biases in NLP 
 - [Venturebeat Blogpost - Gender biases in datasets](https://venturebeat.com/2018/09/07/researchers-develop-a-method-that-reduces-gender-bias-in-ai-datasets/) - Based on UCLA research paper "Learning Gender Neutral Word Embeddings" Aug 2018 .
 
