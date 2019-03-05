@@ -454,7 +454,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Lexalytics Sematria](https://www.lexalytics.com/): API and Excel plugin.
 - [Rosette Text Analytics](https://www.rosette.com/): AI for Human Language
 - [Google's Natural Language API](https://cloud.google.com/natural-language): Derive insights from unstructured text using Google machine learning
-- [Alchemy API](http://www.alchemyapi.com/)
+- [Alchemy API](https://www.ibm.com/watson/alchemy-api.html)
 - [Monkey Learn](http://monkeylearn.com/)
 - [LightTag Annotation Tool](https://lighttag.io). Hosted annotation tool for teams. 
 - [Anafora](https://github.com/weitechen/anafora): Free and open source web-based raw text annotation tool
