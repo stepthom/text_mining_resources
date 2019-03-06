@@ -84,7 +84,7 @@ A curated list of resources for learning about natural language processing, text
 - [Probably Approximately a Scientific Blog](http://veredshwartz.blogspot.com/)
 - [Sebastian Ruder](http://ruder.io/)
 - [NLP-progress](https://nlpprogress.com/)
-- [natural language processing blog](https://nlpers.blogspot.com/)
+- [Natural Language Processing Blog](https://nlpers.blogspot.com/)
 - [Text Mining, Analytics & More](http://text-analytics101.rxnlp.com/)
 - [FriendlyData blog](https://friendlydata.io/blog)
 - [Salmon Run](http://sujitpal.blogspot.com/)
@@ -104,7 +104,7 @@ A curated list of resources for learning about natural language processing, text
 - [Quora: How do I learn Natural Language Processing?](https://www.quora.com/How-do-I-learn-Natural-Language-Processing)
 - [Quora Topic: Natural Language Processing](https://www.quora.com/topic/Natural-Language-Processing)
 - [The Definitive Guide to Natural Language Processing](https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/) October 2015.
-- [Futures of text](http://whoo.ps/2015/02/23/futures-of-text) Feb 2015.
+- [Futures of text](http://whoo.ps/2015/02/23/futures-of-text) Feb 2015 - List of application examples for messaging AI.
 - [R or Python on Text Mining](https://datawarrior.wordpress.com/2015/08/12/codienerd-1-r-or-python-on-text-mining/) Aug 2015.
 - [Where to start in Text Mining](https://tedunderwood.com/2012/08/14/where-to-start-with-text-mining/) Aug 2012.
 - [Text Mining in R and Python: 8 Tips To Get Started](https://www.r-bloggers.com/text-mining-in-r-and-python-8-tips-to-get-started/). Oct 2016
@@ -113,7 +113,7 @@ A curated list of resources for learning about natural language processing, text
 - [Why Text Mining May Be The Next Big Thing](http://business.time.com/2012/03/20/why-text-mining-may-be-the-next-big-thing/). March 2012.
 - [SAS CEO offers analytics over BI, reveals use cases for text analytics](http://www.computerweekly.com/news/2240037240/SAS-CEO-offers-analytics-over-BI-reveals-use-cases-for-text-analytics) June 2011.
 - [Value and benefits of text mining](https://www.jisc.ac.uk/reports/value-and-benefits-of-text-mining). Sep 2015.
-- [Text Mining South Park](http://kaylinwalker.com/text-mining-south-park/) Feb 2016
+- [Text Mining South Park](http://kaylinwalker.com/text-mining-south-park/) Feb 2016 - A Text Mining blog which covers on a variety of topics.
 - [Natural Language Processing: An Introduction](http://jamia.oxfordjournals.org/content/18/5/544.full)
 - [Natural Language Processing Tutorial](http://www.vikparuchuri.com/blog/natural-language-processing-tutorial/). June 2013.
 - [Natural Language Processing blog](http://nlpers.blogspot.ca/). 
@@ -125,7 +125,7 @@ A curated list of resources for learning about natural language processing, text
 - [Comparison of the Most Useful Text Processing APIs](https://www.kdnuggets.com/2018/08/comparison-most-useful-text-processing-apis.html)
 - [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 - [Crowdsourcing Ground Truth for Medical Relation Extraction](https://dl.acm.org/citation.cfm?id=3152889)
-- [Natural language based financial forecasting: a survey](https://sentic.net/natural-language-based-financial-forecasting.pdf)
+- [Natural language based financial forecasting: a survey](https://sentic.net/natural-language-based-financial-forecasting.pdf) - An article that clarifies the scope of Natural Language Financial Forecasting.
 ### Biases in NLP 
 - [Venturebeat Blogpost - Gender biases in datasets](https://venturebeat.com/2018/09/07/researchers-develop-a-method-that-reduces-gender-bias-in-ai-datasets/) - Based on UCLA research paper "Learning Gender Neutral Word Embeddings" Aug 2018 .
 
@@ -501,7 +501,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [r/datasets](https://www.reddit.com/r/datasets/)
 - [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [R's `datasets` package](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
-- [200,000 Russian Troll Tweets](https://www.reddit.com/r/politics/comments/7zfk4i/im_a_reporter_for_nbc_news_and_we_published_over/)
+- [200,000 Russian Troll Tweets](https://www.reddit.com/r/politics/comments/7zfk4i/im_a_reporter_for_nbc_news_and_we_published_over/) - Released by Congress from Twitter suspended accounts and removed from public view.
 - [Wikipedia: List of datasets for ML research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 - [Kaggle: UMICH SI650 - Sentiment Classification](https://www.kaggle.com/c/si650winter11/data)
