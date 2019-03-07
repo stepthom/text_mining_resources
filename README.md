@@ -84,7 +84,7 @@ A curated list of resources for learning about natural language processing, text
 - [Probably Approximately a Scientific Blog](http://veredshwartz.blogspot.com/)
 - [Sebastian Ruder](http://ruder.io/)
 - [NLP-progress](https://nlpprogress.com/)
-- [natural language processing blog](https://nlpers.blogspot.com/)
+- [Natural Language Processing Blog](https://nlpers.blogspot.com/)
 - [Text Mining, Analytics & More](http://text-analytics101.rxnlp.com/)
 - [FriendlyData blog](https://friendlydata.io/blog)
 - [Salmon Run](http://sujitpal.blogspot.com/)
@@ -114,7 +114,7 @@ A curated list of resources for learning about natural language processing, text
 - [Why Text Mining May Be The Next Big Thing](http://business.time.com/2012/03/20/why-text-mining-may-be-the-next-big-thing/). March 2012.
 - [SAS CEO offers analytics over BI, reveals use cases for text analytics](http://www.computerweekly.com/news/2240037240/SAS-CEO-offers-analytics-over-BI-reveals-use-cases-for-text-analytics) June 2011.
 - [Value and benefits of text mining](https://www.jisc.ac.uk/reports/value-and-benefits-of-text-mining). Sep 2015.
-- [Text Mining South Park](http://kaylinwalker.com/text-mining-south-park/) Feb 2016
+- [Text Mining South Park](http://kaylinwalker.com/text-mining-south-park/) Feb 2016 - A Text Mining blog which covers on a variety of topics.
 - [Natural Language Processing: An Introduction](http://jamia.oxfordjournals.org/content/18/5/544.full)
 - [Natural Language Processing Tutorial](http://www.vikparuchuri.com/blog/natural-language-processing-tutorial/). June 2013.
 - [Natural Language Processing blog](http://nlpers.blogspot.ca/). 
@@ -126,7 +126,7 @@ A curated list of resources for learning about natural language processing, text
 - [Comparison of the Most Useful Text Processing APIs](https://www.kdnuggets.com/2018/08/comparison-most-useful-text-processing-apis.html)
 - [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 - [Crowdsourcing Ground Truth for Medical Relation Extraction](https://dl.acm.org/citation.cfm?id=3152889)
-- [Natural language based financial forecasting: a survey](https://sentic.net/natural-language-based-financial-forecasting.pdf)
+- [Natural language based financial forecasting: a survey](https://sentic.net/natural-language-based-financial-forecasting.pdf). An article that clarifies the scope of Natural Language Financial Forecasting.
 - [Natural Language Processing (NLP) for Machine Learning](https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b). Includes basic, easy to understand preprocessing and compares a few ML classificaiotn models in Python.
 - [How to Write a Spelling Corrector - by Peter Norvig](https://norvig.com/spell-correct.html)
 - [Using AI to unleash the power of unstructured government data](https://www2.deloitte.com/insights/us/en/focus/cognitive-technologies/natural-language-processing-examples-in-government-data.html): (W. Eggers, N. Malik, & M. Gracie, January 2019). “Think of unstructured text as being ‘trapped’ in physical and virtual file cabinets. The promise is clear: Governments could improve effectiveness and prevent many catastrophes by improving their ability to ‘connect the dots’ and identify patterns in available data.” This Deloitte article provides an easy-to-comprehend primer and background on NLP, and the various applications NLP could be used on unstructured Government text data. The article includes many US Government examples on how NLP is currently deployed across different domains (e.g. to help analyze public feedback/sentiment analysis/topic modelling, to improve forensic investigations, to aid in Government policy-making and regulatory compliance). The key point is to apply different NLP techniques to explore and uncover key Government intelligence insights.
@@ -572,7 +572,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [r/datasets](https://www.reddit.com/r/datasets/)
 - [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [R's `datasets` package](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
-- [200,000 Russian Troll Tweets](https://www.reddit.com/r/politics/comments/7zfk4i/im_a_reporter_for_nbc_news_and_we_published_over/)
+- [200,000 Russian Troll Tweets](https://www.reddit.com/r/politics/comments/7zfk4i/im_a_reporter_for_nbc_news_and_we_published_over/) - Released by Congress from Twitter suspended accounts and removed from public view.
 - [Wikipedia: List of datasets for ML research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 - [Kaggle: UMICH SI650 - Sentiment Classification](https://www.kaggle.com/c/si650winter11/data)
