@@ -126,6 +126,7 @@ A curated list of resources for learning about natural language processing, text
 - [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 - [Crowdsourcing Ground Truth for Medical Relation Extraction](https://dl.acm.org/citation.cfm?id=3152889)
 - [Natural language based financial forecasting: a survey](https://sentic.net/natural-language-based-financial-forecasting.pdf)
+- [Extracting medical problems from electronic clinical documents (https://www.sciencedirect.com/science/article/pii/S1532046405001140)
 ### Biases in NLP 
 - [Venturebeat Blogpost - Gender biases in datasets](https://venturebeat.com/2018/09/07/researchers-develop-a-method-that-reduces-gender-bias-in-ai-datasets/) - Based on UCLA research paper "Learning Gender Neutral Word Embeddings" Aug 2018 .
 
@@ -461,6 +462,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [brat](http://brat.nlplab.org/): Rapid annotation tool.
 - [Amazon Lex](https://aws.amazon.com/lex/): A service for building conversational interfaces into any application using voice and text.
 - [Google's Colab](http://colab.research.google.com): Ready-to-go Notebook environment that makes it easy to get up and running.
+- [Amazon Comprehend](https://aws.amazon.com/comprehend/)
 
 #### Getting Data out of PDFs
 
@@ -526,6 +528,11 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Bing](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
 - [nrc](http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm)
 - [vaderSentiment](https://github.com/cjhutto/vaderSentiment)
+
+### Corpora for Download
+- [American National Corpus Download](http://www.anc.org/data/oanc/contents/)
+- [Santa Barbara Corpus of Spoken American English](http://www.linguistics.ucsb.edu/research/santa-barbara-corpus)
+- [Leipzig Corpora Collection: Corpora in English, Arabic, French, Russian, German](http://wortschatz.uni-leipzig.de/en/download/)
 
 
 ## Misc
