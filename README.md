@@ -128,6 +128,8 @@ A curated list of resources for learning about natural language processing, text
 - [Python Guide for dealing with Text Data](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
 - [Crowdsourcing Ground Truth for Medical Relation Extraction](https://dl.acm.org/citation.cfm?id=3152889)
 - [Natural language based financial forecasting: a survey](https://sentic.net/natural-language-based-financial-forecasting.pdf). An article that clarifies the scope of Natural Language Financial Forecasting.
+- [5 Heroic Tools for Natural Language Processing](https://towardsdatascience.com/5-heroic-tools-for-natural-language-processing-7f3c1f8fc9f0)
+- [Natural Language Processing unlocks hidden data to transform healthcare efficiency, quality and cost](https://www.healthcareglobal.com/technology/natural-language-processing-unlocks-hidden-data-transform-healthcare-efficiency-quality)
 - [Extracting medical problems from electronic clinical documents](https://www.sciencedirect.com/science/article/pii/S1532046405001140)
 - [Natural Language Processing (NLP) for Machine Learning](https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b). Includes basic, easy to understand preprocessing and compares a few ML classificaiotn models in Python.
 - [How to Write a Spelling Corrector - by Peter Norvig](https://norvig.com/spell-correct.html)
@@ -349,9 +351,11 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Multi-Task Deep Neural Networks for Natural Language Understanding](https://www.topbots.com/ai-nlp-research-pretrained-language-models). Academic article detailing Microsoft's MTDNN algorithm which has outperformed BERT, ELMo & BiLSTM as of February 2019 in the GLUE Benchmark.
 - [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial): A 2019 NLP tutorial repository using TensorFlow and Pytorch.
 - [WHAT EVERY NLP ENGINEER NEEDS TO KNOW ABOUT PRE-TRAINED LANGUAGE MODELS](https://www.topbots.com/ai-nlp-research-pretrained-language-models). 2019.
+- [Deep Learning for Sentiment Analysis : A Survey](https://arxiv.org/abs/1801.07883)
 - [NEURAL READING COMPREHENSION AND BEYOND](https://cs.stanford.edu/~danqi/papers/thesis.pdf) December 2018 Stanford - Reading comprehension models built on top of deep neural networks.
 - [Microsoft: Multi-Task Deep Neural Network (MT-DNN)](https://arxiv.org/pdf/1901.11504): Microsoft's improvement on Google's BERT with focus on natural language understanding. Code to be released. January 31, 2019.
 - [OpenAI: Better Language Models and Their Implications](https://blog.openai.com/better-language-models/): Pre-trained Transformer-based unsupervised language model that achieves state-of-the-art on many language benchmarks with focus on text generation. Controversial limited release. February 14, 2019. 
+- [A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING](https://arxiv.org/pdf/1703.03130.pdf)
 
 ##### Capsule Networks
 - [Investigating Capsule Networks with Dynamic Routing for Text Classification](https://arxiv.org/pdf/1804.00538.pdf). 2018.
@@ -590,6 +594,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [MIMIC](https://mimic.physionet.org/gettingstarted/access/): an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~40,000 critical care patients.
 - [Clinical NLP Dataset Repository](https://clinical-nlp.github.io/2019/resources.html): A curated list of publicly-available clinical datasets for use in NLP research.  
 - [Million Song Lyrics](https://labrosa.ee.columbia.edu/millionsong/musixmatch)
+- [The Multi-Genre NLI Corpus](https://www.nyu.edu/projects/bowman/multinli/)
 - [Twitter US Airline Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment/home)
 - [Million Song Lyrics](https://labrosa.ee.columbia.edu/millionsong/musixmatch): Dataset of song lyrics in Bag-Of-Words (BOW) format.
 - [DuoRC](https://github.com/duorc/duorc/tree/master/dataset) – 186K unique question-answer pairs with evaluation script for Paraphrased Reading Comprehension
