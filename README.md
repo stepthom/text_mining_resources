@@ -105,10 +105,10 @@ A curated list of resources for learning about natural language processing, text
 - [Quora Topic: Natural Language Processing](https://www.quora.com/topic/Natural-Language-Processing)
 - [The Definitive Guide to Natural Language Processing](https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/) October 2015.
 - [Futures of text](http://whoo.ps/2015/02/23/futures-of-text) Feb 2015.
-- [R or Python on Text Mining](https://datawarrior.wordpress.com/2015/08/12/codienerd-1-r-or-python-on-text-mining/) Aug 2015.
+- [R or Python on Text Mining](https://datawarrior.wordpress.com/2015/08/12/codienerd-1-r-or-python-on-text-mining/) Aug 2015. Comparison of efficiency between R and Python in the field of Text Mining.
 - [Where to start in Text Mining](https://tedunderwood.com/2012/08/14/where-to-start-with-text-mining/) Aug 2012.
 - [Text Mining in R and Python: 8 Tips To Get Started](https://www.r-bloggers.com/text-mining-in-r-and-python-8-tips-to-get-started/). Oct 2016
-- [An introduction to text analysis with Python, Part 1](http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-1/) April 2012.
+- [An introduction to text analysis with Python, Part 1](http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-1/) April 2012. A beginner’s walkthrough on the basics idea of sentiment analysis in Python.
 - [Mining Twitter Data with Python (Part 1: Collecting Data)](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
 - [Why Text Mining May Be The Next Big Thing](http://business.time.com/2012/03/20/why-text-mining-may-be-the-next-big-thing/). March 2012.
 - [SAS CEO offers analytics over BI, reveals use cases for text analytics](http://www.computerweekly.com/news/2240037240/SAS-CEO-offers-analytics-over-BI-reveals-use-cases-for-text-analytics) June 2011.
@@ -169,12 +169,11 @@ A curated list of resources for learning about natural language processing, text
 - [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
 - [Multi-Class Text Classification with Scikit-Learn](https://www.kdnuggets.com/2018/08/multi-class-text-classification-scikit-learn.html)
 - [Machine Learning with Text in scikit-learn (PyCon 2016)](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10)
-- [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 
 ### Entity and Information Extraction
 
 - [Entity Extraction and Network Analysis](http://brandonrose.org/ner2sna). Python, `StanfordCoreNLP`
-- [NLP Techniques for Extracting Information](https://www.searchtechnologies.com/blog/natural-language-processing-techniques)
+- [NLP Techniques for Extracting Information](https://www.searchtechnologies.com/blog/natural-language-processing-techniques). In-depth exploration of the seven steps framework of NLP data mining tools and techniques.
 
 ### Document Clustering and Document Similarity
 
@@ -226,7 +225,7 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Harry Plotter: Celebrating the 20 year anniversary with tidytext and the tidyverse in R](https://paulvanderlaken.com/2017/08/03/harry-plotter-celebrating-the-20-year-anniversary-with-tidytext-the-tidyverse-and-r/) August 2015.
 - [Data Science 101: Sentiment Analysis in R Tutorial](http://blog.kaggle.com/2017/10/05/data-science-101-sentiment-analysis-in-r-tutorial/?utm_source=Mailing+list&utm_campaign=3257583703-Kaggle_Newsletter_09-10-2017&utm_medium=email&utm_term=0_f42f9df1e1-3257583703-401104557). October 2017.
 - [Cannes Lions 2017: Hungerithm, Mars Chocolate Australia (Clemenger BBDO, Melbourne)](https://vimeo.com/223731129). Snickers price goes down as anger goes up.
-- [A survey on sentiment analysis challenges](https://www.sciencedirect.com/science/article/pii/S1018363916300071). April 2016.
+- [A survey on sentiment analysis challenges](https://www.sciencedirect.com/science/article/pii/S1018363916300071). April 2016. A discussion and comparison of sentiment analysis challenges among forty-seven papers. 
 - [Challenges in Sentiment Analysis](http://saifmohammad.com/WebDocs/sentiment-challenges.pdf). 2015.
 - [Sentiment Analysis Tools Overview, Part 1. Positive and Negative Words Databases](https://medium.com/@datamonsters/sentiment-analysis-tools-overview-part-1-positive-and-negative-words-databases-ae35431a470c). July 2017
 - [Sentiment analysis: 10 applications and 4 services](https://towardsdatascience.com/machine-learning-as-a-service-487e930265b2)
