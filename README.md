@@ -142,6 +142,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Cleaning
 - [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) Jan 2018. A step by step guide on data cleaning and exploration for successful NLP model building.
+- [How to Clean Text for Machine Learning with Python](https://machinelearningmastery.com/clean-text-machine-learning-python/) October 2017. Step-by-step guide of how to perform text data pre-processing. 
 
 ### Stop Words
 - [Removing stop words with NLTK in Python](https://www.geeksforgeeks.org/removing-stop-words-nltk-python/)
@@ -175,6 +176,7 @@ A curated list of resources for learning about natural language processing, text
 - [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
 - [Multi-Class Text Classification with Scikit-Learn](https://www.kdnuggets.com/2018/08/multi-class-text-classification-scikit-learn.html)
 - [Machine Learning with Text in scikit-learn (PyCon 2016)](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10)
+- [Introducing state of the art text classification with universal language models](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html) May 2018. Introduces a groundbreaking transfer learning method for document classification!
 - [Learning Document Embeddings by Predicting N-grams for Sentiment Classification of Long Movie Reviews](https://github.com/libofang/DV-ngram) - paper with code on Github
 - [Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/pdf/1811.00196.pdf)
 
@@ -242,6 +244,7 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Sentiment analysis: 10 applications and 4 services](https://towardsdatascience.com/machine-learning-as-a-service-487e930265b2). June 2018.
 - [TWITTER SENTIMENT ANALYSIS USING COMBINED LSTM-CNN MODELS](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/)
 - [Breakthrough Research Papers and Models for Sentiment Analysis](https://blog.paralleldots.com/data-science/breakthrough-research-papers-and-models-for-sentiment-analysis/) Article contains different types of models for Sentiment Analysis.
+- [Twitter Sentiment Analysis Overview](https://www.youtube.com/watch?v=o_OZdbCzHUA&t=235s) October 2016. Overview of sentiment analysis, and a step-by-step walkthrough on how to perform sentiment analysis using TextBlob!
 - [What Your Boss Could Learn by Reading the Whole Company’s Emails](https://www.theatlantic.com/magazine/archive/2018/09/the-secrets-in-your-inbox/565745/): (F. Partnoy, September 2018). “The lesson: Figure out the truth about how the workforce is feeling not by eavesdropping on the substance of what employees say, but by examining how they are saying it.” This article is centered around the topic of applying sentiment analysis to large internal unstructured text datasets (e.g. employee e-mails). Text analytics and NLP have become an increasingly popular approach to help search for clues that may indicate the level of employee engagement in the workplace, and any potential ‘red-flags’ that should receive particular attention by an organization and its ethical implications.
 - [Twitter Sentiment Analysis in Python using TextBlob](https://medium.freecodecamp.org/how-to-build-a-twitter-sentiments-analyzer-in-python-using-textblob-948e1e8aae14). Oct 2018
 - [Sentiment analysis, Concept analysis and Applications](https://towardsdatascience.com/sentiment-analysis-concept-analysis-and-applications-6c94d6f58c17). Jan 2018
@@ -554,6 +557,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [SWAG](https://github.com/rowanz/swagaf): A large-scale dataset created for Natural Language Inference (NLI) with common-sense reasoning.
 - [MIMIC](https://mimic.physionet.org/gettingstarted/access/): an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~40,000 critical care patients.
 - [Clinical NLP Dataset Repository](https://clinical-nlp.github.io/2019/resources.html): A curated list of publicly-available clinical datasets for use in NLP research.  
+- [Million Song Lyrics](https://labrosa.ee.columbia.edu/millionsong/musixmatch)
+- [Twitter US Airline Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment/home)
 - [Million Song Lyrics](https://labrosa.ee.columbia.edu/millionsong/musixmatch): Dataset of song lyrics in Bag-Of-Words (BOW) format.
 - [DuoRC](https://github.com/duorc/duorc/tree/master/dataset) – 186K unique question-answer pairs with evaluation script for Paraphrased Reading Comprehension
 - [EDGAR Financial Statements](https://edgar-online.com): Reporting engine for financial and regulatory filings for companies worldwide. A huge repository of financial and company data for text mining.
