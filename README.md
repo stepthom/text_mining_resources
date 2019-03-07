@@ -127,7 +127,7 @@ A curated list of resources for learning about natural language processing, text
 - [Crowdsourcing Ground Truth for Medical Relation Extraction](https://dl.acm.org/citation.cfm?id=3152889)
 - [Natural language based financial forecasting: a survey](https://sentic.net/natural-language-based-financial-forecasting.pdf)
 ### Biases in NLP 
-- [AI bias: It is the responsibility of humans to ensure fairness ](https://www.information-age.com/ai-bias-123479217/)
+- [AI bias: It is the responsibility of humans to ensure fairness](https://www.information-age.com/ai-bias-123479217/)
 - [Venturebeat Blogpost - Gender biases in datasets](https://venturebeat.com/2018/09/07/researchers-develop-a-method-that-reduces-gender-bias-in-ai-datasets/) - Based on UCLA research paper "Learning Gender Neutral Word Embeddings" Aug 2018 .
 
 ### Scraping
