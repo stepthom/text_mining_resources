@@ -618,7 +618,6 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Detecting Gang-Involved Escalation on Social Media Using Context](http://aclweb.org/anthology/D18-1005) Detecting Aggression and Loss in social media using CNN
 - [Reasoning about Actions and State Changes by Injecting Commonsense Knowledge](http://aclweb.org/anthology/D18-1006) Incorporating global, commonsense constraints & biasing reading with preferences from large-scale corp
 - [The Language of Hip Hop](https://pudding.cool/2017/09/hip-hop-words/): A 2017 analysis by Matt Daniels of Pudding determining the popularity of various words in hip hop music and across artists.
-=======
 - [Using Natural Language Processing for Automatic Detection of Plagiarism](https://pdfs.semanticscholar.org/636d/4c0b0fe6919abe6eb546907d28ed39bf56e6.pdf)
 - [Probabilistic Graphical Models: Lagrangian Relaxation Algorithms for Natural Language Processing](http://people.csail.mit.edu/dsontag/courses/pgm12/slides/lecture3.pdf)
 - [Human Emotion](https://www.youtube.com/watch?v=qwsft6tmvBA&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4) How to determine confidence level for manually labeled sentiment data?
