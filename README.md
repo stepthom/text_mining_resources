@@ -144,13 +144,11 @@ A curated list of resources for learning about natural language processing, text
 ### Cleaning
 - [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) Jan 2018. A step by step guide on data cleaning and exploration for successful NLP model building.
 - [How to Clean Text for Machine Learning with Python](https://machinelearningmastery.com/clean-text-machine-learning-python/) October 2017. Step-by-step guide of how to perform text data pre-processing. 
+- [Feature Extraction, Basic Pre-processing, and Advanced Processing](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
 
 ### Stop Words
 - [Removing stop words with NLTK in Python](https://www.geeksforgeeks.org/removing-stop-words-nltk-python/)
 - [TEXT CLASSIFICATION FOR SENTIMENT ANALYSIS – STOPWORDS AND COLLOCATIONS](https://streamhacker.com/2010/05/24/text-classification-sentiment-analysis-stopwords-collocations/)
-
-### Pre-processing
-- [Feature Extraction, Basic Pre-processing, and Advanced Processing](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
 
 ### Stemming
 - [Article: Text Stemming: Approaches, Applications, and Challenges](http://dl.acm.org/citation.cfm?id=2975608)
