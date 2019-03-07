@@ -127,6 +127,7 @@ A curated list of resources for learning about natural language processing, text
 - [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 - [Crowdsourcing Ground Truth for Medical Relation Extraction](https://dl.acm.org/citation.cfm?id=3152889)
 - [Natural language based financial forecasting: a survey](https://sentic.net/natural-language-based-financial-forecasting.pdf). An article that clarifies the scope of Natural Language Financial Forecasting.
+- [Extracting medical problems from electronic clinical documents](https://www.sciencedirect.com/science/article/pii/S1532046405001140)
 - [Natural Language Processing (NLP) for Machine Learning](https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b). Includes basic, easy to understand preprocessing and compares a few ML classificaiotn models in Python.
 - [How to Write a Spelling Corrector - by Peter Norvig](https://norvig.com/spell-correct.html)
 - [Using AI to unleash the power of unstructured government data](https://www2.deloitte.com/insights/us/en/focus/cognitive-technologies/natural-language-processing-examples-in-government-data.html): (W. Eggers, N. Malik, & M. Gracie, January 2019). “Think of unstructured text as being ‘trapped’ in physical and virtual file cabinets. The promise is clear: Governments could improve effectiveness and prevent many catastrophes by improving their ability to ‘connect the dots’ and identify patterns in available data.” This Deloitte article provides an easy-to-comprehend primer and background on NLP, and the various applications NLP could be used on unstructured Government text data. The article includes many US Government examples on how NLP is currently deployed across different domains (e.g. to help analyze public feedback/sentiment analysis/topic modelling, to improve forensic investigations, to aid in Government policy-making and regulatory compliance). The key point is to apply different NLP techniques to explore and uncover key Government intelligence insights.
@@ -529,6 +530,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [brat](http://brat.nlplab.org/): Rapid annotation tool.
 - [Amazon Lex](https://aws.amazon.com/lex/): A service for building conversational interfaces into any application using voice and text.
 - [Google's Colab](http://colab.research.google.com): Ready-to-go Notebook environment that makes it easy to get up and running.
+- [Amazon Comprehend](https://aws.amazon.com/comprehend/)
 - [Lyrebird.ai](https://lyrebird.ai/): “Ultra-Realistic Voice Cloning and Text-to-Speech” recognition platform. This Canadian start-up has created a product/platform that syncs both voice cloning with text-to-speech. Lyrebird recognizes the intonations and voice patterns from audio recordings, and overlays text data input to recreate a text-to-speech audio file output from the selected voice pattern audio recording.
 - [Ask Data by Tableau Software Inc.](https://www.tableau.com/products/new-features/ask-data#hero-reveal): In February 2019, Tableau released a new NLP feature service add-on to help assist existing Tableau platform users with retrieving quick and easy data visualizations to drive business intelligence insights. Similar to a search engine user interface, Tableau’s Ask Data feature interface applies NLP from user text input to extract key words to find data analytics and business insights quickly on the Tableau Platform.
 
@@ -592,6 +594,9 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Million Song Lyrics](https://labrosa.ee.columbia.edu/millionsong/musixmatch): Dataset of song lyrics in Bag-Of-Words (BOW) format.
 - [DuoRC](https://github.com/duorc/duorc/tree/master/dataset) – 186K unique question-answer pairs with evaluation script for Paraphrased Reading Comprehension
 - [EDGAR Financial Statements](https://edgar-online.com): Reporting engine for financial and regulatory filings for companies worldwide. A huge repository of financial and company data for text mining.
+- [American National Corpus Download](http://www.anc.org/data/oanc/contents/)
+- [Santa Barbara Corpus of Spoken American English](http://www.linguistics.ucsb.edu/research/santa-barbara-corpus)
+- [Leipzig Corpora Collection: Corpora in English, Arabic, French, Russian, German](http://wortschatz.uni-leipzig.de/en/download/)
 
 ### Lexicons for Sentiment Analysis
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
