@@ -125,6 +125,7 @@ A curated list of resources for learning about natural language processing, text
 - [Creating machine learning models to analyze startup news - Part1](https://monkeylearn.com/blog/filtering-startup-news-machine-learning/). [Part 2](https://monkeylearn.com/blog/creating-machine-learning-models-analyze-news/). [Part 3](https://monkeylearn.com/blog/analyzing-startup-news-with-machine-learning/).
 - [Comparison of the Most Useful Text Processing APIs](https://www.kdnuggets.com/2018/08/comparison-most-useful-text-processing-apis.html)
 - [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
+- [Python Guide for dealing with Text Data](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
 - [Crowdsourcing Ground Truth for Medical Relation Extraction](https://dl.acm.org/citation.cfm?id=3152889)
 - [Natural language based financial forecasting: a survey](https://sentic.net/natural-language-based-financial-forecasting.pdf). An article that clarifies the scope of Natural Language Financial Forecasting.
 - [Extracting medical problems from electronic clinical documents](https://www.sciencedirect.com/science/article/pii/S1532046405001140)
@@ -330,6 +331,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [The Amazing Power of Word Vectors](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/). 2016.
 - [Contextual String Embeddings for Sequence Labeling](http://alanakbik.github.io/papers/coling2018.pdf). 2018.
 - [A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks](https://arxiv.org/abs/1811.06031) Introducing a multi-task learning approach for a set of interrelated NLP tasks. Presented at AAAI conference in January 2019.[Implementation code](https://github.com/huggingface/hmtl).  
+- [ELMo Word embeddings](allennlp.org/elmo)
 - [An Idiot’s Guide to Word2vec Natural Language Processing](https://medium.com/@ODSC/an-idiots-guide-to-word2vec-natural-language-processing-5c3767cf8295)
 - [BERT Explained - State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270). A great explaination of the fundamentals of how BERT works.
 - [NLP's ImageNet moment has arrived](http://ruder.io/nlp-imagenet/). July 2018. Overview of pre-trained NLP language models, drawing parallels to ImageNet's contributions to computer vision. 
@@ -421,8 +423,6 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Commonlounge: Learn Natural Language Processing: From Beginner to Expert](https://www.commonlounge.com/discussion/9e98fc12d49e4cd59e248fc5fb72a8e9)
 - [Big Data University: Advanced Text Analytics – Getting Results with SystemT](https://bigdatauniversity.com/courses/adv-text-analytics-getting-results-with-systemt/)
 - [Udacity: Natural Language Processing Nanodegree](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
-- [University of Michigan: Natural Language Processing](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
-
 
 ## APIs and Libraries
 - [R packages](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
@@ -620,6 +620,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 ## Meta
 - [Deep Learning for NLP, advancements and trends in 2017](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_162)
 - [10 Exciting Ideas of 2018 in NLP](http://ruder.io/10-exciting-ideas-of-2018-in-nlp/)
+
 
 ## Other Curated Lists
 - [awesome-nlp](https://github.com/keonkim/awesome-nlp): A curated list of resources dedicated to Natural Language Processing (NLP)
