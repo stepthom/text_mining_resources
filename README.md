@@ -95,8 +95,6 @@ A curated list of resources for learning about natural language processing, text
 
 ### General <a id="general-articles"></a>
 - [Why Accuracy in Natural Language Processing is Crucial to the Future of AI in Retail](https://www.mytotalretail.com/article/why-accuracy-in-natural-language-processing-is-crucial-to-the-future-of-ai-in-retail/)
-- [Natural Language Processing for Information Extraction](https://arxiv.org/abs/1807.02383)
-- [Natural Language Processing (NLP) Techniques for Extracting Information](https://www.searchtechnologies.com/blog/natural-language-processing-techniques) 
 - [Natural Language Processing is Fun! How computers understand Human Language](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e). 2018.
 - [WEF Live Campaign - Twitter fed Global News Topics & Sentiment Tracker](https://365.weflive.com/#!/r/worldwide/t/all-topics) - Live Jan 2019
 - [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com)
@@ -171,6 +169,8 @@ A curated list of resources for learning about natural language processing, text
 
 - [Entity Extraction and Network Analysis](http://brandonrose.org/ner2sna). Python, `StanfordCoreNLP`
 - [NLP Techniques for Extracting Information](https://www.searchtechnologies.com/blog/natural-language-processing-techniques)
+- [Natural Language Processing for Information Extraction](https://arxiv.org/abs/1807.02383)
+- [Natural Language Processing (NLP) Techniques for Extracting Information](https://www.searchtechnologies.com/blog/natural-language-processing-techniques) 
 
 ### Document Clustering and Document Similarity
 
