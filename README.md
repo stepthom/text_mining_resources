@@ -144,6 +144,7 @@ A curated list of resources for learning about natural language processing, text
 ### Cleaning
 - [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) Jan 2018. A step by step guide on data cleaning and exploration for successful NLP model building.
 - [How to Clean Text for Machine Learning with Python](https://machinelearningmastery.com/clean-text-machine-learning-python/) October 2017. Step-by-step guide of how to perform text data pre-processing. 
+- [Feature Extraction, Basic Pre-processing, and Advanced Processing](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
 
 ### Stop Words
 - [Removing stop words with NLTK in Python](https://www.geeksforgeeks.org/removing-stop-words-nltk-python/)
@@ -178,6 +179,7 @@ A curated list of resources for learning about natural language processing, text
 - [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
 - [Multi-Class Text Classification with Scikit-Learn](https://www.kdnuggets.com/2018/08/multi-class-text-classification-scikit-learn.html)
 - [Machine Learning with Text in scikit-learn (PyCon 2016)](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10)
+- [Text Classification in Python with scikit-learn and nltk](https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a)
 - [Introducing state of the art text classification with universal language models](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html) May 2018. Introduces a groundbreaking transfer learning method for document classification!
 - [Learning Document Embeddings by Predicting N-grams for Sentiment Classification of Long Movie Reviews](https://github.com/libofang/DV-ngram) - paper with code on Github
 - [Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/pdf/1811.00196.pdf)
@@ -217,7 +219,7 @@ SAS® Enterprise Miner](http://analytics.ncsu.edu/sesug/2016/EPO-280_Final_PDF.p
 - [Donald Trump vs Hillary Clinton: sentiment analysis on Twitter mentions](https://blog.monkeylearn.com/donald-trump-vs-hillary-clinton-sentiment-analysis-twitter-mentions/)
 - [Does sentiment analysis work? A tidy analysis of Yelp reviews](http://varianceexplained.org/r/yelp-sentiment/) Combined prediction results and individual words in reviews to show that sentiment analysis worked well for most part of Yelp reviews
 - [CACM: Techniques and Applications for Sentiment Analysis](http://cacm.acm.org/magazines/2013/4/162501-techniques-and-applications-for-sentiment-analysis/abstract)
-- [Twitter mood predicts the stock market](https://arxiv.org/abs/1010.3003)
+- [Twitter mood predicts the stock market](https://arxiv.org/abs/1010.3003). Oct 2010.
 - [A nonlinear impact: evidences of causal effects of social
 media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Stock Sentiment Data: Measuring the Mood of the Market](https://blog.quandl.com/stock-sentiment-data)
@@ -586,6 +588,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Reasoning about Actions and State Changes by Injecting Commonsense Knowledge](http://aclweb.org/anthology/D18-1006) Incorporating global, commonsense constraints & biasing reading with preferences from large-scale corp
 - [Using Natural Language Processing for Automatic Detection of Plagiarism](https://pdfs.semanticscholar.org/636d/4c0b0fe6919abe6eb546907d28ed39bf56e6.pdf)
 - [Probabilistic Graphical Models: Lagrangian Relaxation Algorithms for Natural Language Processing](http://people.csail.mit.edu/dsontag/courses/pgm12/slides/lecture3.pdf)
+- [Human Emotion](https://www.youtube.com/watch?v=qwsft6tmvBA&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4) How to determine confidence level for manually labeled sentiment data?
 
 ## Meta
 - [Deep Learning for NLP, advancements and trends in 2017](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_162)
@@ -595,7 +598,6 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [awesome-nlp](https://github.com/keonkim/awesome-nlp): A curated list of resources dedicated to Natural Language Processing (NLP)
 - [Deep Learning for NLP resources](https://github.com/andrewt3000/dl4nlp): State of the art resources for NLP sequence modeling tasks such as machine translation, image captioning, and dialog.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
-- [Opinion Mining, Sentiment Analysis, and Opinion Spam Detection](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets)
 - [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#cpp-nlp)
 - [Sentiment140](http://help.sentiment140.com): Allows you to discover the sentiment of a brand, product, or topic on Twitter.
 - [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp)
