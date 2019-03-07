@@ -197,7 +197,7 @@ A curated list of resources for learning about natural language processing, text
 - [Text Clustering: Get quick insights from Unstructured Data](http://www.kdnuggets.com/2017/06/text-clustering-unstructured-data.html). July 2017.
 - [Document Clustering](http://cse.iitkgp.ac.in/~abhij/facad/03UG/Report/03CS3024_Pankaj_Jajoo.pdf). MSc Thesis.
 - [Document Clustering: A Detailed Review](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.401.8494&rep=rep1&type=pdf). Shah and Mahajan. IJAIS 2012.
-- [Document Clsutering with Python](https://github.com/harrywang/document_clustering) A GitHub repository that clusters IMDB movie descriptions. Based on [this original tutorial](http://brandonrose.org/clustering), whose GitHub repo is [here](https://github.com/brandomr/document_cluster). 
+- [Document Clustering with Python](https://github.com/harrywang/document_clustering) A GitHub repository that clusters IMDB movie descriptions. Based on [this original tutorial](http://brandonrose.org/clustering), whose GitHub repo is [here](https://github.com/brandomr/document_cluster). 
 - [Text mining and sentiment analysis on video game user reviews using
 SAS® Enterprise Miner](http://analytics.ncsu.edu/sesug/2016/EPO-280_Final_PDF.pdf)
 - [Who wrote the anti-Trump New York Times op-ed? Using tidytext to find document similarity](http://varianceexplained.org/r/op-ed-text-analysis/)
@@ -301,7 +301,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [R package fastLink: Fast Probabilistic Record Linkage](https://github.com/kosukeimai/fastLink)
 - [Fuzzy merge in R](https://www.princeton.edu/~otorres/FuzzyMergeR101.pdf) An R function to merge files by defining a Key File
 - [Learning Text Similarity with Siamese Recurrent Networks](http://www.aclweb.org/anthology/W/W16/W16-1617.pdf)
-- [Dedupe](https://github.com/dedupeio/dedupe): A Python library for accurate and scaleable fuzzy matching, record deduplication and entity-resolution.
+- [Dedupe](https://github.com/dedupeio/dedupe): A Python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
 - [recordlinkage](https://github.com/J535D165/recordlinkage): A toolkit for record linkage and deduplication written in Python.
 
 ### Word and Document Embeddings
@@ -318,7 +318,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Doc2Vec Tutorial on the Lee Dataset](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb)
 - [Word Embeddings in Python with Spacy and Gensim](https://www.shanelynn.ie/word-embeddings-in-python-with-spacy-and-gensim/)
 - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/). Dec 2018.
-- [Deep Contextualized Word Represenations](https://arxiv.org/abs/1802.05365). ElMo. [PyTorch implmentation](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md). [TF Implementation](https://github.com/allenai/bilm-tf)
+- [Deep Contextualized Word Represenations](https://arxiv.org/abs/1802.05365). ElMo. [PyTorch implementation](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md). [TF Implementation](https://github.com/allenai/bilm-tf)
 - [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146). [Implementation code](http://nlp.fast.ai/category/classification.html). 
 - [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364).
 - [Learned in Translation: Contextualized Word Vectors](https://arxiv.org/abs/1708.00107). CoVe.
@@ -342,7 +342,9 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - A 35-page academic literature review of DL in NLP (University of Colorado, July 2018). Detailed description of neural network architectures followed by a comprehensive set of applications.
 - [Sequence Classification with Human Attention](http://aclweb.org/anthology/K18-1030): Using human attention derived from eye-tracking corpora to regularize attention in recurrent neural networks (RNN). [Implementation code](https://github.com/coastalcph/Sequence_classification_with_human_attention).  
 - [Tutorial on Text Classification (NLP) using ULMFiT and fastai Library in Python](https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/)
-- [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial): A 2019 NLP tutorial repository using TensorFlow and Pytorch.  
+- [WHAT EVERY NLP ENGINEER NEEDS TO KNOW ABOUT PRE-TRAINED LANGUAGE MODELS](https://arxiv.org/abs/1901.11504). 2019.
+- [Multi-Task Deep Neural Networks for Natural Language Understanding](https://www.topbots.com/ai-nlp-research-pretrained-language-models). Academic article detailing Microsoft's MTDNN algorithm which has outperformed BERT, ELMo & BiLSTM as of February 2019 in the GLUE Benchmark.
+- [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial): A 2019 NLP tutorial repository using TensorFlow and Pytorch.
 - [WHAT EVERY NLP ENGINEER NEEDS TO KNOW ABOUT PRE-TRAINED LANGUAGE MODELS](https://www.topbots.com/ai-nlp-research-pretrained-language-models). 2019.
 - [NEURAL READING COMPREHENSION AND BEYOND](https://cs.stanford.edu/~danqi/papers/thesis.pdf) December 2018 Stanford - Reading comprehension models built on top of deep neural networks.
 - [Microsoft: Multi-Task Deep Neural Network (MT-DNN)](https://arxiv.org/pdf/1901.11504): Microsoft's improvement on Google's BERT with focus on natural language understanding. Code to be released. January 31, 2019.
@@ -354,7 +356,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [TWITTER SENTIMENT ANALYSIS USING CAPSULE NETS AND GRU](https://wwjournals.com/index.php/ijsr/article/view/13386). 2018. 
 - [Identifying Aggression and Toxicity in Comments using Capsule Network](http://aclweb.org/anthology/W18-4412). 2018. It is early days for Capsule Networks, which was introduced by Geoffrey Hinton, et al., in 2017 as an attempt to introduce an NN architecture superior to the classical CNNs. The idea aims to capture hierarchincal relationships in the input layer through dynamic routing between "capsules" of neurons. Due likely to the affinitity of the theme of addressing hierarchical complexities, the idea's extention to the NLP field has since been a sujbect of active research, such as in the papers listed above.
 - [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf). 2017. 
-- [MATRIX CAPSULES WITH EM ROUTING](https://openreview.net/pdf?id=HJWLfGWRb). 2018. 
+- [MATRIX CAPSULES WITH EM ROUTING](https://openreview.net/pdf?id=HJWLfGWRb). 2018.
 
 ### Knowledge Graphs
 
