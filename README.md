@@ -212,6 +212,7 @@ SAS® Enterprise Miner](http://analytics.ncsu.edu/sesug/2016/EPO-280_Final_PDF.p
 - [Topic Modelling Portal](http://topicmodels.west.uni-koblenz.de/)
 - [Applications of Topic Models](https://mimno.infosci.cornell.edu/papers/2017_fntir_tm_applications.pdf) 2017.
 - [MACS 30500: Text analysis: topic modeling](https://cfss.uchicago.edu/text_topicmodels.html)
+- [Using LDA Topic Models as a Classification Model Input](https://towardsdatascience.com/unsupervised-nlp-topic-models-as-a-supervised-learning-input-cf8ee9e5cf28)
 
 
 ### Sentiment Analysis
@@ -466,7 +467,12 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - [Keras-BERT](https://github.com/Separius/BERT-keras): A Keras Implementation of BERT 
   - [Paragraph embedding scripts and Pre-trained models](https://github.com/jhlau/doc2vec): Scripts for training and testing paragraph vectors, with links to some pre-trained Doc2Vec and Word2Vec models 
 - [Apache Tika](http://tika.apache.org/): a content analysis tookilt.
-- [HDF5](https://www.neonscience.org/about-hdf5): An open source file format that supports large, complex, heterogeneous data. Requires no configuration.
+- [Apache Spark](https://spark.apache.org/docs/latest/): is a fast and general-purpose cluster computing system. It provides high-level APIs in Java, Scala, Python and R, and an optimized engine that supports general execution graphs.
+  - [MLlib](https://spark.apache.org/docs/latest/ml-guide.html): MLlib is Spark’s machine learning (ML) library. Its goal is to make practical machine learning scalable and easy. Related to NLP there are methods available for LDA, Word2Vec, and TFIDF.
+  - [LDA](https://spark.apache.org/docs/latest/ml-clustering.html#latent-dirichlet-allocation-lda): latent Dirichlet allocation
+  - [Word2Vec](https://spark.apache.org/docs/latest/ml-features.html#word2vec): is an Estimator which takes sequences of words representing documents and trains a Word2VecModel. The model maps each word to a unique fixed-size vector. The Word2VecModel transforms each document into a vector using the average of all words in the document
+  - [TFIDF](https://spark.apache.org/docs/latest/ml-features.html#tf-idf): term frequency-inverse document frequency
+- [HDF5](https://www.neonscience.org/about-hdf5): an open source file format that supports large, complex, heterogeneous data. Requires no configuration.
   - [h5py](http://docs.h5py.org/en/stable/quick.html): Python HDF5 package
 - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/): a suite of core NLP tools
   - Also checkout http://corenlp.run for a hosted version of the CoreNLP server.
