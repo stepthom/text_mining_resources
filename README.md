@@ -63,7 +63,7 @@ A curated list of resources for learning about natural language processing, text
 - [Applied Natural Language Processing With Python (2018)](https://link.springer.com/book/10.1007%2F978-1-4842-3733-5) 
 
 #### General <a id="general-books"></a>
-- [Taming Text](https://www.manning.com/books/taming-text)
+- [Taming Text: How to Find, Organize, and Manipulate It](https://www.manning.com/books/taming-text)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/)
 - [Language Processing with Perl and Prolog: Theories, Implementation, and Application (Cognitive Technologies)](https://www.amazon.com/Language-Processing-Perl-Prolog-Implementation/dp/364241463X/ref=redir_mobile_desktop?ie=UTF8&ref_=dp_ob_neva_mobile)
@@ -78,6 +78,7 @@ A curated list of resources for learning about natural language processing, text
 - [Neural Network Methods in Natural Language Processing](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037)
 - [Machine Learning for Text (2018)](https://www.springer.com/us/book/9783319735306)
 - [Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/pdf/1811.00196.pdf)
+- [Deloitte Insights: Using AI to Unleash the Power of Unstructured Government Data](https://www2.deloitte.com/insights/us/en/focus/cognitive-technologies/natural-language-processing-examples-in-government-data.html): Applications and examples of natural language processing across government.
 - [Natural Language Processing in Spanish](https://iaarbook.github.io/procesamiento-del-lenguaje-natural/)
 
 ## Blogs
@@ -94,6 +95,7 @@ A curated list of resources for learning about natural language processing, text
 ## Blog Articles, Papers, Case Studies
 
 ### General <a id="general-articles"></a>
+- [Why Accuracy in Natural Language Processing is Crucial to the Future of AI in Retail](https://www.mytotalretail.com/article/why-accuracy-in-natural-language-processing-is-crucial-to-the-future-of-ai-in-retail/)
 - [Natural Language Processing is Fun! How computers understand Human Language](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e). 2018.
 - [WEF Live Campaign - Twitter fed Global News Topics & Sentiment Tracker](https://365.weflive.com/#!/r/worldwide/t/all-topics) - Live Jan 2019
 - [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com)
@@ -104,11 +106,11 @@ A curated list of resources for learning about natural language processing, text
 - [Quora: How do I learn Natural Language Processing?](https://www.quora.com/How-do-I-learn-Natural-Language-Processing)
 - [Quora Topic: Natural Language Processing](https://www.quora.com/topic/Natural-Language-Processing)
 - [The Definitive Guide to Natural Language Processing](https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/) October 2015.
-- [Futures of text](http://whoo.ps/2015/02/23/futures-of-text) Feb 2015.
-- [R or Python on Text Mining](https://datawarrior.wordpress.com/2015/08/12/codienerd-1-r-or-python-on-text-mining/) Aug 2015.
+- [Futures of text](http://whoo.ps/2015/02/23/futures-of-text) Feb 2015. A survey of all the current innovation in text as a medium.
+- [R or Python on Text Mining](https://datawarrior.wordpress.com/2015/08/12/codienerd-1-r-or-python-on-text-mining/) Aug 2015. Comparison of efficiency between R and Python in the field of Text Mining.
 - [Where to start in Text Mining](https://tedunderwood.com/2012/08/14/where-to-start-with-text-mining/) Aug 2012.
 - [Text Mining in R and Python: 8 Tips To Get Started](https://www.r-bloggers.com/text-mining-in-r-and-python-8-tips-to-get-started/). Oct 2016
-- [An introduction to text analysis with Python, Part 1](http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-1/) April 2012.
+- [An introduction to text analysis with Python, Part 1](http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-1/) April 2012. A beginner’s walkthrough on the basics idea of sentiment analysis in Python.
 - [Mining Twitter Data with Python (Part 1: Collecting Data)](https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/)
 - [Why Text Mining May Be The Next Big Thing](http://business.time.com/2012/03/20/why-text-mining-may-be-the-next-big-thing/). March 2012.
 - [SAS CEO offers analytics over BI, reveals use cases for text analytics](http://www.computerweekly.com/news/2240037240/SAS-CEO-offers-analytics-over-BI-reveals-use-cases-for-text-analytics) June 2011.
@@ -140,14 +142,21 @@ A curated list of resources for learning about natural language processing, text
 ### Cleaning
 - [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) Jan 2018. A step by step guide on data cleaning and exploration for successful NLP model building.
 
+### Stop Words
+- [Removing stop words with NLTK in Python](https://www.geeksforgeeks.org/removing-stop-words-nltk-python/)
+- [TEXT CLASSIFICATION FOR SENTIMENT ANALYSIS – STOPWORDS AND COLLOCATIONS](https://streamhacker.com/2010/05/24/text-classification-sentiment-analysis-stopwords-collocations/)
+
 ### Stemming
 - [Article: Text Stemming: Approaches, Applications, and Challenges](http://dl.acm.org/citation.cfm?id=2975608)
 - [What is the Difference Between Stemming and Lemmatization?](https://blog.bitext.com/what-is-the-difference-between-stemming-and-lemmatization/)
-- [Stemming and Lemmatization in Python](https://www.datacamp.com/community/tutorials/stemming-lemmatization-python)
+- [Stemming and Lemmatization in Python](https://www.datacamp.com/community/tutorials/stemming-lemmatization-python). Introduction and applications of stemming and lemmatization using NLTK package.
+- [Sentiment Symposium Tutorial: Stemming](http://sentiment.christopherpotts.net/stemming.html)
 
 ### Dimensionality Reduction
 - [Taming Text with the SVD](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.395.4666&rep=rep1&type=pdf). SAS. Jan 2004.
 - [Dimensionality Reduction for Bag-of-Words Models: PCA vs LSA](http://cs229.stanford.edu/proj2017/final-reports/5163902.pdf) 
+- [An introduction to Bag of Words and how to code it in Python for NLP](https://medium.freecodecamp.org/an-introduction-to-bag-of-words-and-how-to-code-it-in-python-for-nlp-282e87a9da04) 
+- [Bag of Words and Tf-idf Explained](http://datameetsmedia.com/bag-of-words-tf-idf-explained/) 
 
 ### Sarcasm Detection
 - [Automatic Sarcasm Detection: A Survey](https://dl.acm.org/citation.cfm?id=3124420) ACM Computer Surveys, Sep 2017.
@@ -165,12 +174,12 @@ A curated list of resources for learning about natural language processing, text
 - [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
 - [Multi-Class Text Classification with Scikit-Learn](https://www.kdnuggets.com/2018/08/multi-class-text-classification-scikit-learn.html)
 - [Machine Learning with Text in scikit-learn (PyCon 2016)](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10)
-- [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 
 ### Entity and Information Extraction
 
 - [Entity Extraction and Network Analysis](http://brandonrose.org/ner2sna). Python, `StanfordCoreNLP`
-- [NLP Techniques for Extracting Information](https://www.searchtechnologies.com/blog/natural-language-processing-techniques)
+- [Natural Language Processing for Information Extraction](https://arxiv.org/abs/1807.02383)
+- [NLP Techniques for Extracting Information](https://www.searchtechnologies.com/blog/natural-language-processing-techniques). In-depth exploration of the seven steps framework of NLP data mining tools and techniques.
 
 ### Document Clustering and Document Similarity
 
@@ -196,6 +205,7 @@ SAS® Enterprise Miner](http://analytics.ncsu.edu/sesug/2016/EPO-280_Final_PDF.p
 
 
 ### Sentiment Analysis
+- [Unsupervised Sentiment Analysis with Signed Social Networks](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14656/14129)
 - [Sentiment analysis on Trump's tweets using Python](https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_149). Sep 2017.
 - [Donald Trump vs Hillary Clinton: sentiment analysis on Twitter mentions](https://blog.monkeylearn.com/donald-trump-vs-hillary-clinton-sentiment-analysis-twitter-mentions/)
 - [Does sentiment analysis work? A tidy analysis of Yelp reviews](http://varianceexplained.org/r/yelp-sentiment/)
@@ -217,12 +227,11 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
   - [Related Blog Article: This Machine Turns Trump Tweets into Planned Parenthood Donations](https://medium.com/@maxbraun/this-machine-turns-trump-tweets-into-planned-parenthood-donations-4ece8301e722#.3232hx7gx)
 - [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/). April 2017.
 - [Current State of Text Sentiment Analysis from Opinion to Emotion Mining](http://dl.acm.org/citation.cfm?id=3057270) Feb 2017
-- [Does sentiment analysis work? A tidy analysis of Yelp reviews](http://varianceexplained.org/r/yelp-sentiment/)
 - [Lost at Sea: How Social Media is Helping Cruise Lines Attract Millennials](https://www.crimsonhexagon.com/blog/cruises-hunting-millennials/?mkt_tok=eyJpIjoiTlRNMlkyVTJOV1EwWkdGbSIsInQiOiJWRG9vSXU0bnRKWFZCZlNOUUVGY29cL3QwR2pHK1NKZVl6ZnR4VElFQWlESU9OS2I3VVlYN3VYQUE2bEdXYkZzVTZiTllvRDBaWEFlMmRBazFodjFwcW50RFVEYng5ZmNEcE1McTFYOXRKSktYSFkwZWo3RlpCdElzWjhDXC9lNmVCIn0%3D) 
 - [Harry Plotter: Celebrating the 20 year anniversary with tidytext and the tidyverse in R](https://paulvanderlaken.com/2017/08/03/harry-plotter-celebrating-the-20-year-anniversary-with-tidytext-the-tidyverse-and-r/) August 2015.
 - [Data Science 101: Sentiment Analysis in R Tutorial](http://blog.kaggle.com/2017/10/05/data-science-101-sentiment-analysis-in-r-tutorial/?utm_source=Mailing+list&utm_campaign=3257583703-Kaggle_Newsletter_09-10-2017&utm_medium=email&utm_term=0_f42f9df1e1-3257583703-401104557). October 2017.
 - [Cannes Lions 2017: Hungerithm, Mars Chocolate Australia (Clemenger BBDO, Melbourne)](https://vimeo.com/223731129). Snickers price goes down as anger goes up.
-- [A survey on sentiment analysis challenges](https://www.sciencedirect.com/science/article/pii/S1018363916300071). April 2016.
+- [A survey on sentiment analysis challenges](https://www.sciencedirect.com/science/article/pii/S1018363916300071). April 2016. A discussion and comparison of sentiment analysis challenges among forty-seven papers. 
 - [Challenges in Sentiment Analysis](http://saifmohammad.com/WebDocs/sentiment-challenges.pdf). 2015.
 - [Sentiment Analysis Tools Overview, Part 1. Positive and Negative Words Databases](https://medium.com/@datamonsters/sentiment-analysis-tools-overview-part-1-positive-and-negative-words-databases-ae35431a470c). July 2017
 - [Sentiment analysis: 10 applications and 4 services](https://towardsdatascience.com/machine-learning-as-a-service-487e930265b2)
@@ -231,12 +240,18 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [TWITTER SENTIMENT ANALYSIS USING COMBINED LSTM-CNN MODELS](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/)
 - [Breakthrough Research Papers and Models for Sentiment Analysis](https://blog.paralleldots.com/data-science/breakthrough-research-papers-and-models-for-sentiment-analysis/) Article contains different types of models for Sentiment Analysis.
 - [What Your Boss Could Learn by Reading the Whole Company’s Emails](https://www.theatlantic.com/magazine/archive/2018/09/the-secrets-in-your-inbox/565745/): (F. Partnoy, September 2018). “The lesson: Figure out the truth about how the workforce is feeling not by eavesdropping on the substance of what employees say, but by examining how they are saying it.” This article is centered around the topic of applying sentiment analysis to large internal unstructured text datasets (e.g. employee e-mails). Text analytics and NLP have become an increasingly popular approach to help search for clues that may indicate the level of employee engagement in the workplace, and any potential ‘red-flags’ that should receive particular attention by an organization and its ethical implications.
+- [Twitter Sentiment Analysis in Python using TextBlob](https://medium.freecodecamp.org/how-to-build-a-twitter-sentiments-analyzer-in-python-using-textblob-948e1e8aae14). Oct 2018
+- [Sentiment analysis, Concept analysis and Applications](https://towardsdatascience.com/sentiment-analysis-concept-analysis-and-applications-6c94d6f58c17). Jan 2018
+- [Aspect Based Sentiment Analysis of Amazon Product Reviews](https://www.researchgate.net/publication/325843745_ASPECT_BASED_SENTIMENT_ANALYSIS_OF_AMAZON_PRODUCT_REVIEWS). Jun 2018
+- [Twitter Sentiment Analysis Introduction and Techniques](https://www.digitalvidya.com/blog/twitter-sentiment-analysis-introduction-and-techniques/.) Oct 2018
+- [Using NLP and Deep Learning to Predict Stock Price Movements](https://towardsdatascience.com/using-nlp-and-deep-learning-to-predict-the-stock-market-64eb9229e102). 2018
 
 ### Text Summarization
 - [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
 - [Unsupervised Text Summarization using Sentence Embeddings](https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1)
 - [Improving Abstraction in Text Summarization](http://aclweb.org/anthology/D18-1207) Proposing two techniques for improvement
 - [Text Summarization and Categorization for Scientific and Health-Related Data](https://repository.library.georgetown.edu/bitstream/handle/10822/1050759/Cohan_georgetown_0076D_13889.pdf?sequence=1) 
+-[Text summarization with TensorFlow](https://ai.googleblog.com/2016/08/text-summarization-with-tensorflow.html). 2016. A basic study on text summarization.
 
 ### Machine Translation
 - [Blog Post: Found in translation: More accurate, fluent sentences in Google Translate](https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/) Nov 2016
@@ -256,8 +271,9 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Ultimate Guide to Leveraging NLP & Machine Learning for your Chatbot](https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c). 2016.
 - [A Survey on Dialogue Systems: Recent Advances and New Frontiers](https://arxiv.org/pdf/1711.01731.pdf) Jan 2018.
 - [Examining the Impact of an Automated Translation Chatbot on Online Collaborative Dialog for Incidental L2 Learning](https://www.researchgate.net/publication/329525159_Examining_the_impact_of_an_automated_translation_chatbot_on_online_collaborative_dialog_for_incidental_L2_learning)
-- [Create a banking chatbot with FAQ discovery, anger detection and natural language understanding] (https://github.com/IBM/watson-banking-chatbot)
-
+- [Chatbots - Designing intents and entities for NLP Models](https://medium.com/@brijrajsingh/chat-bots-designing-intents-and-entities-for-your-nlp-models-35c385b7730d) Jan 2017
+- [Task-oriented Dialogue System for Automatic Diagnosis](http://www.sdspeople.fudan.edu.cn/zywei/paper/liu-acl2018.pdf). 2018. Talks about the use of MDP trained dataset and its medical diagnostic applications.
+- [Li Deng at AI Frontiers: Three Generations of Spoken Dialogue Systems (Bots)](https://www.slideshare.net/AIFrontiers/li-deng-three-generations-of-spoken-dialogue-systems-bots). 2017. Slides by Microsoft Chief Scientist for AI.
 
 ### Fuzzy Matching, Probabilistic Matching, Record Linkage, Etc. <a id="fuzzy-matching"></a>
 
@@ -298,6 +314,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Contextual String Embeddings for Sequence Labeling](http://alanakbik.github.io/papers/coling2018.pdf). 2018.
 - [A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks](https://arxiv.org/abs/1811.06031) Introducing a multi-task learning approach for a set of interrelated NLP tasks. Presented at AAAI conference in January 2019.[Implementation code](https://github.com/huggingface/hmtl).  
 - [An Idiot’s Guide to Word2vec Natural Language Processing](https://medium.com/@ODSC/an-idiots-guide-to-word2vec-natural-language-processing-5c3767cf8295)
+- [NLP's ImageNet moment has arrived](http://ruder.io/nlp-imagenet/). July 2018. Overview of pre-trained NLP language models, drawing parallels to ImageNet's contributions to computer vision. 
 
 ### Deep Learning
 - [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/). 
@@ -310,7 +327,10 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - A 35-page academic literature review of DL in NLP (University of Colorado, July 2018). Detailed description of neural network architectures followed by a comprehensive set of applications.
 - [Sequence Classification with Human Attention](http://aclweb.org/anthology/K18-1030): Using human attention derived from eye-tracking corpora to regularize attention in recurrent neural networks (RNN). [Implementation code](https://github.com/coastalcph/Sequence_classification_with_human_attention).  
 - [Tutorial on Text Classification (NLP) using ULMFiT and fastai Library in Python](https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/)
+- [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial): A 2019 NLP tutorial repository using TensorFlow and Pytorch.  
 - [WHAT EVERY NLP ENGINEER NEEDS TO KNOW ABOUT PRE-TRAINED LANGUAGE MODELS](https://www.topbots.com/ai-nlp-research-pretrained-language-models). 2019.
+- [Microsoft: Multi-Task Deep Neural Network (MT-DNN)](https://arxiv.org/pdf/1901.11504): Microsoft's improvement on Google's BERT with focus on natural language understanding. Code to be released. January 31, 2019.
+- [OpenAI: Better Language Models and Their Implications](https://blog.openai.com/better-language-models/): Pre-trained Transformer-based unsupervised language model that achieves state-of-the-art on many language benchmarks with focus on text generation. Controversial limited release. February 14, 2019. 
 
 ### Knowledge Graphs
 
@@ -355,6 +375,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [DataCamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)
 
 #### Others
+- [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle) : Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP from this curated list of exciting lectures!
 - [Natural Language Processing | Dan Jurafsky, Christopher Manning](https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
 - [Deep Learning for NLP](https://github.com/oxford-cs-deepnlp-2017/lectures). DeepMind and University of Oxford Department of Computer Science.
 - [CMU CS 11-747: Neural Network for NLP](http://phontron.com/class/nn4nlp2017/)
@@ -411,6 +432,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - [flair](https://github.com/zalandoresearch/flair): A very simple framework for state-of-the-art Natural Language Processing (NLP)
   - [word_forms](https://github.com/gutfeeling/word_forms): Accurately generate all possible forms of an English word e.g "election" --> "elect", "electoral", "electorate" etc.
   - [AllenNLP](https://github.com/allenai/allennlp): Open-source NLP research library, built on PyTorch.
+  - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/): Parse HTML and XML documents. Useful for webscraping. 
   - [BigARTM](https://github.com/bigartm/bigartm): Fast topic modeling platform.
   - [Scattertext](https://github.com/JasonKessler/scattertext): Beautiful visualizations of how language differs among document types.
   - [embeddings](https://pypi.org/project/embeddings/): Pretrained word embeddings in Python.
@@ -418,17 +440,21 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - [Google Seq2Seq](https://github.com/google/seq2seq): A general-purpose encoder-decoder framework for Tensorflow that can be used for Machine Translation, Text Summarization, Conversational Modeling, Image Captioning, and more.
   - [polyglot](https://polyglot.readthedocs.io/en/latest/index.html): A natural language pipeline that supports multilingual applications.
   - [textacy](https://chartbeat-labs.github.io/textacy/index.html): NLP, before and after spaCy
+  - [Glove-Python](https://github.com/maciejkula/glove-python): A “toy” implementation of GloVe in Python. Includes a paragraph embedder. 
+  - [Bert As A Service](https://github.com/hanxiao/bert-as-service): Client/Server package for sentence encoding, i.e. mapping a variable-length sentence to a fixed-length vector.  Design intent to provide a scalable production ready service, also allowing researchers to apply BERT quickly. 
+  - [Keras-BERT](https://github.com/Separius/BERT-keras): A Keras Implementation of BERT 
+  - [Paragraph embedding scripts and Pre-trained models](https://github.com/jhlau/doc2vec): Scripts for training and testing paragraph vectors, with links to some pre-trained Doc2Vec and Word2Vec models 
 - [Apache Tika](http://tika.apache.org/): a content analysis tookilt.
 - [HDF5](https://www.neonscience.org/about-hdf5): An open source file format that supports large, complex, heterogeneous data. Requires no configuration.
   - [h5py](http://docs.h5py.org/en/stable/quick.html): Python HDF5 package
 - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/): a suite of core NLP tools
   - Also checkout http://corenlp.run for a hosted version of the CoreNLP server.
   - [Introduction to StanfordNLP: An Incredible State-of-the-Art NLP Library for 53 Languages (with Python code)](https://www.analyticsvidhya.com/blog/2019/02/stanfordnlp-nlp-library-python/)
-- [Stanford Parser](http://nlp.stanford.edu/software/lex-parser.html)
-- [Stanford POS Tagger](http://nlp.stanford.edu/software/tagger.html)
-- [Stanford Named Entity Recognizer](http://nlp.stanford.edu/software/CRF-NER.html)
-- [Stanford Classifier](http://nlp.stanford.edu/software/classifier.html)
-- [Stanford OpenIE](http://nlp.stanford.edu/software/openie.html)
+- [Stanford Parser](http://nlp.stanford.edu/software/lex-parser.html): A probabilistic natural language parser.
+- [Stanford POS Tagger](http://nlp.stanford.edu/software/tagger.html): A Parts-of-Speech tagger.
+- [Stanford Named Entity Recognizer](http://nlp.stanford.edu/software/CRF-NER.html): Recognizes proper nouns (things, places, organizations) and labels them as such.
+- [Stanford Classifier](http://nlp.stanford.edu/software/classifier.html): A softmax classifier.
+- [Stanford OpenIE](http://nlp.stanford.edu/software/openie.html): Extracts relationships between words in a sentence (e.g. Mark Zuckerberg; founded; Facebook).
 - [Stanford Topic Modeling Toolbox](http://nlp.stanford.edu/software/tmt/tmt-0.2/)
 - [MALLET](http://mallet.cs.umass.edu/): MAchine Learning for LanguagE Toolkit
   - Github: https://github.com/mimno/Mallet
@@ -493,6 +519,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Ask Data by Tableau Software Inc.](https://www.tableau.com/products/new-features/ask-data#hero-reveal): In February 2019, Tableau released a new NLP feature service add-on to help assist existing Tableau platform users with retrieving quick and easy data visualizations to drive business intelligence insights. Similar to a search engine user interface, Tableau’s Ask Data feature interface applies NLP from user text input to extract key words to find data analytics and business insights quickly on the Tableau Platform.
 
 
+
 ## Datasets
 
 - [UCI's Text Datasets](https://archive.ics.uci.edu/ml/datasets.html?format=&task=&att=&area=&numAtt=&numIns=&type=text&sort=nameUp&view=table)
@@ -523,8 +550,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [SWAG](https://github.com/rowanz/swagaf): A large-scale dataset created for Natural Language Inference (NLI) with common-sense reasoning.
 - [MIMIC](https://mimic.physionet.org/gettingstarted/access/): an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~40,000 critical care patients.
 - [Clinical NLP Dataset Repository](https://clinical-nlp.github.io/2019/resources.html): A curated list of publicly-available clinical datasets for use in NLP research.  
-- [Million Song Lyrics](https://labrosa.ee.columbia.edu/millionsong/musixmatch)
-
+- [Million Song Lyrics](https://labrosa.ee.columbia.edu/millionsong/musixmatch): Dataset of song lyrics in Bag-Of-Words (BOW) format.
+- [EDGAR Financial Statements](https://edgar-online.com): Reporting engine for financial and regulatory filings for companies worldwide. A huge repository of financial and company data for text mining.
 
 ### Lexicons for Sentiment Analysis
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
@@ -557,6 +584,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Sentiment140](http://help.sentiment140.com): Allows you to discover the sentiment of a brand, product, or topic on Twitter.
 - [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp)
 - [Paper with Code](https://paperswithcode.com/): A fantastic list of recent machine learning papers on ArXiv, with links to code.   
+- [Chinese NLP Tools](https://datascience.shanghai.nyu.edu/chinese-nlp-tools). 2019. List of tools for NLP in Chinese Language.
+- [Association for Computational Linguistics Papers Anthology](https://aclanthology.info/): The ACL Anthology currently hosts almost 50,000 papers on the study of computational linguistics and natural language processing.  Includes all papers from recent conferences.
 
 # Contribute
 
