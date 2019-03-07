@@ -227,6 +227,8 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Sentiment analysis: 10 applications and 4 services](https://towardsdatascience.com/machine-learning-as-a-service-487e930265b2). June 2018.
 - [TWITTER SENTIMENT ANALYSIS USING COMBINED LSTM-CNN MODELS](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/)
 - [Breakthrough Research Papers and Models for Sentiment Analysis](https://blog.paralleldots.com/data-science/breakthrough-research-papers-and-models-for-sentiment-analysis/) Article contains different types of models for Sentiment Analysis.
+- [Streaming Analytics Tutorial on Azure](https://docs.microsoft.com/en-ca/azure/azure-databricks/databricks-sentiment-analysis-cognitive-services?toc=%2Fen-ca%2Fazure%2Fcognitive-services%2Ftext-analytics%2Ftoc.json&bc=%2Fen-ca%2Fazure%2Fbread%2Ftoc.json)
+- [How to Analyze sentiment in Azure](https://docs.microsoft.com/en-ca/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis)
 
 ### Text Summarization
 - [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
@@ -443,24 +445,28 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [KNIME](https://www.knime.org/)
 - [RapidMiner](https://rapidminer.com/)
 - [Gate](https://gate.ac.uk/)
-- [IBM Watson](http://www.ibm.com/watson/)
-  - [Video: How IBM Watson learns (3 minutes)](https://www.youtube.com/watch?v=ymUFadN_MO4)
-  - [Video: IBM Watson on Jeapardy! (10 minutes)](https://www.youtube.com/watch?v=lI-M7O_bRNg)
-  - [Video: IBM Watson: The Science Behind an Answer (7 minutes)](https://www.youtube.com/watch?v=DywO4zksfXw)
 - [Crimson Hexagon](https://www.crimsonhexagon.com/)  
 - [Stocktwits](http://stocktwits.com/): Tap into the Pulse of Markets
 - [Meltwater](https://www.meltwater.com/)
 - [CrowdFlower](https://www.crowdflower.com/): AI for your business.
 - [Lexalytics Sematria](https://www.lexalytics.com/): API and Excel plugin.
 - [Rosette Text Analytics](https://www.rosette.com/): AI for Human Language
-- [Google's Natural Language API](https://cloud.google.com/natural-language): Derive insights from unstructured text using Google machine learning
 - [Alchemy API](http://www.alchemyapi.com/)
 - [Monkey Learn](http://monkeylearn.com/)
 - [LightTag Annotation Tool](https://lighttag.io). Hosted annotation tool for teams. 
 - [Anafora](https://github.com/weitechen/anafora): Free and open source web-based raw text annotation tool
 - [brat](http://brat.nlplab.org/): Rapid annotation tool.
-- [Amazon Lex](https://aws.amazon.com/lex/): A service for building conversational interfaces into any application using voice and text.
 - [Google's Colab](http://colab.research.google.com): Ready-to-go Notebook environment that makes it easy to get up and running.
+
+## Cloud 
+- [Microsoft Azure Text Analytics](https://docs.microsoft.com/en-ca/azure/cognitive-services/text-analytics/overview)
+- [Amazon Lex](https://aws.amazon.com/lex/): A service for building conversational interfaces into any application using voice and text.
+- [Amazon Comprehend](https://aws.amazon.com/comprehend/)
+- [Google Cloud Natural Language](https://cloud.google.com/natural-language/)
+- [IBM Watson](http://www.ibm.com/watson/)
+  - [Video: How IBM Watson learns (3 minutes)](https://www.youtube.com/watch?v=ymUFadN_MO4)
+  - [Video: IBM Watson on Jeapardy! (10 minutes)](https://www.youtube.com/watch?v=lI-M7O_bRNg)
+  - [Video: IBM Watson: The Science Behind an Answer (7 minutes)](https://www.youtube.com/watch?v=DywO4zksfXw)
 
 #### Getting Data out of PDFs
 
@@ -485,8 +491,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [RegexPal](https://www.regexpal.com/): Great tool for testing out regular expressions.
 - [AllenNLP Demo](https://demo.allennlp.org): Great demo using AllenNLP of everything from Named Entity Recognition to Textual Entailment.
 - [IBM NLP Demo](https://natural-language-understanding-demo.ng.bluemix.net): Examine a news article or other content from the link for NLP analysis using IBM NLP.
-- [Streaming Analytics Tutorial on Azure](https://docs.microsoft.com/en-ca/azure/azure-databricks/databricks-sentiment-analysis-cognitive-services?toc=%2Fen-ca%2Fazure%2Fcognitive-services%2Ftext-analytics%2Ftoc.json&bc=%2Fen-ca%2Fazure%2Fbread%2Ftoc.json).
-- [How to Analyze sentiment in Azure](https://docs.microsoft.com/en-ca/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis).
+
 
 ## Datasets
 
@@ -552,11 +557,6 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Sentiment140](http://help.sentiment140.com): Allows you to discover the sentiment of a brand, product, or topic on Twitter.
 - [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp)
 - [Paper with Code](https://paperswithcode.com/): A fantastic list of recent machine learning papers on ArXiv, with links to code.   
-
-## Cloud Tools
-- [Microsoft Azure Text Analytics](https://docs.microsoft.com/en-ca/azure/cognitive-services/text-analytics/overview) - Link to complete documentation on text analytics in Azure.
-- [AWS NLP](https://aws.amazon.com/comprehend/) - Link to Amazon Comprehend
-- [Google - Cloud Natural Language](https://cloud.google.com/natural-language/) - Link to Google Cloud Natural Language Portal
 
 
 # Contribute
