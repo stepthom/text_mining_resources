@@ -234,7 +234,7 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Unsupervised Text Summarization using Sentence Embeddings](https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1)
 - [Improving Abstraction in Text Summarization](http://aclweb.org/anthology/D18-1207) Proposing two techniques for improvement
 - [Text Summarization and Categorization for Scientific and Health-Related Data](https://repository.library.georgetown.edu/bitstream/handle/10822/1050759/Cohan_georgetown_0076D_13889.pdf?sequence=1) 
--[Text summarization with TensorFlow](https://ai.googleblog.com/2016/08/text-summarization-with-tensorflow.html) A very good basic study on text summarization published on Google AI blog. 2016
+-[Text summarization with TensorFlow](https://ai.googleblog.com/2016/08/text-summarization-with-tensorflow.html). 2016. A basic study on text summarization.
 
 ### Machine Translation
 - [Blog Post: Found in translation: More accurate, fluent sentences in Google Translate](https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/) Nov 2016
@@ -255,8 +255,8 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [A Survey on Dialogue Systems: Recent Advances and New Frontiers](https://arxiv.org/pdf/1711.01731.pdf) Jan 2018.
 - [Examining the Impact of an Automated Translation Chatbot on Online Collaborative Dialog for Incidental L2 Learning](https://www.researchgate.net/publication/329525159_Examining_the_impact_of_an_automated_translation_chatbot_on_online_collaborative_dialog_for_incidental_L2_learning)
 - [Create a banking chatbot with FAQ discovery, anger detection and natural language understanding] (https://github.com/IBM/watson-banking-chatbot)
-- [Task-oriented Dialogue System for Automatic Diagnosis] (http://www.sdspeople.fudan.edu.cn/zywei/paper/liu-acl2018.pdf)This paper talks about the use of MDP trained dataset and its medical diagnostic applications. 2018
--[Li Deng at AI Frontiers: Three Generations of Spoken Dialogue Systems (Bots)](https://www.slideshare.net/AIFrontiers/li-deng-three-generations-of-spoken-dialogue-systems-bots) A very well organized presentation slides by Microsoft Chief Scientist for AI. 2017
+- [Task-oriented Dialogue System for Automatic Diagnosis](http://www.sdspeople.fudan.edu.cn/zywei/paper/liu-acl2018.pdf). 2018. Talks about the use of MDP trained dataset and its medical diagnostic applications.
+-[Li Deng at AI Frontiers: Three Generations of Spoken Dialogue Systems (Bots)](https://www.slideshare.net/AIFrontiers/li-deng-three-generations-of-spoken-dialogue-systems-bots). 2017. Slides by Microsoft Chief Scientist for AI.
 
 ### Fuzzy Matching, Probabilistic Matching, Record Linkage, Etc. <a id="fuzzy-matching"></a>
 
@@ -553,7 +553,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Sentiment140](http://help.sentiment140.com): Allows you to discover the sentiment of a brand, product, or topic on Twitter.
 - [Awesome Deep Learning for Natural Language Processing (NLP)](https://github.com/brianspiering/awesome-dl4nlp)
 - [Paper with Code](https://paperswithcode.com/): A fantastic list of recent machine learning papers on ArXiv, with links to code.   
-- [Chinese NLP Tools](https://datascience.shanghai.nyu.edu/chinese-nlp-tools) A great list of tools for NLP in Chinese Language. created by University of Nanjing 2019
+- [Chinese NLP Tools](https://datascience.shanghai.nyu.edu/chinese-nlp-tools). 2019. List of tools for NLP in Chinese Language.
+
 # Contribute
 
 Contributions are more than welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
