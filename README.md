@@ -37,7 +37,7 @@ A curated list of resources for learning about natural language processing, text
   - [Knowledge Graphs](#knowledge-graphs)
 - [Benchmarks](#benchmarks)
 - [Online Courses](#online-courses)
-- [APIs and Libraries](#apis-and-libraries)
+- [Libraries](#libraries)
 - [Products](#products)
 - [Online Demos and Tools](#online-demos-and-tools)
 - [Datasets](#datasets)
@@ -368,54 +368,60 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [University of Michigan: Natural Language Processing](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
 
 
-## APIs and Libraries
-- [R packages](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
-  - [tm](https://cran.r-project.org/web/packages/tm/index.html): Text Mining.
-  - [lsa](https://cran.r-project.org/web/packages/lsa/index.html): Latent Semantic Analysis.
-  - [lda](https://cran.r-project.org/web/packages/lda/lda.pdf): Collapsed Gibbs Sampling Methods for Topic Models.
-  - [textir](https://cran.r-project.org/web/packages/textir/index.html): Inverse Regression for Text Analysis.
-  - [corpora](https://cran.r-project.org/web/packages/corpora/index.html): Statistics and data sets for corpus frequency data.
-  - [tau](https://cran.r-project.org/web/packages/tau/index.html): Text Analysis Utilities.
-  - [tidytext](https://github.com/juliasilge/tidytext): Text mining using dplyr, ggplot2, and other tidy tools.
-  - [Sentiment140](https://github.com/okugami79/sentiment140): Sentiment text analysis
-  - [sentimentr](https://cran.r-project.org/web/packages/sentimentr/sentimentr.pdf): Lexicon-based sentiment analysis.
-  - [cleanNLP](https://cran.r-project.org/web/packages/cleanNLP/cleanNLP.pdf): ML-based sentiment analysis.
-  - [RSentiment](https://cran.r-project.org/web/packages/RSentiment/RSentiment.pdf): Lexicon-based sentiment analysis. Contains support for negation detection and sarcasm.
-  - [text2vec](https://cran.r-project.org/web/packages/text2vec/index.html): Fast and memory-friendly tools for text vectorization, topic modeling (LDA, LSA), word embeddings (GloVe), similarities.
-  - [fastTextR](https://cran.r-project.org/web/packages/fastTextR/README.html): Interface to the fastText library.
-  - [LDAvis](https://cran.r-project.org/web/packages/LDAvis/): Interactive visualization of topic models.
-  - [keras](https://cran.r-project.org/web/packages/keras/index.html): Interface to [Keras](https://keras.io), a high-level neural networks 'API'. ([RStudio Blog: TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r))
-  - [retweet](http://rtweet.info/): Client for accessing Twitter’s REST and stream APIs. ([21 Recipes for Mining Twitter Data with rtweet](https://rud.is/books/21-recipes/))
-  - [topicmodels](https://cran.r-project.org/web/packages/topicmodels/topicmodels.pdf): Interface to the C code for Latent Dirichlet Allocation (LDA).
-  - [textmineR](https://cran.r-project.org/web/packages/textmineR/index.html): Aid for text mining in R, with a syntax that should be familiar to experienced R users.
-  - [wordVectors](https://github.com/bmschmidt/wordVectors): Creating and exploring word2vec and other word embedding models.
-  - [gtrendsR](https://cran.r-project.org/web/packages/gtrendsR/index.html): Interface for retrieving and displaying the information returned online by Google Trends.
-    - [Analyzing Google Trends Data in R](https://datascienceplus.com/analyzing-google-trends-data-in-r/)
-  - [textstem](https://cran.r-project.org/web/packages/textstem/): Tools that stem and lemmatize text.
-- Python modules
-  - [NLTK](http://www.nltk.org): Natural Language Toolkit.
-    - [Video: NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
-  - [scikit-learn](http://scikit-learn.org/): Machine Learning in Python
-     - [Tutorial](http://nbviewer.jupyter.org/gist/rjweiss/7158866)
-  - [spaCy](https://spacy.io/): Industrial-Strength Natural Language Processing in Python.
-  - [textblob](https://textblob.readthedocs.io/en/dev/): Simplified Text processing.
-    - [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
-  - [Gensim](https://radimrehurek.com/gensim/): Topic Modeling for humans.
-  - [textmining](https://pypi.python.org/pypi/textmining/1.0): Python Text Mining utilities.
-  - [Scrapy](https://scrapy.org/): Open source and collaborative framework for extracting the data you need from websites.
-  - [lda2vec](https://github.com/cemoody/lda2vec): Tools for interpreting natural language.
-  - [PyText](https://pytext-pytext.readthedocs-hosted.com/en/latest/) A deep-learning based NLP modeling framework built on PyTorch.
-  - [sent2vec](https://github.com/epfml/sent2vec): General purpose unsupervised sentence representations.
-  - [flair](https://github.com/zalandoresearch/flair): A very simple framework for state-of-the-art Natural Language Processing (NLP)
-  - [word_forms](https://github.com/gutfeeling/word_forms): Accurately generate all possible forms of an English word e.g "election" --> "elect", "electoral", "electorate" etc.
-  - [AllenNLP](https://github.com/allenai/allennlp): Open-source NLP research library, built on PyTorch.
-  - [BigARTM](https://github.com/bigartm/bigartm): Fast topic modeling platform.
-  - [Scattertext](https://github.com/JasonKessler/scattertext): Beautiful visualizations of how language differs among document types.
-  - [embeddings](https://pypi.org/project/embeddings/): Pretrained word embeddings in Python.
-  - [fastText](https://github.com/facebookresearch/fastText/tree/master/python): Library for efficient learning of word representations and sentence classification.
-  - [Google Seq2Seq](https://github.com/google/seq2seq): A general-purpose encoder-decoder framework for Tensorflow that can be used for Machine Translation, Text Summarization, Conversational Modeling, Image Captioning, and more.
-  - [polyglot](https://polyglot.readthedocs.io/en/latest/index.html): A natural language pipeline that supports multilingual applications.
-  - [textacy](https://chartbeat-labs.github.io/textacy/index.html): NLP, before and after spaCy
+## Libraries
+
+#### R packages
+- [tm](https://cran.r-project.org/web/packages/tm/index.html): Text Mining.
+- [lsa](https://cran.r-project.org/web/packages/lsa/index.html): Latent Semantic Analysis.
+- [lda](https://cran.r-project.org/web/packages/lda/lda.pdf): Collapsed Gibbs Sampling Methods for Topic Models.
+- [textir](https://cran.r-project.org/web/packages/textir/index.html): Inverse Regression for Text Analysis.
+- [corpora](https://cran.r-project.org/web/packages/corpora/index.html): Statistics and data sets for corpus frequency data.
+- [tau](https://cran.r-project.org/web/packages/tau/index.html): Text Analysis Utilities.
+- [tidytext](https://github.com/juliasilge/tidytext): Text mining using dplyr, ggplot2, and other tidy tools.
+- [Sentiment140](https://github.com/okugami79/sentiment140): Sentiment text analysis
+- [sentimentr](https://cran.r-project.org/web/packages/sentimentr/sentimentr.pdf): Lexicon-based sentiment analysis.
+- [cleanNLP](https://cran.r-project.org/web/packages/cleanNLP/cleanNLP.pdf): ML-based sentiment analysis.
+- [RSentiment](https://cran.r-project.org/web/packages/RSentiment/RSentiment.pdf): Lexicon-based sentiment analysis. Contains support for negation detection and sarcasm.
+- [text2vec](https://cran.r-project.org/web/packages/text2vec/index.html): Fast and memory-friendly tools for text vectorization, topic modeling (LDA, LSA), word embeddings (GloVe), similarities.
+- [fastTextR](https://cran.r-project.org/web/packages/fastTextR/README.html): Interface to the fastText library.
+- [LDAvis](https://cran.r-project.org/web/packages/LDAvis/): Interactive visualization of topic models.
+- [keras](https://cran.r-project.org/web/packages/keras/index.html): Interface to [Keras](https://keras.io), a high-level neural networks 'API'. ([RStudio Blog: TensorFlow for R](https://blog.rstudio.com/2018/02/06/tensorflow-for-r))
+- [retweet](http://rtweet.info/): Client for accessing Twitter’s REST and stream APIs. ([21 Recipes for Mining Twitter Data with rtweet](https://rud.is/books/21-recipes/))
+- [topicmodels](https://cran.r-project.org/web/packages/topicmodels/topicmodels.pdf): Interface to the C code for Latent Dirichlet Allocation (LDA).
+- [textmineR](https://cran.r-project.org/web/packages/textmineR/index.html): Aid for text mining in R, with a syntax that should be familiar to experienced R users.
+- [wordVectors](https://github.com/bmschmidt/wordVectors): Creating and exploring word2vec and other word embedding models.
+- [gtrendsR](https://cran.r-project.org/web/packages/gtrendsR/index.html): Interface for retrieving and displaying the information returned online by Google Trends.
+  - [Analyzing Google Trends Data in R](https://datascienceplus.com/analyzing-google-trends-data-in-r/)
+- [textstem](https://cran.r-project.org/web/packages/textstem/): Tools that stem and lemmatize text.
+
+#### Python modules
+- [NLTK](http://www.nltk.org): Natural Language Toolkit.
+  - [Video: NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
+- [scikit-learn](http://scikit-learn.org/): Machine Learning in Python
+   - [Tutorial](http://nbviewer.jupyter.org/gist/rjweiss/7158866)
+- [spaCy](https://spacy.io/): Industrial-Strength Natural Language Processing in Python.
+- [textblob](https://textblob.readthedocs.io/en/dev/): Simplified Text processing.
+  - [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
+- [Gensim](https://radimrehurek.com/gensim/): Topic Modeling for humans.
+- [textmining](https://pypi.python.org/pypi/textmining/1.0): Python Text Mining utilities.
+- [Scrapy](https://scrapy.org/): Open source and collaborative framework for extracting the data you need from websites.
+- [lda2vec](https://github.com/cemoody/lda2vec): Tools for interpreting natural language.
+- [PyText](https://pytext-pytext.readthedocs-hosted.com/en/latest/) A deep-learning based NLP modeling framework built on PyTorch.
+- [sent2vec](https://github.com/epfml/sent2vec): General purpose unsupervised sentence representations.
+- [flair](https://github.com/zalandoresearch/flair): A very simple framework for state-of-the-art Natural Language Processing (NLP)
+- [word_forms](https://github.com/gutfeeling/word_forms): Accurately generate all possible forms of an English word e.g "election" --> "elect", "electoral", "electorate" etc.
+- [AllenNLP](https://github.com/allenai/allennlp): Open-source NLP research library, built on PyTorch.
+- [BigARTM](https://github.com/bigartm/bigartm): Fast topic modeling platform.
+- [Scattertext](https://github.com/JasonKessler/scattertext): Beautiful visualizations of how language differs among document types.
+- [embeddings](https://pypi.org/project/embeddings/): Pretrained word embeddings in Python.
+- [fastText](https://github.com/facebookresearch/fastText/tree/master/python): Library for efficient learning of word representations and sentence classification.
+- [Google Seq2Seq](https://github.com/google/seq2seq): A general-purpose encoder-decoder framework for Tensorflow that can be used for Machine Translation, Text Summarization, Conversational Modeling, Image Captioning, and more.
+- [polyglot](https://polyglot.readthedocs.io/en/latest/index.html): A natural language pipeline that supports multilingual applications.
+- [textacy](https://chartbeat-labs.github.io/textacy/index.html): NLP, before and after spaCy
+
+## Products
+
+#### Open Source
 - [Apache Tika](http://tika.apache.org/): a content analysis tookilt.
 - [HDF5](https://www.neonscience.org/about-hdf5): An open source file format that supports large, complex, heterogeneous data. Requires no configuration.
   - [h5py](http://docs.h5py.org/en/stable/quick.html): Python HDF5 package
@@ -436,7 +442,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [fastText](https://github.com/facebookresearch/fastText). Library for fast text representation and classification. Facebook.
 - [Comparison of Top 6 Python NLP Libraries](https://www.kdnuggets.com/2018/07/comparison-top-6-python-nlp-libraries.html).
 
-## Products
+#### Commercial
 - [Systran - Enterprise Translation Products](http://www.systransoft.com/translation-products/)
 - [SAS Text Miner (Part of SAS Enterprise Miner)](http://www.sas.com/en_us/software/analytics/text-miner.html)
 - [SAS Sentiment Analysis](http://www.sas.com/en_ca/software/analytics/sentiment-analysis.html)
@@ -458,7 +464,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [brat](http://brat.nlplab.org/): Rapid annotation tool.
 - [Google's Colab](http://colab.research.google.com): Ready-to-go Notebook environment that makes it easy to get up and running.
 
-## Cloud 
+#### Cloud 
 - [Microsoft Azure Text Analytics](https://docs.microsoft.com/en-ca/azure/cognitive-services/text-analytics/overview)
 - [Amazon Lex](https://aws.amazon.com/lex/): A service for building conversational interfaces into any application using voice and text.
 - [Amazon Comprehend](https://aws.amazon.com/comprehend/)
