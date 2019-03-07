@@ -594,6 +594,9 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Million Song Lyrics](https://labrosa.ee.columbia.edu/millionsong/musixmatch): Dataset of song lyrics in Bag-Of-Words (BOW) format.
 - [DuoRC](https://github.com/duorc/duorc/tree/master/dataset) – 186K unique question-answer pairs with evaluation script for Paraphrased Reading Comprehension
 - [EDGAR Financial Statements](https://edgar-online.com): Reporting engine for financial and regulatory filings for companies worldwide. A huge repository of financial and company data for text mining.
+- [American National Corpus Download](http://www.anc.org/data/oanc/contents/)
+- [Santa Barbara Corpus of Spoken American English](http://www.linguistics.ucsb.edu/research/santa-barbara-corpus)
+- [Leipzig Corpora Collection: Corpora in English, Arabic, French, Russian, German](http://wortschatz.uni-leipzig.de/en/download/)
 
 ### Lexicons for Sentiment Analysis
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
@@ -602,11 +605,6 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Bing](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html)
 - [nrc](http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm)
 - [vaderSentiment](https://github.com/cjhutto/vaderSentiment)
-
-### Corpora for Download
-- [American National Corpus Download](http://www.anc.org/data/oanc/contents/)
-- [Santa Barbara Corpus of Spoken American English](http://www.linguistics.ucsb.edu/research/santa-barbara-corpus)
-- [Leipzig Corpora Collection: Corpora in English, Arabic, French, Russian, German](http://wortschatz.uni-leipzig.de/en/download/)
 
 
 ## Misc
