@@ -35,6 +35,7 @@ A curated list of resources for learning about natural language processing, text
   - [Word and Document Embeddings](#word-and-document-embeddings)
   - [Deep Learning](#deep-learning)
   - [Knowledge Graphs](#knowledge-graphs)
+- [NLP Conferences](#nlp-conferences)
 - [Benchmarks](#benchmarks)
 - [Online Courses](#online-courses)
 - [APIs and Libraries](#apis-and-libraries)
@@ -342,6 +343,11 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 - [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
 - [WTF is a knowledge graph?](https://hackernoon.com/wtf-is-a-knowledge-graph-a16603a1a25f)
+
+## NLP Conferences
+
+- [InterSpeech](https://www.isca-speech.org/iscaweb/index.php/conferences/interspeech)
+- [Association for Computational Linguistics (ACL)](http://www.acl2019.org/EN/index.xhtml)
 
 ## Benchmarks
 
