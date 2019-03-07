@@ -95,6 +95,7 @@ A curated list of resources for learning about natural language processing, text
 ## Blog Articles, Papers, Case Studies
 
 ### General <a id="general-articles"></a>
+- [Why Accuracy in Natural Language Processing is Crucial to the Future of AI in Retail](https://www.mytotalretail.com/article/why-accuracy-in-natural-language-processing-is-crucial-to-the-future-of-ai-in-retail/)
 - [Natural Language Processing is Fun! How computers understand Human Language](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e). 2018.
 - [WEF Live Campaign - Twitter fed Global News Topics & Sentiment Tracker](https://365.weflive.com/#!/r/worldwide/t/all-topics) - Live Jan 2019
 - [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com)
@@ -175,6 +176,7 @@ A curated list of resources for learning about natural language processing, text
 ### Entity and Information Extraction
 
 - [Entity Extraction and Network Analysis](http://brandonrose.org/ner2sna). Python, `StanfordCoreNLP`
+- [Natural Language Processing for Information Extraction](https://arxiv.org/abs/1807.02383)
 - [NLP Techniques for Extracting Information](https://www.searchtechnologies.com/blog/natural-language-processing-techniques). In-depth exploration of the seven steps framework of NLP data mining tools and techniques.
 
 ### Document Clustering and Document Similarity
@@ -201,6 +203,7 @@ SAS® Enterprise Miner](http://analytics.ncsu.edu/sesug/2016/EPO-280_Final_PDF.p
 
 
 ### Sentiment Analysis
+- [Unsupervised Sentiment Analysis with Signed Social Networks](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14656/14129)
 - [Sentiment analysis on Trump's tweets using Python](https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_149). Sep 2017.
 - [Donald Trump vs Hillary Clinton: sentiment analysis on Twitter mentions](https://blog.monkeylearn.com/donald-trump-vs-hillary-clinton-sentiment-analysis-twitter-mentions/)
 - [Does sentiment analysis work? A tidy analysis of Yelp reviews](http://varianceexplained.org/r/yelp-sentiment/)
