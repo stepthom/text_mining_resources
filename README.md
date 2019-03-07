@@ -176,7 +176,6 @@ A curated list of resources for learning about natural language processing, text
 ### Entity and Information Extraction
 
 - [Entity Extraction and Network Analysis](http://brandonrose.org/ner2sna). Python, `StanfordCoreNLP`
-- [NLP Techniques for Extracting Information](https://www.searchtechnologies.com/blog/natural-language-processing-techniques)
 - [Natural Language Processing for Information Extraction](https://arxiv.org/abs/1807.02383)
 - [NLP Techniques for Extracting Information](https://www.searchtechnologies.com/blog/natural-language-processing-techniques). In-depth exploration of the seven steps framework of NLP data mining tools and techniques.
 
