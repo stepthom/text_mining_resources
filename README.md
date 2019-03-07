@@ -345,9 +345,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - A short article containing links and descriptions to further video tutorials for DL approaches to NLP problems. Five lessons total including preprocessing, word representations, and LSTM, among other topics.
 - [A Survey of the Usages of Deep Learning in Natural Language Processing](https://arxiv.org/abs/1807.10854). 
   - A 35-page academic literature review of DL in NLP (University of Colorado, July 2018). Detailed description of neural network architectures followed by a comprehensive set of applications.
-- [Sequence Classification with Human Attention](http://aclweb.org/anthology/K18-1030): Using human attention derived from eye-tracking corpora to regularize attention in recurrent neural networks (RNN). [Implementation code](https://github.com/coastalcph/Sequence_classification_with_human_attention).  
-- [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf): MT-DNN, Microsoft’s new deep learning approach to NLU that outperforms BERT
-=======
+- [Sequence Classification with Human Attention](http://aclweb.org/anthology/K18-1030): Using human attention derived from eye-tracking corpora to regularize attention in recurrent neural networks (RNN). [Implementation code](https://github.com/coastalcph/Sequence_classification_with_human_attention).
 - [Tutorial on Text Classification (NLP) using ULMFiT and fastai Library in Python](https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/)
 - [WHAT EVERY NLP ENGINEER NEEDS TO KNOW ABOUT PRE-TRAINED LANGUAGE MODELS](https://arxiv.org/abs/1901.11504). 2019.
 - [Multi-Task Deep Neural Networks for Natural Language Understanding](https://www.topbots.com/ai-nlp-research-pretrained-language-models). Academic article detailing Microsoft's MTDNN algorithm which has outperformed BERT, ELMo & BiLSTM as of February 2019 in the GLUE Benchmark.
