@@ -79,7 +79,6 @@ A curated list of resources for learning about natural language processing, text
 - [Machine Learning for Text (2018)](https://www.springer.com/us/book/9783319735306)
 - [Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/pdf/1811.00196.pdf)
 - [Natural Language Processing in Spanish](https://iaarbook.github.io/procesamiento-del-lenguaje-natural/)
-- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 
 ## Blogs
 - [Probably Approximately a Scientific Blog](http://veredshwartz.blogspot.com/)
@@ -127,8 +126,8 @@ A curated list of resources for learning about natural language processing, text
 - [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 - [Crowdsourcing Ground Truth for Medical Relation Extraction](https://dl.acm.org/citation.cfm?id=3152889)
 - [Natural language based financial forecasting: a survey](https://sentic.net/natural-language-based-financial-forecasting.pdf)
-- [Monthly newsletters to get highlights from NLP & ML industry](http://newsletter.ruder.io/)
-- [5 Python NLP libraries that covers almost all needs of any NLP projects] (https://towardsdatascience.com/5-heroic-tools-for-natural-language-processing-7f3c1f8fc9f0)
+- [5 Heroic Tools for Natural Language Processing] (https://towardsdatascience.com/5-heroic-tools-for-natural-language-processing-7f3c1f8fc9f0)
+- [Natural Language Processing unlocks hidden data to transform healthcare efficiency, quality and cost](https://www.healthcareglobal.com/technology/natural-language-processing-unlocks-hidden-data-transform-healthcare-efficiency-quality)
 ### Biases in NLP 
 - [Venturebeat Blogpost - Gender biases in datasets](https://venturebeat.com/2018/09/07/researchers-develop-a-method-that-reduces-gender-bias-in-ai-datasets/) - Based on UCLA research paper "Learning Gender Neutral Word Embeddings" Aug 2018 .
 
@@ -310,7 +309,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Sequence Classification with Human Attention](http://aclweb.org/anthology/K18-1030): Using human attention derived from eye-tracking corpora to regularize attention in recurrent neural networks (RNN). [Implementation code](https://github.com/coastalcph/Sequence_classification_with_human_attention).  
 - [Tutorial on Text Classification (NLP) using ULMFiT and fastai Library in Python](https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/)
 - [WHAT EVERY NLP ENGINEER NEEDS TO KNOW ABOUT PRE-TRAINED LANGUAGE MODELS](https://www.topbots.com/ai-nlp-research-pretrained-language-models). 2019.
-- [This paper provides a comprehensive survey of current applications of Deep Learning in Sentiment Analysis] (https://arxiv.org/abs/1801.07883)
+- [Deep Learning for Sentiment Analysis : A Survey](https://arxiv.org/abs/1801.07883)
 
 ### Knowledge Graphs
 
@@ -505,8 +504,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [r/datasets](https://www.reddit.com/r/datasets/)
 - [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [R's `datasets` package](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
-- [200,000 Russian Troll Tweets](https://www.reddit.com/r/politics/comments/7zfk4i/im_a_reporter_for_nbc_
-_and_we_published_over/)
+- [200,000 Russian Troll Tweets](https://www.reddit.com/r/politics/comments/7zfk4i/im_a_reporter_for_nbc__and_we_published_over/)
 - [Wikipedia: List of datasets for ML research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 - [Kaggle: UMICH SI650 - Sentiment Classification](https://www.kaggle.com/c/si650winter11/data)
@@ -522,7 +520,7 @@ _and_we_published_over/)
 - [MIMIC](https://mimic.physionet.org/gettingstarted/access/): an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~40,000 critical care patients.
 - [Clinical NLP Dataset Repository](https://clinical-nlp.github.io/2019/resources.html): A curated list of publicly-available clinical datasets for use in NLP research.  
 - [Million Song Lyrics](https://labrosa.ee.columbia.edu/millionsong/musixmatch)
-- [MultiNLI corpus offers data from ten distinct genres of written and spoken English, making it possible to evaluate systems on nearly the full complexity of the language, while supplying an explicit setting for evaluating cross-genre domain adaptation ](https://www.nyu.edu/projects/bowman/multinli/)
+- [The Multi-Genre NLI Corpus](https://www.nyu.edu/projects/bowman/multinli/)
 
 
 ### Lexicons for Sentiment Analysis
@@ -542,7 +540,7 @@ _and_we_published_over/)
 - [Reasoning about Actions and State Changes by Injecting Commonsense Knowledge](http://aclweb.org/anthology/D18-1006) Incorporating global, commonsense constraints & biasing reading with preferences from large-scale corp
 - [Using Natural Language Processing for Automatic Detection of Plagiarism](https://pdfs.semanticscholar.org/636d/4c0b0fe6919abe6eb546907d28ed39bf56e6.pdf)
 - [Probabilistic Graphical Models: Lagrangian Relaxation Algorithms for Natural Language Processing](http://people.csail.mit.edu/dsontag/courses/pgm12/slides/lecture3.pdf)
-- [This paper proposes a new model for extracting an interpretable snetence embedding by introducing self-attention] (https://arxiv.org/pdf/1703.03130.pdf)
+- [A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING](https://arxiv.org/pdf/1703.03130.pdf)
 ## Meta
 - [Deep Learning for NLP, advancements and trends in 2017](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_162)
 - [10 Exciting Ideas of 2018 in NLP](http://ruder.io/10-exciting-ideas-of-2018-in-nlp/)
