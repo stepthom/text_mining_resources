@@ -98,11 +98,11 @@ A curated list of resources for learning about natural language processing, text
 - [Natural Language Processing is Fun! How computers understand Human Language](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e). 2018.
 - [WEF Live Campaign - Twitter fed Global News Topics & Sentiment Tracker](https://365.weflive.com/#!/r/worldwide/t/all-topics) - Live Jan 2019
 - [Modern Deep Learning Techniques Applied to Natural Language Processing](https://nlpoverview.com)
-- [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/definitive-guide-natural-language-processing/)
+- [The Definitive Guide to Natural Language Processing](https://monkeylearn.com/blog/definitive-guide-natural-language-processing/). MonkeyLearn. Non technical overview.
 - [From Natural Language to Calendar Entries, with Clojure](http://edeferia.blogspot.ca/2015/03/from-natural-language-to-calendar.html). March 2015. NLP, Clojure
 - [Ask HN: How Can I Get into NLP (Natural Language Processing)?](https://news.ycombinator.com/item?id=12916498)
 - [Ask HN: What are the best tools for analyzing large bodies of text?](https://news.ycombinator.com/item?id=9733883)
-- [Quora: How do I learn Natural Language Processing?](https://www.quora.com/How-do-I-learn-Natural-Language-Processing)
+- [Quora: How do I learn Natural Language Processing?](https://www.quora.com/How-do-I-learn-Natural-Language-Processing). Good intro for beginner with time estimate breakdown and links to Stanford CS courses.
 - [Quora Topic: Natural Language Processing](https://www.quora.com/topic/Natural-Language-Processing)
 - [The Definitive Guide to Natural Language Processing](https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/) October 2015.
 - [Futures of text](http://whoo.ps/2015/02/23/futures-of-text) Feb 2015. A survey of all the current innovation in text as a medium.
@@ -120,13 +120,14 @@ A curated list of resources for learning about natural language processing, text
 - [Natural Language Processing blog](http://nlpers.blogspot.ca/). 
 - [An Introduction to Text Mining using Twitter Streaming API and Python](http://adilmoujahid.com/posts/2014/07/twitter-analytics/)
   - GitHub repo with code: https://github.com/adilmoujahid/Twitter_Analytics
-- [How To Get Into Natural Language Processing](http://blog.ycombinator.com/how-to-get-into-natural-language-processing/)'
+- [How To Get Into Natural Language Processing](http://blog.ycombinator.com/how-to-get-into-natural-language-processing/)'. Basic non technical intro to NLP.
 - [Betty: a friendly English-like interface for your command line.](https://github.com/pickhardt/betty)
 - [Creating machine learning models to analyze startup news - Part1](https://monkeylearn.com/blog/filtering-startup-news-machine-learning/). [Part 2](https://monkeylearn.com/blog/creating-machine-learning-models-analyze-news/). [Part 3](https://monkeylearn.com/blog/analyzing-startup-news-with-machine-learning/).
 - [Comparison of the Most Useful Text Processing APIs](https://www.kdnuggets.com/2018/08/comparison-most-useful-text-processing-apis.html)
 - [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 - [Crowdsourcing Ground Truth for Medical Relation Extraction](https://dl.acm.org/citation.cfm?id=3152889)
 - [Natural language based financial forecasting: a survey](https://sentic.net/natural-language-based-financial-forecasting.pdf)
+- [Natural Language Processing (NLP) for Machine Learning](https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b). Includes basic, easy to understand preprocessing and compares a few ML classificaiotn models in Python.
 - [How to Write a Spelling Corrector - by Peter Norvig](https://norvig.com/spell-correct.html)
 - [Using AI to unleash the power of unstructured government data](https://www2.deloitte.com/insights/us/en/focus/cognitive-technologies/natural-language-processing-examples-in-government-data.html): (W. Eggers, N. Malik, & M. Gracie, January 2019). “Think of unstructured text as being ‘trapped’ in physical and virtual file cabinets. The promise is clear: Governments could improve effectiveness and prevent many catastrophes by improving their ability to ‘connect the dots’ and identify patterns in available data.” This Deloitte article provides an easy-to-comprehend primer and background on NLP, and the various applications NLP could be used on unstructured Government text data. The article includes many US Government examples on how NLP is currently deployed across different domains (e.g. to help analyze public feedback/sentiment analysis/topic modelling, to improve forensic investigations, to aid in Government policy-making and regulatory compliance). The key point is to apply different NLP techniques to explore and uncover key Government intelligence insights.
 - [Extracting Features of Entertainment Products: A Guided Latent Dirichlet Allocation Approach Informed by the Psychology of Media Consumption](https://doi.org/10.1177/0022243718820559): (O. Toubia, G. Iyengar, R. Bunnell, & A. Lemaire, February 2019). “We rely on the NLP literature to develop a method for tagging entertainment products in an automated and scalable manner. In the context of movies, we first show that the proposed features improve our ability to predict consumption at the individual level… We also show that guided LDA features have the potential to improve the performance of models that predict aggregate performance outcomes rather than individual-level consumption.” This academic article provides both a framework and managerial implications that suggest the application of LDA and NLP for feature extraction in entertainment products that can aid in traditional content-based consumer behavior models, and relevant marketing models applied to the media and entertainment industry.
@@ -519,7 +520,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Lexalytics Sematria](https://www.lexalytics.com/): API and Excel plugin.
 - [Rosette Text Analytics](https://www.rosette.com/): AI for Human Language
 - [Google's Natural Language API](https://cloud.google.com/natural-language): Derive insights from unstructured text using Google machine learning
-- [Alchemy API](http://www.alchemyapi.com/)
+- [Alchemy API](https://www.ibm.com/watson/alchemy-api.html)
 - [Monkey Learn](http://monkeylearn.com/)
 - [LightTag Annotation Tool](https://lighttag.io). Hosted annotation tool for teams. 
 - [Anafora](https://github.com/weitechen/anafora): Free and open source web-based raw text annotation tool
