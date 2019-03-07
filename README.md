@@ -63,7 +63,7 @@ A curated list of resources for learning about natural language processing, text
 - [Applied Natural Language Processing With Python (2018)](https://link.springer.com/book/10.1007%2F978-1-4842-3733-5) 
 
 #### General <a id="general-books"></a>
-- [Taming Text](https://www.manning.com/books/taming-text)
+- [Taming Text: How to Find, Organize, and Manipulate It](https://www.manning.com/books/taming-text)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/)
 - [Language Processing with Perl and Prolog: Theories, Implementation, and Application (Cognitive Technologies)](https://www.amazon.com/Language-Processing-Perl-Prolog-Implementation/dp/364241463X/ref=redir_mobile_desktop?ie=UTF8&ref_=dp_ob_neva_mobile)
@@ -104,7 +104,7 @@ A curated list of resources for learning about natural language processing, text
 - [Quora: How do I learn Natural Language Processing?](https://www.quora.com/How-do-I-learn-Natural-Language-Processing)
 - [Quora Topic: Natural Language Processing](https://www.quora.com/topic/Natural-Language-Processing)
 - [The Definitive Guide to Natural Language Processing](https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/) October 2015.
-- [Futures of text](http://whoo.ps/2015/02/23/futures-of-text) Feb 2015.
+- [Futures of text](http://whoo.ps/2015/02/23/futures-of-text) Feb 2015. A survey of all the current innovation in text as a medium.
 - [R or Python on Text Mining](https://datawarrior.wordpress.com/2015/08/12/codienerd-1-r-or-python-on-text-mining/) Aug 2015. Comparison of efficiency between R and Python in the field of Text Mining.
 - [Where to start in Text Mining](https://tedunderwood.com/2012/08/14/where-to-start-with-text-mining/) Aug 2012.
 - [Text Mining in R and Python: 8 Tips To Get Started](https://www.r-bloggers.com/text-mining-in-r-and-python-8-tips-to-get-started/). Oct 2016
@@ -126,6 +126,7 @@ A curated list of resources for learning about natural language processing, text
 - [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 - [Crowdsourcing Ground Truth for Medical Relation Extraction](https://dl.acm.org/citation.cfm?id=3152889)
 - [Natural language based financial forecasting: a survey](https://sentic.net/natural-language-based-financial-forecasting.pdf)
+
 ### Biases in NLP 
 - [Venturebeat Blogpost - Gender biases in datasets](https://venturebeat.com/2018/09/07/researchers-develop-a-method-that-reduces-gender-bias-in-ai-datasets/) - Based on UCLA research paper "Learning Gender Neutral Word Embeddings" Aug 2018 .
 
@@ -144,7 +145,7 @@ A curated list of resources for learning about natural language processing, text
 ### Stemming
 - [Article: Text Stemming: Approaches, Applications, and Challenges](http://dl.acm.org/citation.cfm?id=2975608)
 - [What is the Difference Between Stemming and Lemmatization?](https://blog.bitext.com/what-is-the-difference-between-stemming-and-lemmatization/)
-- [Stemming and Lemmatization in Python](https://www.datacamp.com/community/tutorials/stemming-lemmatization-python)
+- [Stemming and Lemmatization in Python](https://www.datacamp.com/community/tutorials/stemming-lemmatization-python). Introduction and applications of stemming and lemmatization using NLTK package.
 - [Sentiment Symposium Tutorial: Stemming](http://sentiment.christopherpotts.net/stemming.html)
 
 ### Dimensionality Reduction
@@ -532,7 +533,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [SWAG](https://github.com/rowanz/swagaf): A large-scale dataset created for Natural Language Inference (NLI) with common-sense reasoning.
 - [MIMIC](https://mimic.physionet.org/gettingstarted/access/): an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~40,000 critical care patients.
 - [Clinical NLP Dataset Repository](https://clinical-nlp.github.io/2019/resources.html): A curated list of publicly-available clinical datasets for use in NLP research.  
-- [Million Song Lyrics](https://labrosa.ee.columbia.edu/millionsong/musixmatch)
+- [Million Song Lyrics](https://labrosa.ee.columbia.edu/millionsong/musixmatch): Dataset of song lyrics in Bag-Of-Words (BOW) format.
 
 ### Lexicons for Sentiment Analysis
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
