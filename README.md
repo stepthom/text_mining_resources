@@ -53,7 +53,6 @@ A curated list of resources for learning about natural language processing, text
 - [Text Mining in Practice with R](https://www.wiley.com/en-us/Text+Mining+in+Practice+with+R-p-9781119282013)
 
 #### Python
-- [NLTK Book](https://www.nltk.org/book/) This book provides a practical introduction to analyze text using python and NLP.
 - [Natural Language Processing with Python](http://www.nltk.org/book/)
 - [Natural Language Processing with PyTorch](http://shop.oreilly.com/product/0636920063445.do)
 - [Python Natural Language Processing](http://shop.oreilly.com/product/9781787121423.do)
@@ -62,7 +61,6 @@ A curated list of resources for learning about natural language processing, text
 - [Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning](http://shop.oreilly.com/product/0636920052555.do)
 - [Applied Natural Language Processing With Python](https://link.springer.com/book/10.1007%2F978-1-4842-3733-5) 2018.
 - [Deep Learning with Text](http://shop.oreilly.com/product/0636920076063.do)
-- [Applied Natural Language Processing With Python (2018)](https://link.springer.com/book/10.1007%2F978-1-4842-3733-5)
 
 #### General <a id="general-books"></a>
 - [Taming Text](https://www.manning.com/books/taming-text)  A hands-on guide to learn innovative tools and techniques for finding, organizing, and manipulating unstructured text.
@@ -81,6 +79,8 @@ A curated list of resources for learning about natural language processing, text
 - [Machine Learning for Text (2018)](https://www.springer.com/us/book/9783319735306)
 - [Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/pdf/1811.00196.pdf)
 - [Natural Language Processing in Spanish](https://iaarbook.github.io/procesamiento-del-lenguaje-natural/)
+- [Foundations of Computational Linguistics Human-Computer Communication in Natural Language](https://www.springer.com/gp/book/9783642414305) This book provides insights on how to build talking robots.
+- [Statistical Methods for Speech Recognition](https://mitpress.mit.edu/books/statistical-methods-speech-recognition) This is a book by Frederick Jelinek and A Bradford and it highlights important research and statistical methods for speech recognition.
 
 ## Blogs
 - [Probably Approximately a Scientific Blog](http://veredshwartz.blogspot.com/)
@@ -371,7 +371,6 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 
 ## APIs and Libraries
-- [About spaCy](https://spacy.io/) spaCy is an NLP library used in Python for huge information extraction tasks.
 - [R packages](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
   - [tm](https://cran.r-project.org/web/packages/tm/index.html): Text Mining.
   - [lsa](https://cran.r-project.org/web/packages/lsa/index.html): Latent Semantic Analysis.
@@ -395,6 +394,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - [gtrendsR](https://cran.r-project.org/web/packages/gtrendsR/index.html): Interface for retrieving and displaying the information returned online by Google Trends.
     - [Analyzing Google Trends Data in R](https://datascienceplus.com/analyzing-google-trends-data-in-r/)
   - [textstem](https://cran.r-project.org/web/packages/textstem/): Tools that stem and lemmatize text.
+  - [NLPutils](https://CRAN.R-project.org/package=NLPutils) Utilities for Natural Language Processing.
+  - [Udpipe](https://cran.r-project.org/web/packages/udpipe/readme/README.html) Tokenization, Parts of Speech Tagging, Lemmatization and Dependency Parsing using UDPipe.
 - Python modules
   - [NLTK](http://www.nltk.org): Natural Language Toolkit.
     - [Video: NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
@@ -480,7 +481,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 
 ## Online Demos and Tools
-- [Stanford NLP Software](https://stanfordnlp.github.io/CoreNLP/) It provides a set of human languages technology tools for grammatical analysis and text analytics. 
+
 - [MIT OpenNPT for neural machine translation and neural sequence modeling](http://opennmt.net/)
 - [Stemming & Lemmatization with Python NLTK](https://text-processing.com/demo/stem/)
 - [Stanford Parser](http://nlp.stanford.edu:8080/parser/)
@@ -491,6 +492,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [RegexPal](https://www.regexpal.com/): Great tool for testing out regular expressions.
 - [AllenNLP Demo](https://demo.allennlp.org): Great demo using AllenNLP of everything from Named Entity Recognition to Textual Entailment.
 - [IBM NLP Demo](https://natural-language-understanding-demo.ng.bluemix.net): Examine a news article or other content from the link for NLP analysis using IBM NLP.
+- [Cognitive Computation Group - Part of Speech Tagging Demo](http://cogcomp.org/page/demos/) These demos exhibit part-of-speech tagging, information extraction tasks etc.
+- [An Open-Source Suite of Language Analyzers](http://nlp.lsi.upc.edu/freeling/demo/demo.php) FreeLing 4.1 - It is an open-source suite of language analyzers.
 
 ## Datasets
 
