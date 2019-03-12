@@ -60,10 +60,11 @@ A curated list of resources for learning about natural language processing, text
 - [Mastering Natural Language Processing with Python](http://shop.oreilly.com/product/9781783989041.do)
 - [Natural Language Processing: Python and NLTK](http://shop.oreilly.com/product/9781787285101.do)
 - [Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning](http://shop.oreilly.com/product/0636920052555.do)
-- [Applied Natural Language Processing With Python (2018)](https://link.springer.com/book/10.1007%2F978-1-4842-3733-5) 
+- [Applied Natural Language Processing With Python](https://link.springer.com/book/10.1007%2F978-1-4842-3733-5). 2018.
+- [Deep Learning with Text](http://shop.oreilly.com/product/0636920076063.do)
 
 #### General <a id="general-books"></a>
-- [Taming Text: How to Find, Organize, and Manipulate It](https://www.manning.com/books/taming-text)
+- [Taming Text: How to Find, Organize, and Manipulate It](https://www.manning.com/books/taming-text). A hands-on guide to learn innovative tools and techniques for finding, organizing, and manipulating unstructured text.
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/)
 - [Language Processing with Perl and Prolog: Theories, Implementation, and Application (Cognitive Technologies)](http://promethee.philo.ulg.ac.be/engdep1/download/bacIII/Nugues%20second%20ed.pdf)
@@ -78,6 +79,8 @@ A curated list of resources for learning about natural language processing, text
 - [Neural Network Methods in Natural Language Processing](https://www.morganclaypool.com/doi/abs/10.2200/S00762ED1V01Y201703HLT037)
 - [Machine Learning for Text (2018)](https://www.springer.com/us/book/9783319735306)
 - [Natural Language Processing in Spanish](https://iaarbook.github.io/procesamiento-del-lenguaje-natural/)
+- [Foundations of Computational Linguistics Human-Computer Communication in Natural Language](https://www.springer.com/gp/book/9783642414305). Provides insights on how to build talking robots.
+- [Statistical Methods for Speech Recognition](https://mitpress.mit.edu/books/statistical-methods-speech-recognition). Highlights important research and statistical methods for speech recognition.
 
 
 ## Blogs
@@ -94,6 +97,8 @@ A curated list of resources for learning about natural language processing, text
 ## Blog Articles, Papers, Case Studies
 
 ### General <a id="general-articles"></a>
+- [NLP in healthcare](https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/natural-language-processing-in-healthcare). How NLP can be used by healthcare payers and providers.
+- [AI Harvard Business Review](https://hbr.org/2018/07/ais-next-great-challenge-understanding-the-nuances-of-language). The impact of improvement in NLP on human interaction with machines.
 - [Why Accuracy in Natural Language Processing is Crucial to the Future of AI in Retail](https://www.mytotalretail.com/article/why-accuracy-in-natural-language-processing-is-crucial-to-the-future-of-ai-in-retail/)
 - [Natural Language Processing is Fun! How computers understand Human Language](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e). 2018.
 - [WEF Live Campaign - Twitter fed Global News Topics & Sentiment Tracker](https://365.weflive.com/#!/r/worldwide/t/all-topics) - Live Jan 2019
@@ -203,8 +208,7 @@ A curated list of resources for learning about natural language processing, text
 - [Document Clustering](http://cse.iitkgp.ac.in/~abhij/facad/03UG/Report/03CS3024_Pankaj_Jajoo.pdf). MSc Thesis.
 - [Document Clustering: A Detailed Review](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.401.8494&rep=rep1&type=pdf). Shah and Mahajan. IJAIS 2012.
 - [Document Clustering with Python](https://github.com/harrywang/document_clustering) A GitHub repository that clusters IMDB movie descriptions. Based on [this original tutorial](http://brandonrose.org/clustering), whose GitHub repo is [here](https://github.com/brandomr/document_cluster). 
-- [Text mining and sentiment analysis on video game user reviews using
-SAS® Enterprise Miner](http://analytics.ncsu.edu/sesug/2016/EPO-280_Final_PDF.pdf)
+- [Text mining and sentiment analysis on video game user reviews using SAS® Enterprise Miner](http://analytics.ncsu.edu/sesug/2016/EPO-280_Final_PDF.pdf)
 - [Who wrote the anti-Trump New York Times op-ed? Using tidytext to find document similarity](http://varianceexplained.org/r/op-ed-text-analysis/)
 
 ### Concept Analysis/Topic Modeling <a id="concept-analysis"></a>
@@ -294,6 +298,7 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Ultimate Guide to Leveraging NLP & Machine Learning for your Chatbot](https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c). 2016.
 - [A Survey on Dialogue Systems: Recent Advances and New Frontiers](https://arxiv.org/pdf/1711.01731.pdf) Jan 2018.
 - [Examining the Impact of an Automated Translation Chatbot on Online Collaborative Dialog for Incidental L2 Learning](https://www.researchgate.net/publication/329525159_Examining_the_impact_of_an_automated_translation_chatbot_on_online_collaborative_dialog_for_incidental_L2_learning)
+- [Create a banking chatbot with FAQ discovery, anger detection and natural language understanding](https://github.com/IBM/watson-banking-chatbot)
 - [Generative Model Chatbots- May 2017](https://medium.com/botsupply/generative-model-chatbots-e422ab08461e)
 - [A Guide to Building a Multi-Featured Slackbot with Python- March 2017](https://hackernoon.com/a-guide-to-building-a-multi-featured-slackbot-with-python-73ea5394acc)
 - [Building a Simple Chatbot from Scratch in Python (Using NLTK)- September 2018](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
@@ -462,6 +467,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - [gtrendsR](https://cran.r-project.org/web/packages/gtrendsR/index.html): Interface for retrieving and displaying the information returned online by Google Trends.
     - [Analyzing Google Trends Data in R](https://datascienceplus.com/analyzing-google-trends-data-in-r/)
   - [textstem](https://cran.r-project.org/web/packages/textstem/): Tools that stem and lemmatize text.
+  - [NLPutils](https://CRAN.R-project.org/package=NLPutils) Utilities for Natural Language Processing.
+  - [Udpipe](https://cran.r-project.org/web/packages/udpipe/readme/README.html) Tokenization, Parts of Speech Tagging, Lemmatization and Dependency Parsing using UDPipe.
 - Python modules
   - [NLTK](http://www.nltk.org): Natural Language Toolkit.
     - [Video: NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
@@ -561,6 +568,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 
 ## Online Demos and Tools
+
 - [MIT OpenNPT for neural machine translation and neural sequence modeling](http://opennmt.net/)
 - [Stemming & Lemmatization with Python NLTK](https://text-processing.com/demo/stem/)
 - [Stanford Parser](http://nlp.stanford.edu:8080/parser/)
@@ -571,6 +579,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [RegexPal](https://www.regexpal.com/): Great tool for testing out regular expressions.
 - [AllenNLP Demo](https://demo.allennlp.org): Great demo using AllenNLP of everything from Named Entity Recognition to Textual Entailment.
 - [IBM NLP Demo](https://natural-language-understanding-demo.ng.bluemix.net): Examine a news article or other content from the link for NLP analysis using IBM NLP.
+- [Cognitive Computation Group - Part of Speech Tagging Demo](http://cogcomp.org/page/demos/) These demos exhibit part-of-speech tagging, information extraction tasks etc.
+- [An Open-Source Suite of Language Analyzers](http://nlp.lsi.upc.edu/freeling/demo/demo.php) FreeLing 4.1 - It is an open-source suite of language analyzers.
 
 
 ## Datasets
