@@ -132,6 +132,7 @@ A curated list of resources for learning about natural language processing, text
 - [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 - [Python Guide for dealing with Text Data](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
 - [Crowdsourcing Ground Truth for Medical Relation Extraction](https://dl.acm.org/citation.cfm?id=3152889)
+- [Natural language based financial forecasting: a survey](https://sentic.net/natural-language-based-financial-forecasting.pdf)
 - [Natural language based financial forecasting: a survey](https://sentic.net/natural-language-based-financial-forecasting.pdf). An article that clarifies the scope of Natural Language Financial Forecasting.
 - [5 Heroic Tools for Natural Language Processing](https://towardsdatascience.com/5-heroic-tools-for-natural-language-processing-7f3c1f8fc9f0)
 - [Natural Language Processing unlocks hidden data to transform healthcare efficiency, quality and cost](https://www.healthcareglobal.com/technology/natural-language-processing-unlocks-hidden-data-transform-healthcare-efficiency-quality)
@@ -155,6 +156,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Cleaning
 - [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) Jan 2018. A step by step guide on data cleaning and exploration for successful NLP model building.
+- [Text Preprocessing in Python: Steps, Tools, and Examples](https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908). Oct 2018
 - [How to Clean Text for Machine Learning with Python](https://machinelearningmastery.com/clean-text-machine-learning-python/) October 2017. Step-by-step guide of how to perform text data pre-processing. 
 - [Feature Extraction, Basic Pre-processing, and Advanced Processing](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python/)
 
@@ -167,7 +169,6 @@ A curated list of resources for learning about natural language processing, text
 - [What is the Difference Between Stemming and Lemmatization?](https://blog.bitext.com/what-is-the-difference-between-stemming-and-lemmatization/) Differences and examples of using stemming and lemmatization in different languages
 - [Stemming and Lemmatization in Python](https://www.datacamp.com/community/tutorials/stemming-lemmatization-python) Comparison of stemming and lemmatization with algorithms behind, results, pros and cons, context to use, and code syntax 
 - [Sentiment Symposium Tutorial: Stemming](http://sentiment.christopherpotts.net/stemming.html)
-
 
 ### Dimensionality Reduction
 - [Taming Text with the SVD](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.395.4666&rep=rep1&type=pdf). SAS. Jan 2004.
@@ -197,13 +198,11 @@ A curated list of resources for learning about natural language processing, text
 - [Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/pdf/1811.00196.pdf)
 
 ### Entity and Information Extraction
-
 - [Entity Extraction and Network Analysis](http://brandonrose.org/ner2sna). Python, `StanfordCoreNLP`
 - [Natural Language Processing for Information Extraction](https://arxiv.org/abs/1807.02383)
 - [NLP Techniques for Extracting Information](https://www.searchtechnologies.com/blog/natural-language-processing-techniques). In-depth exploration of the seven steps framework of NLP data mining tools and techniques.
 
 ### Document Clustering and Document Similarity
-
 - [Text Clustering: Get quick insights from Unstructured Data](http://www.kdnuggets.com/2017/06/text-clustering-unstructured-data.html). July 2017.
 - [Document Clustering](http://cse.iitkgp.ac.in/~abhij/facad/03UG/Report/03CS3024_Pankaj_Jajoo.pdf). MSc Thesis.
 - [Document Clustering: A Detailed Review](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.401.8494&rep=rep1&type=pdf). Shah and Mahajan. IJAIS 2012.
@@ -224,7 +223,7 @@ A curated list of resources for learning about natural language processing, text
 - [MACS 30500: Text analysis: topic modeling](https://cfss.uchicago.edu/text_topicmodels.html)
 - [COTA, Uber’s topic modelling approach to improving customer support](https://eng.uber.com/cota/)
 - [Using LDA Topic Models as a Classification Model Input](https://towardsdatascience.com/unsupervised-nlp-topic-models-as-a-supervised-learning-input-cf8ee9e5cf28)
-
+- [NLP: Extracting the main topics from your dataset using LDA in minutes](https://towardsdatascience.com/nlp-extracting-the-main-topics-from-your-dataset-using-lda-in-minutes-21486f5aa925)
 
 ### Sentiment Analysis
 - [Unsupervised Sentiment Analysis with Signed Social Networks](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14656/14129)
@@ -291,11 +290,11 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Phrase-Based & Neural Unsupervised Machine Translation](https://arxiv.org/abs/1804.07755) Proposed two model variants: neural and phrase-based model. Awarded as the Best Paper Award at EMNLP 2018. [Implementation code](https://github.com/facebookresearch/UnsupervisedMT). 
 
 ### Q&A Systems, Chatbots <a id="qa-systems"></a>
-
 - [Meet Lucy: Creating a Chatbot Prototype](http://www.kdnuggets.com/2017/09/meet-lucy-chatbot-prototype.html)
 - [Microsoft Bot Framework](https://dev.botframework.com/).
 - [Training Millions of Personalized Dialogue Agents](https://arxiv.org/abs/1809.01984)
 - [Ultimate Guide to Leveraging NLP & Machine Learning for your Chatbot](https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c). 2016.
+- [Building a Simple Chatbot from Scratch in Python (using NLTK)](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e). Sep 2018
 - [A Survey on Dialogue Systems: Recent Advances and New Frontiers](https://arxiv.org/pdf/1711.01731.pdf) Jan 2018.
 - [Examining the Impact of an Automated Translation Chatbot on Online Collaborative Dialog for Incidental L2 Learning](https://www.researchgate.net/publication/329525159_Examining_the_impact_of_an_automated_translation_chatbot_on_online_collaborative_dialog_for_incidental_L2_learning)
 - [Create a banking chatbot with FAQ discovery, anger detection and natural language understanding](https://github.com/IBM/watson-banking-chatbot)
@@ -306,9 +305,9 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Chatbots - Designing intents and entities for NLP Models](https://medium.com/@brijrajsingh/chat-bots-designing-intents-and-entities-for-your-nlp-models-35c385b7730d) Jan 2017
 - [Task-oriented Dialogue System for Automatic Diagnosis](http://www.sdspeople.fudan.edu.cn/zywei/paper/liu-acl2018.pdf). 2018. Talks about the use of MDP trained dataset and its medical diagnostic applications.
 - [Li Deng at AI Frontiers: Three Generations of Spoken Dialogue Systems (Bots)](https://www.slideshare.net/AIFrontiers/li-deng-three-generations-of-spoken-dialogue-systems-bots). 2017. Slides by Microsoft Chief Scientist for AI.
+- [NLP — Building a Question Answering model](https://towardsdatascience.com/nlp-building-a-question-answering-model-ed0529a68c54). March 2018
 
 ### Fuzzy Matching, Probabilistic Matching, Record Linkage, Etc. <a id="fuzzy-matching"></a>
-
 - [agrep method in R](http://stat.ethz.ch/R-manual/R-devel/library/base/html/agrep.html). Approximate String Matching (Fuzzy Matching)
 - [fuzzywuzzy package in R](https://cran.r-project.org/web/packages/fuzzywuzzyR/index.html). [Example usage](http://mlampros.github.io/2017/04/13/fuzzywuzzyR_package).
 - [Fuzzy String Matching – a survival skill to tackle unstructured information](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sariyar+Borg.pdf)
@@ -379,7 +378,6 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [MATRIX CAPSULES WITH EM ROUTING](https://openreview.net/pdf?id=HJWLfGWRb). 2018.
 
 ### Knowledge Graphs
-
 - [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
 - [WTF is a knowledge graph?](https://hackernoon.com/wtf-is-a-knowledge-graph-a16603a1a25f)
 
@@ -658,6 +656,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Paper with Code](https://paperswithcode.com/): A fantastic list of recent machine learning papers on ArXiv, with links to code.   
 - [Chinese NLP Tools](https://datascience.shanghai.nyu.edu/chinese-nlp-tools). 2019. List of tools for NLP in Chinese Language.
 - [Association for Computational Linguistics Papers Anthology](https://aclanthology.info/): The ACL Anthology currently hosts almost 50,000 papers on the study of computational linguistics and natural language processing.  Includes all papers from recent conferences.
+- [Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
 
 # Contribute
 
