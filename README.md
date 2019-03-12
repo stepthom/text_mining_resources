@@ -9,6 +9,7 @@
 
 A curated list of resources for learning about natural language processing, text mining, text analytics, and unstructured data. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+
 ## Table of Contents
 - [Books](#books)
   - [R](#r)
