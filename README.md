@@ -271,6 +271,8 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Aspect Based Sentiment Analysis of Amazon Product Reviews](https://www.researchgate.net/publication/325843745_ASPECT_BASED_SENTIMENT_ANALYSIS_OF_AMAZON_PRODUCT_REVIEWS). Jun 2018
 - [Twitter Sentiment Analysis Introduction and Techniques](https://www.digitalvidya.com/blog/twitter-sentiment-analysis-introduction-and-techniques/.) Oct 2018
 - [Using NLP and Deep Learning to Predict Stock Price Movements](https://towardsdatascience.com/using-nlp-and-deep-learning-to-predict-the-stock-market-64eb9229e102). 2018
+- [Streaming Analytics Tutorial on Azure](https://docs.microsoft.com/en-ca/azure/azure-databricks/databricks-sentiment-analysis-cognitive-services?toc=%2Fen-ca%2Fazure%2Fcognitive-services%2Ftext-analytics%2Ftoc.json&bc=%2Fen-ca%2Fazure%2Fbread%2Ftoc.json)
+- [How to Analyze sentiment in Azure](https://docs.microsoft.com/en-ca/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis)
 
 ### Text Summarization
 - [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
@@ -541,17 +543,26 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [CrowdFlower](https://www.crowdflower.com/): AI for your business.
 - [Lexalytics Sematria](https://www.lexalytics.com/): API and Excel plugin.
 - [Rosette Text Analytics](https://www.rosette.com/): AI for Human Language
-- [Google's Natural Language API](https://cloud.google.com/natural-language): Derive insights from unstructured text using Google machine learning
 - [Alchemy API](https://www.ibm.com/watson/alchemy-api.html)
 - [Monkey Learn](http://monkeylearn.com/)
 - [LightTag Annotation Tool](https://lighttag.io). Hosted annotation tool for teams. 
 - [Anafora](https://github.com/weitechen/anafora): Free and open source web-based raw text annotation tool
 - [brat](http://brat.nlplab.org/): Rapid annotation tool.
-- [Amazon Lex](https://aws.amazon.com/lex/): A service for building conversational interfaces into any application using voice and text.
 - [Google's Colab](http://colab.research.google.com): Ready-to-go Notebook environment that makes it easy to get up and running.
-- [Amazon Comprehend](https://aws.amazon.com/comprehend/)
 - [Lyrebird.ai](https://lyrebird.ai/): “Ultra-Realistic Voice Cloning and Text-to-Speech” recognition platform. This Canadian start-up has created a product/platform that syncs both voice cloning with text-to-speech. Lyrebird recognizes the intonations and voice patterns from audio recordings, and overlays text data input to recreate a text-to-speech audio file output from the selected voice pattern audio recording.
 - [Ask Data by Tableau Software Inc.](https://www.tableau.com/products/new-features/ask-data#hero-reveal): In February 2019, Tableau released a new NLP feature service add-on to help assist existing Tableau platform users with retrieving quick and easy data visualizations to drive business intelligence insights. Similar to a search engine user interface, Tableau’s Ask Data feature interface applies NLP from user text input to extract key words to find data analytics and business insights quickly on the Tableau Platform.
+
+#### Cloud 
+- [Microsoft Azure Text Analytics](https://docs.microsoft.com/en-ca/azure/cognitive-services/text-analytics/overview)
+- [Amazon Lex](https://aws.amazon.com/lex/): A service for building conversational interfaces into any application using voice and text.
+- [Amazon Comprehend](https://aws.amazon.com/comprehend/)
+- [Google Cloud Natural Language](https://cloud.google.com/natural-language/)
+- [IBM Watson](http://www.ibm.com/watson/)
+  - [Video: How IBM Watson learns (3 minutes)](https://www.youtube.com/watch?v=ymUFadN_MO4)
+  - [Video: IBM Watson on Jeapardy! (10 minutes)](https://www.youtube.com/watch?v=lI-M7O_bRNg)
+  - [Video: IBM Watson: The Science Behind an Answer (7 minutes)](https://www.youtube.com/watch?v=DywO4zksfXw)
+
+
 
 #### Getting Data out of PDFs
 
