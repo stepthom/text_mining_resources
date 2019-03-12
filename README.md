@@ -60,12 +60,11 @@ A curated list of resources for learning about natural language processing, text
 - [Mastering Natural Language Processing with Python](http://shop.oreilly.com/product/9781783989041.do)
 - [Natural Language Processing: Python and NLTK](http://shop.oreilly.com/product/9781787285101.do)
 - [Applied Text Analysis with Python: Enabling Language-Aware Data Products with Machine Learning](http://shop.oreilly.com/product/0636920052555.do)
-- [Applied Natural Language Processing With Python](https://link.springer.com/book/10.1007%2F978-1-4842-3733-5) 2018.
+- [Applied Natural Language Processing With Python](https://link.springer.com/book/10.1007%2F978-1-4842-3733-5). 2018.
 - [Deep Learning with Text](http://shop.oreilly.com/product/0636920076063.do)
 
 #### General <a id="general-books"></a>
 - [Taming Text: How to Find, Organize, and Manipulate It](https://www.manning.com/books/taming-text). A hands-on guide to learn innovative tools and techniques for finding, organizing, and manipulating unstructured text.
-- [Applied Natural Language Processing With Python (2018)](https://link.springer.com/book/10.1007%2F978-1-4842-3733-5) 
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/)
 - [Language Processing with Perl and Prolog: Theories, Implementation, and Application (Cognitive Technologies)](http://promethee.philo.ulg.ac.be/engdep1/download/bacIII/Nugues%20second%20ed.pdf)
