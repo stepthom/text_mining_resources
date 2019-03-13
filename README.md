@@ -165,9 +165,9 @@ A curated list of resources for learning about natural language processing, text
 - [TEXT CLASSIFICATION FOR SENTIMENT ANALYSIS – STOPWORDS AND COLLOCATIONS](https://streamhacker.com/2010/05/24/text-classification-sentiment-analysis-stopwords-collocations/)
 
 ### Stemming
-- [Article: Text Stemming: Approaches, Applications, and Challenges](http://dl.acm.org/citation.cfm?id=2975608)
-- [What is the Difference Between Stemming and Lemmatization?](https://blog.bitext.com/what-is-the-difference-between-stemming-and-lemmatization/) Differences and examples of using stemming and lemmatization in different languages
-- [Stemming and Lemmatization in Python](https://www.datacamp.com/community/tutorials/stemming-lemmatization-python) Comparison of stemming and lemmatization with algorithms behind, results, pros and cons, context to use, and code syntax 
+- [Article: Text Stemming: Approaches, Applications, and Challenges](http://dl.acm.org/citation.cfm?id=2975608). Dec 2016.
+- [What is the Difference Between Stemming and Lemmatization?](https://blog.bitext.com/what-is-the-difference-between-stemming-and-lemmatization/). Feb 2018. Differences and examples of using stemming and lemmatization in different languages.
+- [Stemming and Lemmatization in Python](https://www.datacamp.com/community/tutorials/stemming-lemmatization-python). Oct 2018. Comparison of stemming and lemmatization with algorithms behind, results, pros and cons, context to use, and code syntax. 
 - [Sentiment Symposium Tutorial: Stemming](http://sentiment.christopherpotts.net/stemming.html)
 
 ### Dimensionality Reduction
@@ -227,7 +227,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Sentiment Analysis
 - [Unsupervised Sentiment Analysis with Signed Social Networks](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14656/14129)
-- [Sentiment analysis on Trump's tweets using Python](https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_149). Sep 2017.
+- [Sentiment analysis on Trump's tweets using Python](https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_149). Sep 2017. Sentiment analysis using tweepy as API consumer and textblob for NLP processing. 
 - [Donald Trump vs Hillary Clinton: sentiment analysis on Twitter mentions](https://blog.monkeylearn.com/donald-trump-vs-hillary-clinton-sentiment-analysis-twitter-mentions/)
 - [Does sentiment analysis work? A tidy analysis of Yelp reviews](http://varianceexplained.org/r/yelp-sentiment/) Combined prediction results and individual words in reviews to show that sentiment analysis worked well for most part of Yelp reviews
 - [CACM: Techniques and Applications for Sentiment Analysis](http://cacm.acm.org/magazines/2013/4/162501-techniques-and-applications-for-sentiment-analysis/abstract)
@@ -240,7 +240,7 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Sentdex: Quantifying the Qualitative](http://sentdex.com/financial-analysis/)
 - [Leveraging international market sentiment for trading strategies](https://www.repustate.com/finance-sentiment-analysis-and-text-analytics/)
 - [From tweets to polls: Linking text sentiment to public opinion time series](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/viewFile/1536/1842)
-- [Lexicon-Based Methods for Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf) Uses SO-CAL (Semantic Orientation - CALculator, a measure of subjectivity and opinion for sentimental analysis
+- [Lexicon-Based Methods for Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf). Sept 2010. Uses SO-CAL (Semantic Orientation CALculator), a measure of subjectivity and opinion for sentimental analysis.
 - [On the negativity of negation](http://web.stanford.edu/~cgpotts/papers/potts-salt20-negation.pdf)
 - [Blog Post: That Sentimental Feeling](http://www.matthewjockers.net/2015/12/20/that-sentimental-feeling/)
   - [Update: More Syuzhet Validation](http://www.matthewjockers.net/2016/08/11/more-syuzhet-validation/)
