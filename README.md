@@ -273,6 +273,7 @@ media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf)
 - [Using NLP and Deep Learning to Predict Stock Price Movements](https://towardsdatascience.com/using-nlp-and-deep-learning-to-predict-the-stock-market-64eb9229e102). 2018
 - [Streaming Analytics Tutorial on Azure](https://docs.microsoft.com/en-ca/azure/azure-databricks/databricks-sentiment-analysis-cognitive-services?toc=%2Fen-ca%2Fazure%2Fcognitive-services%2Ftext-analytics%2Ftoc.json&bc=%2Fen-ca%2Fazure%2Fbread%2Ftoc.json)
 - [How to Analyze sentiment in Azure](https://docs.microsoft.com/en-ca/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis)
+- [Sentiment Analysis of 2.2 million tweets from Super Bowl 51](http://blog.aylien.com/sentiment-analysis-of-2-2-million-tweets-from-super-bowl-51/)
 
 ### Text Summarization
 - [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
