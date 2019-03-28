@@ -631,6 +631,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [American National Corpus Download](http://www.anc.org/data/oanc/contents/)
 - [Santa Barbara Corpus of Spoken American English](http://www.linguistics.ucsb.edu/research/santa-barbara-corpus)
 - [Leipzig Corpora Collection: Corpora in English, Arabic, French, Russian, German](http://wortschatz.uni-leipzig.de/en/download/)
+- [Awesome Twitter](https://github.com/hridaydutta123/awesome-twitter-tools/blob/master/README.md)
 
 ### Lexicons for Sentiment Analysis
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
