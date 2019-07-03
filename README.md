@@ -373,6 +373,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Microsoft: Multi-Task Deep Neural Network (MT-DNN)](https://arxiv.org/pdf/1901.11504): Microsoft's improvement on Google's BERT with focus on natural language understanding. Code to be released. January 31, 2019.
 - [OpenAI: Better Language Models and Their Implications](https://blog.openai.com/better-language-models/): Pre-trained Transformer-based unsupervised language model that achieves state-of-the-art on many language benchmarks with focus on text generation. Controversial limited release. February 14, 2019. 
 - [A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING](https://arxiv.org/pdf/1703.03130.pdf)
+- [the transformer … “explained”?](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained)
 
 ##### Capsule Networks
 - [Investigating Capsule Networks with Dynamic Routing for Text Classification](https://arxiv.org/pdf/1804.00538.pdf). 2018.
