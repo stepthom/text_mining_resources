@@ -225,6 +225,7 @@ A curated list of resources for learning about natural language processing, text
 - [COTA, Uber’s topic modelling approach to improving customer support](https://eng.uber.com/cota/)
 - [Using LDA Topic Models as a Classification Model Input](https://towardsdatascience.com/unsupervised-nlp-topic-models-as-a-supervised-learning-input-cf8ee9e5cf28)
 - [NLP: Extracting the main topics from your dataset using LDA in minutes](https://towardsdatascience.com/nlp-extracting-the-main-topics-from-your-dataset-using-lda-in-minutes-21486f5aa925)
+- [READING THE HIGH COURT AT A DISTANCE: TOPIC MODELLING THE LEGAL SUBJECT MATTER AND JUDICIAL ACTIVITY OF THE HIGH COURT OF AUSTRALIA, 1903–2015](https://osf.io/qhezc/download/?format=pdf)
 
 ### Sentiment Analysis
 - [Unsupervised Sentiment Analysis with Signed Social Networks](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14656/14129)
