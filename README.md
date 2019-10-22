@@ -356,6 +356,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [NLP's ImageNet moment has arrived](http://ruder.io/nlp-imagenet/). July 2018. Overview of pre-trained NLP language models, drawing parallels to ImageNet's contributions to computer vision. 
 - [Word2vec: fish + music = bass](https://graceavery.com/word2vec-fish-music-bass)
 - [A review of BERT based models](https://towardsdatascience.com/a-review-of-bert-based-models-4ffdc0f15d58). July 2019.
+- [Machines Beat Humans on a Reading Test. But Do They Understand?](https://www.quantamagazine.org/machines-beat-humans-on-a-reading-test-but-do-they-understand-20191017)
 
 ### Deep Learning
 - [Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/). 
