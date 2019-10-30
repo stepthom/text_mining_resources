@@ -81,6 +81,7 @@ A curated list of resources for learning about natural language processing, text
 - [Natural Language Processing in Spanish](https://iaarbook.github.io/procesamiento-del-lenguaje-natural/)
 - [Foundations of Computational Linguistics Human-Computer Communication in Natural Language](https://www.springer.com/gp/book/9783642414305). Provides insights on how to build talking robots.
 - [Statistical Methods for Speech Recognition](https://mitpress.mit.edu/books/statistical-methods-speech-recognition). Highlights important research and statistical methods for speech recognition.
+- [How To Label Data](https://www.lighttag.io/how-to-label-data/) Extended guide on managing large text annotation projects
 
 
 ## Blogs
