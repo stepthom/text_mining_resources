@@ -228,7 +228,7 @@ A curated list of resources for learning about natural language processing, text
 - [NLP: Extracting the main topics from your dataset using LDA in minutes](https://towardsdatascience.com/nlp-extracting-the-main-topics-from-your-dataset-using-lda-in-minutes-21486f5aa925)
 - [READING THE HIGH COURT AT A DISTANCE: TOPIC MODELLING THE LEGAL SUBJECT MATTER AND JUDICIAL ACTIVITY OF THE HIGH COURT OF AUSTRALIA, 1903–2015](https://osf.io/qhezc/download/?format=pdf)
 
-
+### Sentiment Analysis
 #### Methods
 - [CACM: Techniques and Applications for Sentiment Analysis](http://cacm.acm.org/magazines/2013/4/162501-techniques-and-applications-for-sentiment-analysis/abstract), 2013. A nice overview of sentiment analysis from the Communications of the ACM journal.
 - [Unsupervised Sentiment Analysis with Signed Social Networks](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14656/14129), 2017. A conference paper that describes that challenges of applying sentiment analysis to social networks, and presents an new unsupervised method.
