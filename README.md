@@ -229,7 +229,63 @@ A curated list of resources for learning about natural language processing, text
 - [READING THE HIGH COURT AT A DISTANCE: TOPIC MODELLING THE LEGAL SUBJECT MATTER AND JUDICIAL ACTIVITY OF THE HIGH COURT OF AUSTRALIA, 1903–2015](https://osf.io/qhezc/download/?format=pdf)
 
 ### Sentiment Analysis
+
+#### Methods
+- [CACM: Techniques and Applications for Sentiment Analysis](http://cacm.acm.org/magazines/2013/4/162501-techniques-and-applications-for-sentiment-analysis/abstract), 2013. A nice overview of sentiment analysis from the Communications of the ACM journal.
+- [Unsupervised Sentiment Analysis with Signed Social Networks](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14656/14129), 2017. A conference paper that describes that challenges of applying sentiment analysis to social networks, and presents an new unsupervised method.
+- [Lexicon-Based Methods for Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf), 2010. Uses SO-CAL (Semantic Orientation CALculator), a measure of subjectivity and opinion for sentimental analysis.
+- [That Sentimental Feeling](http://www.matthewjockers.net/2015/12/20/that-sentimental-feeling/), 2015. Compares the result of R's Syezhet package with human labels on a series of novels. [A 2016 update](http://www.matthewjockers.net/2016/08/11/more-syuzhet-validation/).
+- [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/), 2017. OpenAI's team developed a new way of using deep NNs to perform sentiment analysis, on much less data than usual.
+- [Current State of Text Sentiment Analysis from Opinion to Emotion Mining](http://dl.acm.org/citation.cfm?id=3057270), 2017. A journal article that surveys the current state of sentiment analysis research and tools.
+- [Sentiment Analysis Tools Overview, Part 1. Positive and Negative Words Databases](https://medium.com/@datamonsters/sentiment-analysis-tools-overview-part-1-positive-and-negative-words-databases-ae35431a470c), 2017. A blog article that outlines some lexicon databases.
+- [Sentiment analysis, Concept analysis and Applications](https://towardsdatascience.com/sentiment-analysis-concept-analysis-and-applications-6c94d6f58c17), 2018. An overview of sentiment analysis, with an analysis of tweets about Uber.
+- [Breakthrough Research Papers and Models for Sentiment Analysis](https://blog.paralleldots.com/data-science/breakthrough-research-papers-and-models-for-sentiment-analysis/), 2018. A blog that compares the performance of simple to advanced methods for sentiment analysis.
+- [Twitter sentiment analysis using combined LSTM-CNN models](http://konukoii.com/blog/2018/02/19/twitter-sentiment-analysis-using-combined-lstm-cnn-models/), 2018. A blog article that describes a new method for sentiment analysis that uses deep learning.
+- [VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text](http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf), 2014. A conference paper that presents VADER, a simple rule-based model of sentiment analysis.
+- [A comparison of Lexicon-based approaches for Sentiment Analysis of microblog posts](http://ceur-ws.org/Vol-1314/paper-06.pdf), 2014. A conference paper that presents a new lexicon-based approach for sentiment analysis of Twitter posts, based on lexical resources such as SentiWordNet. 
+
+#### Challenges
+- [On the negativity of negation](http://web.stanford.edu/~cgpotts/papers/potts-salt20-negation.pdf), 2011. A conference paper that discusses the challenges of dealing with negativity in text, with a case study on IMDB movie reviews.
+- [Challenges in Sentiment Analysis](http://saifmohammad.com/WebDocs/sentiment-challenges.pdf), 2015. A practical guide from the National Reseach Council of Canada that describes some of the main challenges of sentiment analysis.
+- [A survey on sentiment analysis challenges](https://www.sciencedirect.com/science/article/pii/S1018363916300071), 2016. A journal article that discusses and compares sentiment analysis challenges among forty-seven papers. 
+
+#### Politics
+- [Sentiment analysis on Trump's tweets using Python](https://dev.to/rodolfoferro/sentiment-analysis-on-trumpss-tweets-using-python-?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_149), 2017. Sentiment analysis on Trump's tweets using tweepy and textblob for NLP processing. 
+- [Donald Trump vs Hillary Clinton: sentiment analysis on Twitter mentions](https://blog.monkeylearn.com/donald-trump-vs-hillary-clinton-sentiment-analysis-twitter-mentions/), 2016. Compares the sentiment of Trump's tweets vs. Hillary's tweets leading up to the 2016 US presidential election.
+- [Does sentiment analysis work? A tidy analysis of Yelp reviews](http://varianceexplained.org/r/yelp-sentiment/), 2016. Combined prediction results and individual words in reviews to show that sentiment analysis worked well on Yelp reviews.
+- [From tweets to polls: Linking text sentiment to public opinion time series](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/viewFile/1536/1842), 2010. A conference paper that describes how sentiment analysis on Twitter is connected to public opinion polls.
+
+
+#### Stock Market
+- [Twitter mood predicts the stock market](https://arxiv.org/abs/1010.3003), 2010. A journal article that measures the "mood" of daily Twitter feedsa and shows that the moods can predict the DJIA.
+- [A nonlinear impact: evidences of causal effects of social
+media on market prices](https://arxiv.org/pdf/1601.04535v2.pdf), 2016. A journal article that shows that social media's relationship with the DJIA is nonlinear.
+- [Forbes: How Quant Traders Use Sentiment To Get An Edge On The Market](http://www.forbes.com/sites/kumesharoomoogan/2015/08/06/how-quant-traders-use-sentiment-to-get-an-edge-on-the-market/#6266d9ec2fd8), 2015. An article that shows how quant traders can use sentiment analysis.
+- [Sentdex: Quantifying the Qualitative](http://sentdex.com/financial-analysis/). An online tool that measures the overall sentiment of different stocks.
+- [Trump2Cash: A stock trading bot powered by Trump tweets](https://github.com/maxbbraun/trump2cash). A bot that watches Donald Trump's Twitter account and waits for him to mention any publicly-traded companies. A [related blog article](https://medium.com/@maxbraun/this-machine-turns-trump-tweets-into-planned-parenthood-donations-4ece8301e722#.3232hx7gx) describes a bot that turns Trump's tweets into Planned Parenthood donations.
+
+
+#### Applications
+- [Lost at Sea: How Social Media is Helping Cruise Lines Attract Millennials](https://www.crimsonhexagon.com/blog/cruises-hunting-millennials), 2016. A whitepaper describing how cruise lines can attract a different audience. 
+- [Harry Plotter: Celebrating the 20 year anniversary with tidytext and the tidyverse in R](https://paulvanderlaken.com/2017/08/03/harry-plotter-celebrating-the-20-year-anniversary-with-tidytext-the-tidyverse-and-r/), 2015. A technical article showing how to apply sentiment analysis to the text of the Harry Potter series.
+- [Data Science 101: Sentiment Analysis in R Tutorial](http://blog.kaggle.com/2017/10/05/data-science-101-sentiment-analysis-in-r-tutorial/), 2017. A technical article describing how to use the Tidytext package in R to analyze US presidential speeches.
+- [Cannes Lions 2017: Hungerithm, Mars Chocolate Australia (Clemenger BBDO, Melbourne)](https://vimeo.com/223731129), 2017. A video that shows how Snickers developed a tool to change the price of Snickers bar based on the mood of the internet. 
+- [Sentiment analysis: 10 applications and 4 services](https://towardsdatascience.com/machine-learning-as-a-service-487e930265b2), 2018. A brief but concise introduction to sentiment analysis, it's business implications and four sentiment analysis cloud service providers including Google, Amazon and Microsoft.
+- [What Your Boss Could Learn by Reading the Whole Company’s Emails](https://www.theatlantic.com/magazine/archive/2018/09/the-secrets-in-your-inbox/565745/), 2018. "The lesson: Figure out the truth about how the workforce is feeling not by eavesdropping on the substance of what employees say, but by examining how they are saying it.” This article is centered around the topic of applying sentiment analysis to large internal unstructured text datasets (e.g. employee e-mails). Text analytics and NLP have become an increasingly popular approach to help search for clues that may indicate the level of employee engagement in the workplace, and any potential ‘red-flags’ that should receive particular attention by an organization and its ethical implications.
+- [Aspect Based Sentiment Analysis of Amazon Product Reviews](https://www.researchgate.net/publication/325843745_ASPECT_BASED_SENTIMENT_ANALYSIS_OF_AMAZON_PRODUCT_REVIEWS), 2018. An article showing how to apply sentiment analysis on different aspects of a product review on Amazon. 
+- [Sentiment Analysis of 2.2 million tweets from Super Bowl 51](http://blog.aylien.com/sentiment-analysis-of-2-2-million-tweets-from-super-bowl-51/), 2017. An article showing how to apply sentiment analysis to tweets about the Super Bowl.
+- [Emotion and Sentiment Analysis: A Practitioner’s Guide to NLP](https://www.kdnuggets.com/2018/08/emotion-sentiment-analysis-practitioners-guide-nlp-5.html), 2018. An overview of sentiment analysis, applied to news articles.
+
+#### Tools and Technology
+
+- [Streaming Analytics Tutorial on Azure](https://docs.microsoft.com/en-ca/azure/azure-databricks/databricks-sentiment-analysis-cognitive-services?toc=%2Fen-ca%2Fazure%2Fcognitive-services%2Ftext-analytics%2Ftoc.json&bc=%2Fen-ca%2Fazure%2Fbread%2Ftoc.json).
+- [How to Analyze sentiment in Azure](https://docs.microsoft.com/en-ca/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis).
+- [how-to-perform-sentiment-analysis-using-python-tutorial/](https://hub.packtpub.com/how-to-perform-sentiment-analysis-using-python-tutorial/).
+- [Twitter Sentiment Analysis Overview](https://www.youtube.com/watch?v=o_OZdbCzHUA&t=235s), 2016. Overview of sentiment analysis, and a step-by-step walkthrough on how to perform sentiment analysis using TextBlob.
+- [ELMO embeddings in Keras using Tensorflow Hub](https://towardsdatascience.com/elmo-embeddings-in-keras-with-tensorflow-hub-7eb6f0145440), 2018. A guide to use Google's ELMO in your Keras model using Tensorflow hub.
 - [Twitter Sentiment Analysis in Python using TextBlob](https://medium.freecodecamp.org/how-to-build-a-twitter-sentiments-analyzer-in-python-using-textblob-948e1e8aae14), 2018.
+
+
 ### Text Summarization
 - [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/)
 - [Unsupervised Text Summarization using Sentence Embeddings](https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1)
