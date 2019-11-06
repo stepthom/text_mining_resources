@@ -185,19 +185,19 @@ A curated list of resources for learning about natural language processing, text
 - [Detecting Sarcasm with Deep Convolutional Neural Networks](https://medium.com/dair-ai/detecting-sarcasm-with-deep-convolutional-neural-networks-4a0657f79e80). Apr 30, 2018. Contextual learning using CNNs for effective detection of sarcasm.
 
 ### Document Classification
-- [Naive Bayes and Text Classification](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html). Oct 2014
-- [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)
-- [Text Classifier Algorithms in Machine Learning](https://blog.statsbot.co/text-classifier-algorithms-in-machine-learning-acc115293278) July 2017
-- [Classifying Documents in the Reuters-21578 R8 Dataset](https://rstudio-pubs-static.s3.amazonaws.com/202711_8f3ddd24fc9a4a6594d31f5da6344dcc.html). August 2016.
-- [Tidy Text Mining Beer Reviews](http://kaylinwalker.com/tidy-text-beer/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_167) Jan 2018.
+- [Naive Bayes and Text Classification](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html), 2014. An in-depth overview of both the Naive Bayes algorithm and how it can be used in the document classification process.
+- [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759), 2016. A paper from Facebook researchers that introduces fastText, a fast and effective document classification algorithm.
+- [Text Classifier Algorithms in Machine Learning](https://blog.statsbot.co/text-classifier-algorithms-in-machine-learning-acc115293278), 2017. A blog article that shows how to apply several deep learning algorithms to document classification problems.
+- [Classifying Documents in the Reuters-21578 R8 Dataset](https://rstudio-pubs-static.s3.amazonaws.com/202711_8f3ddd24fc9a4a6594d31f5da6344dcc.html), 2016. A nice tutorial in R that shows how to classify news articles using three different ML algorithms.
+- [Tidy Text Mining Beer Reviews](http://kaylinwalker.com/tidy-text-beer), 2018. Uses the KNN algorithm to classify reviews of craft beer products into styles of beer (e.g., "pilsner", "IPA", or "Belgian").
 - [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
-- [Multi-Class Text Classification with Scikit-Learn](https://www.kdnuggets.com/2018/08/multi-class-text-classification-scikit-learn.html)
-- [Machine Learning with Text in scikit-learn (PyCon 2016)](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10)
-- [Ultimate guide to deal with Text Data (using Python) – for Data Scientists & Engineers](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python)
-- [Text Classification in Python with scikit-learn and nltk](https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a)
-- [Introducing state of the art text classification with universal language models](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html) May 2018. Introduces a groundbreaking transfer learning method for document classification!
+- [Multi-Class Text Classification with Scikit-Learn](https://www.kdnuggets.com/2018/08/multi-class-text-classification-scikit-learn.html), 2018. An article that shows how to deal with multi-class problems, such as classifying consumer complaints into one of 12 categories.
+- [Machine Learning with Text in scikit-learn (PyCon 2016)](https://www.youtube.com/watch?v=ZiKMIuYidY0&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=10), 2016. A nice video tutorial that discusses how to use scikit-learn in the document classification process.
+- [Ultimate guide to deal with Text Data (using Python) – for Data Scientists & Engineers](https://www.analyticsvidhya.com/blog/2018/02/the-different-methods-deal-text-data-predictive-python), 2018. The title says it all.
+- [Text Classification in Python with scikit-learn and nltk](https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a), 2017. Another tutorial showing how to perform text classification using scikit-learn.
+- [Introducing state of the art text classification with universal language models](http://nlp.fast.ai/classification/2019/09/10/multifit.html), 2019. Introduces a groundbreaking transfer learning method for document classification.
 - [Learning Document Embeddings by Predicting N-grams for Sentiment Classification of Long Movie Reviews](https://github.com/libofang/DV-ngram) - paper with code on Github
-- [Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/pdf/1811.00196.pdf)
+- [Towards Explainable NLP: A Generative Explanation Framework for Text Classification](https://arxiv.org/pdf/1811.00196.pdf), 2019. A paper that describes a new approach for explaining the inner workings of text classification models.
 
 ### Entity and Information Extraction
 - [Entity Extraction and Network Analysis](http://brandonrose.org/ner2sna). Python, `StanfordCoreNLP`
