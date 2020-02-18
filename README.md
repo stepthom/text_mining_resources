@@ -648,6 +648,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Santa Barbara Corpus of Spoken American English](http://www.linguistics.ucsb.edu/research/santa-barbara-corpus)
 - [Leipzig Corpora Collection: Corpora in English, Arabic, French, Russian, German](http://wortschatz.uni-leipzig.de/en/download/)
 - [Awesome Twitter](https://github.com/hridaydutta123/awesome-twitter-tools/blob/master/README.md)
+- [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html)
 
 ### Lexicons for Sentiment Analysis
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
