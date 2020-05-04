@@ -514,7 +514,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - [Glove-Python](https://github.com/maciejkula/glove-python): A “toy” implementation of GloVe in Python. Includes a paragraph embedder. 
   - [Bert As A Service](https://github.com/hanxiao/bert-as-service): Client/Server package for sentence encoding, i.e. mapping a variable-length sentence to a fixed-length vector.  Design intent to provide a scalable production ready service, also allowing researchers to apply BERT quickly. 
   - [Keras-BERT](https://github.com/Separius/BERT-keras): A Keras Implementation of BERT 
-  - [Paragraph embedding scripts and Pre-trained models](https://github.com/jhlau/doc2vec): Scripts for training and testing paragraph vectors, with links to some pre-trained Doc2Vec and Word2Vec models 
+  - [Paragraph embedding scripts and Pre-trained models](https://github.com/jhlau/doc2vec): Scripts for training and testing paragraph vectors, with links to some pre-trained Doc2Vec and Word2Vec models
+  - [Texthero](https://github.com/jbesomi/texthero) Text preprocessing, representation and visualization from zero to hero.
 - [Apache Tika](http://tika.apache.org/): a content analysis tookilt.
 - [Apache Spark](https://spark.apache.org/docs/latest/): is a fast and general-purpose cluster computing system. It provides high-level APIs in Java, Scala, Python and R, and an optimized engine that supports general execution graphs.
   - [MLlib](https://spark.apache.org/docs/latest/ml-guide.html): MLlib is Spark’s machine learning (ML) library. Its goal is to make practical machine learning scalable and easy. Related to NLP there are methods available for LDA, Word2Vec, and TFIDF.
@@ -700,5 +701,3 @@ Contributions are more than welcome! Please read the [contribution guidelines](C
 
 To the extent possible under law, @stepthom has waived all copyright and
 related or neighboring rights to this work.
-
-
