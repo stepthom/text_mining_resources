@@ -226,7 +226,7 @@ A curated list of resources for learning about natural language processing, text
 - [COTA, Uber’s topic modelling approach to improving customer support](https://eng.uber.com/cota/)
 - [Using LDA Topic Models as a Classification Model Input](https://towardsdatascience.com/unsupervised-nlp-topic-models-as-a-supervised-learning-input-cf8ee9e5cf28)
 - [NLP: Extracting the main topics from your dataset using LDA in minutes](https://towardsdatascience.com/nlp-extracting-the-main-topics-from-your-dataset-using-lda-in-minutes-21486f5aa925)
-- [READING THE HIGH COURT AT A DISTANCE: TOPIC MODELLING THE LEGAL SUBJECT MATTER AND JUDICIAL ACTIVITY OF THE HIGH COURT OF AUSTRALIA, 1903–2015](https://osf.io/qhezc/download/?format=pdf)
+- [Topic Modelling The Legal Subject Matter And Judicial Activity Of The High Court Of Australia, 1903–2015](https://osf.io/qhezc/download/?format=pdf)
 
 ### Sentiment Analysis
 
@@ -398,6 +398,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 ### Knowledge Graphs
 - [Using fastText and Comet.ml to classify relationships in Knowledge Graphs](https://medium.com/comet-ml/using-fasttext-and-comet-ml-to-classify-relationships-in-knowledge-graphs-e73d27b40d67)
 - [WTF is a knowledge graph?](https://hackernoon.com/wtf-is-a-knowledge-graph-a16603a1a25f)
+- [A survey of graphs in natural language processing](https://web.eecs.umich.edu/~mihalcea/papers/nastase.jnle15.pdf). Nastase et al, 2015. 
 
 ## NLP Conferences
 
@@ -485,7 +486,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - [textstem](https://cran.r-project.org/web/packages/textstem/): Tools that stem and lemmatize text.
   - [NLPutils](https://CRAN.R-project.org/package=NLPutils) Utilities for Natural Language Processing.
   - [Udpipe](https://cran.r-project.org/web/packages/udpipe/readme/README.html) Tokenization, Parts of Speech Tagging, Lemmatization and Dependency Parsing using UDPipe.
-- Python modules
+- [Python modules](https://pypi.org/)
   - [NLTK](http://www.nltk.org): Natural Language Toolkit.
     - [Video: NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
   - [scikit-learn](http://scikit-learn.org/): Machine Learning in Python
@@ -540,6 +541,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [TextRazor API](https://www.textrazor.com/): Extract Meaning from your Text.
 - [fastText](https://github.com/facebookresearch/fastText). Library for fast text representation and classification. Facebook.
 - [Comparison of Top 6 Python NLP Libraries](https://www.kdnuggets.com/2018/07/comparison-top-6-python-nlp-libraries.html).
+- [pyCaret's NLP Module](https://pycaret.org/nlp/). PyCaret is an open source, low-code machine learning library in Python that aims to reduce the cycle time from hypothesis to insights; also, PyCaret's Founder Moez Ali is a Smith Alumni - MMA 2020.
+
 
 ## Products
 - [Systran - Enterprise Translation Products](http://www.systransoft.com/translation-products/)
@@ -568,6 +571,9 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Google's Colab](http://colab.research.google.com): Ready-to-go Notebook environment that makes it easy to get up and running.
 - [Lyrebird.ai](https://lyrebird.ai/): “Ultra-Realistic Voice Cloning and Text-to-Speech” recognition platform. This Canadian start-up has created a product/platform that syncs both voice cloning with text-to-speech. Lyrebird recognizes the intonations and voice patterns from audio recordings, and overlays text data input to recreate a text-to-speech audio file output from the selected voice pattern audio recording.
 - [Ask Data by Tableau Software Inc.](https://www.tableau.com/products/new-features/ask-data#hero-reveal): In February 2019, Tableau released a new NLP feature service add-on to help assist existing Tableau platform users with retrieving quick and easy data visualizations to drive business intelligence insights. Similar to a search engine user interface, Tableau’s Ask Data feature interface applies NLP from user text input to extract key words to find data analytics and business insights quickly on the Tableau Platform.
+- [Dialogflow](https://dialogflow.com/) Google's Natural Language Platform used to integrate conversational user interfaces into mobile apps, web applications, bots, VRUs, etc.
+- [Weka](https://www.cs.waikato.ac.nz/ml/weka/) Easy-to-use, graphical Machine Learning Workbench including NLP capabilities.
+
 
 #### Cloud 
 - [Microsoft Azure Text Analytics](https://docs.microsoft.com/en-ca/azure/cognitive-services/text-analytics/overview)
@@ -676,7 +682,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 ## Meta
 - [Deep Learning for NLP, advancements and trends in 2017](https://tryolabs.com/blog/2017/12/12/deep-learning-for-nlp-advancements-and-trends-in-2017/?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_162)
 - [10 Exciting Ideas of 2018 in NLP](http://ruder.io/10-exciting-ideas-of-2018-in-nlp/)
-
+- [Semantics and Ontologies - Object Management Group](https://www.omg.org/hot-topics/semantics-ontologies.htm).
 
 ## Other Curated Lists
 - [awesome-nlp](https://github.com/keonkim/awesome-nlp): A curated list of resources dedicated to Natural Language Processing (NLP)
