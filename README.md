@@ -1,4 +1,4 @@
-# Text Mining and Natural Language Processing Resources
+# Uncle Steve's Big List of Text Analytics and NLP Resources
 
 ```
  ____ ____ ____ ____ _________ ____ ____ ____ ____ ____ ____ 
@@ -7,7 +7,7 @@
 |/__\|/__\|/__\|/__\|/_______\|/__\|/__\|/__\|/__\|/__\|/__\|
 ```
 
-A curated list of resources for learning about natural language processing, text mining, text analytics, and unstructured data. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A curated list of resources for learning about natural language processing, text analytics, and unstructured data. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Table of Contents
 - [Books](#books)
