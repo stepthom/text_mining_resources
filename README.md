@@ -54,6 +54,7 @@ A curated list of resources for learning about natural language processing, text
 - [Text Mining in Practice with R](https://www.wiley.com/en-us/Text+Mining+in+Practice+with+R-p-9781119282013)
 
 #### Python
+- [Practical Natural Language Processing](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/)
 - [Natural Language Processing with Python](http://www.nltk.org/book/)
 - [Natural Language Processing with PyTorch](http://shop.oreilly.com/product/0636920063445.do)
 - [Python Natural Language Processing](http://shop.oreilly.com/product/9781787121423.do)
