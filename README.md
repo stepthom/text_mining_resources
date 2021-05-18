@@ -659,6 +659,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Awesome Twitter](https://github.com/hridaydutta123/awesome-twitter-tools/blob/master/README.md)
 - [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html)
 - [CBC News Coronavirus articles](https://www.kaggle.com/ryanxjhan/cbc-news-coronavirus-articles-march-26)
+- [Huggingface](https://huggingface.co/datasets/viewer/?dataset=financial_phrasebank)
 
 ### Lexicons for Sentiment Analysis
 - [MPQA Lexicon](http://mpqa.cs.pitt.edu/lexicons/)
