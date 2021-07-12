@@ -568,6 +568,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Alchemy API](https://www.ibm.com/watson/alchemy-api.html)
 - [Monkey Learn](http://monkeylearn.com/)
 - [LightTag Annotation Tool](https://lighttag.io). Hosted annotation tool for teams. 
+- [UBIAI](https://ubiai.tools). Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling
 - [Anafora](https://github.com/weitechen/anafora): Free and open source web-based raw text annotation tool
 - [brat](http://brat.nlplab.org/): Rapid annotation tool.
 - [Google's Colab](http://colab.research.google.com): Ready-to-go Notebook environment that makes it easy to get up and running.
