@@ -407,6 +407,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [InterSpeech](https://www.isca-speech.org/iscaweb/index.php/conferences/interspeech)
 - [Association for Computational Linguistics (ACL)](http://www.acl2019.org/EN/index.xhtml)
 
+
 ## Benchmarks
 
 - [SQuAD leaderboard](https://rajpurkar.github.io/SQuAD-explorer/). A list of the strongest-performing NLP models on the Stanford Question Answering Dataset (SQuAD).
@@ -493,6 +494,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
     - [Video: NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
   - [scikit-learn](http://scikit-learn.org/): Machine Learning in Python
      - [Tutorial](http://nbviewer.jupyter.org/gist/rjweiss/7158866)
+  - [Spark NLP](https://nlp.johnsnowlabs.com/): Open source text processing library for Python, Java, and Scala. It provides production-grade, scalable, and trainable versions of the latest research in natural language processing.
   - [spaCy](https://spacy.io/): Industrial-Strength Natural Language Processing in Python.
   - [textblob](https://textblob.readthedocs.io/en/dev/): Simplified Text processing.
     - [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
@@ -576,7 +578,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Ask Data by Tableau Software Inc.](https://www.tableau.com/products/new-features/ask-data#hero-reveal): In February 2019, Tableau released a new NLP feature service add-on to help assist existing Tableau platform users with retrieving quick and easy data visualizations to drive business intelligence insights. Similar to a search engine user interface, Tableau’s Ask Data feature interface applies NLP from user text input to extract key words to find data analytics and business insights quickly on the Tableau Platform.
 - [Dialogflow](https://dialogflow.com/) Google's Natural Language Platform used to integrate conversational user interfaces into mobile apps, web applications, bots, VRUs, etc.
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka/) Easy-to-use, graphical Machine Learning Workbench including NLP capabilities.
-
+- [Annotation Lab](https://www.johnsnowlabs.com/annotation-lab/) - Free End-to-End No-Code platform for text annotation and DL model training/tuning. Out-of-the-box support for Named Entity Recognition, Classification, Relation extraction and Assertion Status Spark NLP models. Unlimited support for users, teams, projects, documents.  
 
 #### Cloud 
 - [Microsoft Azure Text Analytics](https://docs.microsoft.com/en-ca/azure/cognitive-services/text-analytics/overview)
