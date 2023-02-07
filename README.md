@@ -57,6 +57,7 @@ A curated list of resources for learning about natural language processing, text
 #### Python
 - [Natural Language Processing with Transformers, Revised Edition](https://transformersbook.com/)
 - [Getting Started with Natural Language Processing](https://www.manning.com/books/getting-started-with-natural-language-processing)
+- [Blueprints for Text Analytics Using Python: Machine Learning-Based Solutions for Common Real World (NLP) Applications](https://www.oreilly.com/library/view/blueprints-for-text/9781492074076/)
 - [Practical Natural Language Processing](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/)
 - [Natural Language Processing with Python](http://www.nltk.org/book/)
 - [Natural Language Processing with PyTorch](http://shop.oreilly.com/product/0636920063445.do)
@@ -378,6 +379,8 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Machines Beat Humans on a Reading Test. But Do They Understand?](https://www.quantamagazine.org/machines-beat-humans-on-a-reading-test-but-do-they-understand-20191017)
 - [WHAT EVERY NLP ENGINEER NEEDS TO KNOW ABOUT PRE-TRAINED LANGUAGE MODELS](https://www.topbots.com/ai-nlp-research-pretrained-language-models). 2019.
 - [the transformer … “explained”?](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [Hugging Face's course on Transformer Models](https://huggingface.co/course/chapter1/1)
 - [OpenAI: Better Language Models and Their Implications](https://blog.openai.com/better-language-models/): Pre-trained Transformer-based unsupervised language model that achieves state-of-the-art on many language benchmarks with focus on text generation. Controversial limited release. February 14, 2019.
 
 #### ChatGPT
