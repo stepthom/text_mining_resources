@@ -17,7 +17,6 @@ A curated list of resources for learning about natural language processing, text
 - [Blogs](#blogs)
 - [Blog articles, Papers, Case Studies](#blog-articles-papers-case-studies)
   - [General](#general-articles)
-  - [ChatGPT](#chatgpt)
   - [Biases in NLP](#biases-in-nlp)
   - [Scraping](#scraping)
   - [Cleaning](#cleaning)
@@ -34,6 +33,7 @@ A curated list of resources for learning about natural language processing, text
   - [Q&A Systems, Chatbots](#qa-systems)
   - [Fuzzy Matching, Probabilistic Matching, Record Linkage, Etc.](#fuzzy-matching)
   - [Word and Document Embeddings](#word-and-document-embeddings)
+  - [Transformers and Language Models](#transformers-and-language-models)
   - [Deep Learning](#deep-learning)
   - [Knowledge Graphs](#knowledge-graphs)
 - [Major NLP Conferences](#major-nlp-conferences)
@@ -148,21 +148,6 @@ A curated list of resources for learning about natural language processing, text
 - [Extracting Features of Entertainment Products: A Guided Latent Dirichlet Allocation Approach Informed by the Psychology of Media Consumption](https://doi.org/10.1177/0022243718820559): (O. Toubia, G. Iyengar, R. Bunnell, & A. Lemaire, February 2019). “We rely on the NLP literature to develop a method for tagging entertainment products in an automated and scalable manner. In the context of movies, we first show that the proposed features improve our ability to predict consumption at the individual level… We also show that guided LDA features have the potential to improve the performance of models that predict aggregate performance outcomes rather than individual-level consumption.” This academic article provides both a framework and managerial implications that suggest the application of LDA and NLP for feature extraction in entertainment products that can aid in traditional content-based consumer behavior models, and relevant marketing models applied to the media and entertainment industry.
 - [Lessons learned building natural language processing systems in health care](https://www.oreilly.com/ideas/lessons-learned-building-natural-language-processing-systems-in-health-care)
 - [How Algorithms Know What You’ll Type Next](https://pudding.cool/2019/04/text-prediction)
-
-### ChatGPT
-
-- [ChatGPT launch blog](https://openai.com/blog/chatgpt/)
-- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
-
-#### ...in Education
-- [ChatGPT User Experience: Implications for Education](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4312418). Xiaoming Zhai (Unviversity of Georgia). December 2022.
-- [New Modes of Learning Enabled by AI Chatbots: Three Methods and Assignments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300783) Mollick and Mollick (University of Pennsylvania). December 2022.
-- [Educators Battle Plagiarism As 89% Of Students Admit To Using OpenAI’s ChatGPT For Homework](https://www.forbes.com/sites/chriswestfall/2023/01/28/educators-battle-plagiarism-as-89-of-students-admit-to-using-open-ais-chatgpt-for-homework/?sh=1924574750de). Forbes, January 2023
-- [ChatGPT: Educational friend or foe?](https://www.brookings.edu/blog/education-plus-development/2023/01/09/chatgpt-educational-friend-or-foe/). Hirsh-Pasek and Blinkoff (Temple University). January 2023. 
-- [Don’t Ban ChatGPT in Schools. Teach With It.](https://www.nytimes.com/2023/01/12/technology/chatgpt-schools-teachers.html). New York Times (January 2023). 
-- [ChatGPT and the Future of Business Education](https://knowledge.insead.edu/leadership-organisations/chatgpt-and-future-business-education). Feb 2023.
-- [Udemy course (January 2023). ChatGPT for Teachers in Education.](https://www.udemy.com/course/chatgpt-in-education/)
-
 
 
 ### Biases in NLP 
@@ -366,7 +351,6 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [Word Vectors in Natural Language Processing: Global Vectors (GloVe)](https://www.kdnuggets.com/2018/08/word-vectors-nlp-glove.html). Aug 2018.
 - [Doc2Vec Tutorial on the Lee Dataset](https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb)
 - [Word Embeddings in Python with SpaCy and Gensim](https://www.shanelynn.ie/word-embeddings-in-python-with-spaCy-and-gensim/)
-- [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/). Dec 2018.
 - [Deep Contextualized Word Represenations](https://arxiv.org/abs/1802.05365). ElMo. [PyTorch implementation](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md). [TF Implementation](https://github.com/allenai/bilm-tf)
 - [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146). [Implementation code](http://nlp.fast.ai/category/classification.html). 
 - [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364).
@@ -381,12 +365,34 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [ELMo Word embeddings](allennlp.org/elmo)
 - [An Idiot’s Guide to Word2vec Natural Language Processing](https://medium.com/@ODSC/an-idiots-guide-to-word2vec-natural-language-processing-5c3767cf8295)
 - [Get Busy with Word Embeddings- An Introduction (February 2018)](https://www.shanelynn.ie/get-busy-with-word-embeddings-introduction/)
-- [BERT Explained - State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270). A great explaination of the fundamentals of how BERT works.
 - [NLP's ImageNet moment has arrived](http://ruder.io/nlp-imagenet/). July 2018. Overview of pre-trained NLP language models, drawing parallels to ImageNet's contributions to computer vision. 
 - [Word2vec: fish + music = bass](https://graceavery.com/word2vec-fish-music-bass)
-- [A review of BERT based models](https://towardsdatascience.com/a-review-of-bert-based-models-4ffdc0f15d58). July 2019.
-- [Machines Beat Humans on a Reading Test. But Do They Understand?](https://www.quantamagazine.org/machines-beat-humans-on-a-reading-test-but-do-they-understand-20191017)
 - [Universal Sentence Encoder Visually Explained](https://amitness.com/2020/06/universal-sentence-encoder/). June 2020.
+
+### Transformers and Language Models
+
+- [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/pdf/2002.12327.pdf). Nov 2020.
+- [A review of BERT based models](https://towardsdatascience.com/a-review-of-bert-based-models-4ffdc0f15d58). July 2019.
+- [BERT Explained - State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270). A great explaination of the fundamentals of how BERT works.
+- [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/). Dec 2018.
+- [Machines Beat Humans on a Reading Test. But Do They Understand?](https://www.quantamagazine.org/machines-beat-humans-on-a-reading-test-but-do-they-understand-20191017)
+- [WHAT EVERY NLP ENGINEER NEEDS TO KNOW ABOUT PRE-TRAINED LANGUAGE MODELS](https://www.topbots.com/ai-nlp-research-pretrained-language-models). 2019.
+- [the transformer … “explained”?](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained)
+- [OpenAI: Better Language Models and Their Implications](https://blog.openai.com/better-language-models/): Pre-trained Transformer-based unsupervised language model that achieves state-of-the-art on many language benchmarks with focus on text generation. Controversial limited release. February 14, 2019.
+
+#### ChatGPT
+
+- [ChatGPT launch blog](https://openai.com/blog/chatgpt/)
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+
+##### ...in Education
+- [ChatGPT User Experience: Implications for Education](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4312418). Xiaoming Zhai (Unviversity of Georgia). December 2022.
+- [New Modes of Learning Enabled by AI Chatbots: Three Methods and Assignments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300783) Mollick and Mollick (University of Pennsylvania). December 2022.
+- [Educators Battle Plagiarism As 89% Of Students Admit To Using OpenAI’s ChatGPT For Homework](https://www.forbes.com/sites/chriswestfall/2023/01/28/educators-battle-plagiarism-as-89-of-students-admit-to-using-open-ais-chatgpt-for-homework/?sh=1924574750de). Forbes, January 2023
+- [ChatGPT: Educational friend or foe?](https://www.brookings.edu/blog/education-plus-development/2023/01/09/chatgpt-educational-friend-or-foe/). Hirsh-Pasek and Blinkoff (Temple University). January 2023. 
+- [Don’t Ban ChatGPT in Schools. Teach With It.](https://www.nytimes.com/2023/01/12/technology/chatgpt-schools-teachers.html). New York Times (January 2023). 
+- [ChatGPT and the Future of Business Education](https://knowledge.insead.edu/leadership-organisations/chatgpt-and-future-business-education). Feb 2023.
+- [Udemy course (January 2023). ChatGPT for Teachers in Education.](https://www.udemy.com/course/chatgpt-in-education/)
 
 ### Deep Learning
 - [Keras LSTM tutorial – How to easily build a powerful deep learning language model](http://adventuresinmachinelearning.com/keras-lstm-tutorial/). 
@@ -397,16 +403,13 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
   - A 35-page academic literature review of DL in NLP (University of Colorado, July 2018). Detailed description of neural network architectures followed by a comprehensive set of applications.
 - [Sequence Classification with Human Attention](http://aclweb.org/anthology/K18-1030): Using human attention derived from eye-tracking corpora to regularize attention in recurrent neural networks (RNN). [Implementation code](https://github.com/coastalcph/Sequence_classification_with_human_attention).
 - [Tutorial on Text Classification (NLP) using ULMFiT and fastai Library in Python](https://www.analyticsvidhya.com/blog/2018/11/tutorial-text-classification-ulmfit-fastai-library/)
-- [WHAT EVERY NLP ENGINEER NEEDS TO KNOW ABOUT PRE-TRAINED LANGUAGE MODELS](https://arxiv.org/abs/1901.11504). 2019.
 - [Multi-Task Deep Neural Networks for Natural Language Understanding](https://www.topbots.com/ai-nlp-research-pretrained-language-models). Academic article detailing Microsoft's MTDNN algorithm which has outperformed BERT, ELMo & BiLSTM as of February 2019 in the GLUE Benchmark.
 - [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial): A 2019 NLP tutorial repository using TensorFlow and Pytorch.
-- [WHAT EVERY NLP ENGINEER NEEDS TO KNOW ABOUT PRE-TRAINED LANGUAGE MODELS](https://www.topbots.com/ai-nlp-research-pretrained-language-models). 2019.
 - [Deep Learning for Sentiment Analysis : A Survey](https://arxiv.org/abs/1801.07883)
 - [NEURAL READING COMPREHENSION AND BEYOND](https://cs.stanford.edu/~danqi/papers/thesis.pdf) December 2018 Stanford - Reading comprehension models built on top of deep neural networks.
-- [Microsoft: Multi-Task Deep Neural Network (MT-DNN)](https://arxiv.org/pdf/1901.11504): Microsoft's improvement on Google's BERT with focus on natural language understanding. Code to be released. January 31, 2019.
-- [OpenAI: Better Language Models and Their Implications](https://blog.openai.com/better-language-models/): Pre-trained Transformer-based unsupervised language model that achieves state-of-the-art on many language benchmarks with focus on text generation. Controversial limited release. February 14, 2019. 
+- [Microsoft: Multi-Task Deep Neural Network (MT-DNN)](https://arxiv.org/pdf/1901.11504): Microsoft's improvement on Google's BERT with focus on natural language understanding. Code to be released. January 31, 2019. 
 - [A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING](https://arxiv.org/pdf/1703.03130.pdf)
-- [the transformer … “explained”?](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained)
+
 
 ##### Capsule Networks
 - [Investigating Capsule Networks with Dynamic Routing for Text Classification](https://arxiv.org/pdf/1804.00538.pdf). 2018.
