@@ -17,6 +17,7 @@ A curated list of resources for learning about natural language processing, text
 - [Blogs](#blogs)
 - [Blog articles, Papers, Case Studies](#blog-articles-papers-case-studies)
   - [General](#general-articles)
+  - [ChatGPT](#chatgpt)
   - [Biases in NLP](#biases-in-nlp)
   - [Scraping](#scraping)
   - [Cleaning](#cleaning)
@@ -145,6 +146,22 @@ A curated list of resources for learning about natural language processing, text
 - [Extracting Features of Entertainment Products: A Guided Latent Dirichlet Allocation Approach Informed by the Psychology of Media Consumption](https://doi.org/10.1177/0022243718820559): (O. Toubia, G. Iyengar, R. Bunnell, & A. Lemaire, February 2019). “We rely on the NLP literature to develop a method for tagging entertainment products in an automated and scalable manner. In the context of movies, we first show that the proposed features improve our ability to predict consumption at the individual level… We also show that guided LDA features have the potential to improve the performance of models that predict aggregate performance outcomes rather than individual-level consumption.” This academic article provides both a framework and managerial implications that suggest the application of LDA and NLP for feature extraction in entertainment products that can aid in traditional content-based consumer behavior models, and relevant marketing models applied to the media and entertainment industry.
 - [Lessons learned building natural language processing systems in health care](https://www.oreilly.com/ideas/lessons-learned-building-natural-language-processing-systems-in-health-care)
 - [How Algorithms Know What You’ll Type Next](https://pudding.cool/2019/04/text-prediction)
+
+### ChatGPT
+
+- [ChatGPT launch blog](https://openai.com/blog/chatgpt/)
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+
+#### ...in Education
+- [ChatGPT User Experience: Implications for Education](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4312418). Xiaoming Zhai (Unviversity of Georgia). December 2022.
+- [New Modes of Learning Enabled by AI Chatbots: Three Methods and Assignments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4300783) Mollick and Mollick (University of Pennsylvania). December 2022.
+- [Educators Battle Plagiarism As 89% Of Students Admit To Using OpenAI’s ChatGPT For Homework](https://www.forbes.com/sites/chriswestfall/2023/01/28/educators-battle-plagiarism-as-89-of-students-admit-to-using-open-ais-chatgpt-for-homework/?sh=1924574750de). Forbes, January 2023
+- [ChatGPT: Educational friend or foe?](https://www.brookings.edu/blog/education-plus-development/2023/01/09/chatgpt-educational-friend-or-foe/). Hirsh-Pasek and Blinkoff (Temple University). January 2023. 
+- [Don’t Ban ChatGPT in Schools. Teach With It.](https://www.nytimes.com/2023/01/12/technology/chatgpt-schools-teachers.html). New York Times (January 2023). 
+- [ChatGPT and the Future of Business Education](https://knowledge.insead.edu/leadership-organisations/chatgpt-and-future-business-education). Feb 2023.
+- [Udemy course (January 2023). ChatGPT for Teachers in Education.](https://www.udemy.com/course/chatgpt-in-education/)
+
+
 
 ### Biases in NLP 
 - [AI bias: It is the responsibility of humans to ensure fairness](https://www.information-age.com/ai-bias-123479217/)
