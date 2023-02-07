@@ -165,7 +165,7 @@ A curated list of resources for learning about natural language processing, text
 
 ### Biases in NLP 
 - [AI bias: It is the responsibility of humans to ensure fairness](https://www.information-age.com/ai-bias-123479217/)
-- [Venturebeat Blogpost - Gender biases in datasets](https://venturebeat.com/2018/09/07/researchers-develop-a-method-that-reduces-gender-bias-in-ai-datasets/) - Based on UCLA research paper "Learning Gender Neutral Word Embeddings" Aug 2018 .
+- [Venturebeat Blogpost - Gender biases in datasets](https://venturebeat.com/2018/09/07/researchers-develop-a-method-that-reduces-gender-bias-in-ai-datasets/) - Based on UCLA research paper "Learning Gender Neutral Word Embeddings" Aug 2018.
 - [Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems](http://aclweb.org/anthology/S18-2005). 2018
 - [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520).
 
@@ -419,10 +419,14 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 - [WTF is a knowledge graph?](https://hackernoon.com/wtf-is-a-knowledge-graph-a16603a1a25f)
 - [A survey of graphs in natural language processing](https://web.eecs.umich.edu/~mihalcea/papers/nastase.jnle15.pdf). Nastase et al, 2015. 
 
-## NLP Conferences
+## Major NLP Conferences
 
-- [InterSpeech](https://www.isca-speech.org/iscaweb/index.php/conferences/interspeech)
-- [Association for Computational Linguistics (ACL)](http://www.acl2019.org/EN/index.xhtml)
+- [NeurIPS](https://nips.cc/)
+- [Association for Computational Linguistics (ACL)](https://www.aclweb.org/portal/)
+- [Empirical Methods in Natural Language Processing (EMNLP)](https://2022.emnlp.org/)
+- [North American Chapter of the Association for Computational Linguistics (NAACL)](https://2022.naacl.org/)
+- [European Chapter of the Association for Computational Linguistics (EACL)](https://2023.eacl.org/)
+- [International Conference on Computational Linguistics(COLING)](https://coling2022.org/)
 
 
 ## Benchmarks
