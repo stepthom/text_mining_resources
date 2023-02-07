@@ -36,7 +36,7 @@ A curated list of resources for learning about natural language processing, text
   - [Word and Document Embeddings](#word-and-document-embeddings)
   - [Deep Learning](#deep-learning)
   - [Knowledge Graphs](#knowledge-graphs)
-- [NLP Conferences](#nlp-conferences)
+- [Major NLP Conferences](#major-nlp-conferences)
 - [Benchmarks](#benchmarks)
 - [Online Courses](#online-courses)
 - [APIs and Libraries](#apis-and-libraries)
