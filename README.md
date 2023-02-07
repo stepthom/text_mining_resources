@@ -372,6 +372,7 @@ Errors in Data](https://journal.r-project.org/archive/2010-2/RJournal_2010-2_Sar
 
 ### Transformers and Language Models
 
+- [Understanding Large Language Models](https://sebastianraschka.com/blog/2023/llm-reading-list.html). Sebastian Raschka. Feb 2023.
 - [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/pdf/2002.12327.pdf). Nov 2020.
 - [A review of BERT based models](https://towardsdatascience.com/a-review-of-bert-based-models-4ffdc0f15d58). July 2019.
 - [BERT Explained - State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270). A great explaination of the fundamentals of how BERT works.
