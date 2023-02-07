@@ -56,7 +56,7 @@ A curated list of resources for learning about natural language processing, text
 
 #### Python
 - [Natural Language Processing with Transformers, Revised Edition](https://transformersbook.com/)
-- [Getting Started with Natural Language Processing]([https://www.oreilly.com/library/view/getting-started-with/9781617296765/?_gl=1*188n0wx*_ga*MTEzODYyNTU1Ni4xNjc1Nzc1ODA2*_ga_092EL089CH*MTY3NTc3NTgwNS4xLjEuMTY3NTc3NjAwOS40My4wLjA](https://www.manning.com/books/getting-started-with-natural-language-processing))
+- [Getting Started with Natural Language Processing](https://www.manning.com/books/getting-started-with-natural-language-processing)
 - [Practical Natural Language Processing](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/)
 - [Natural Language Processing with Python](http://www.nltk.org/book/)
 - [Natural Language Processing with PyTorch](http://shop.oreilly.com/product/0636920063445.do)
