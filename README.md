@@ -94,11 +94,7 @@ A curated list of resources for learning about natural language processing, text
 - [Sebastian Ruder](http://ruder.io/)
 - [NLP-progress](https://nlpprogress.com/)
 - [Natural Language Processing Blog](https://nlpers.blogspot.com/)
-- [Text Mining, Analytics & More](http://text-analytics101.rxnlp.com/)
-- [FriendlyData blog](https://friendlydata.io/blog)
-- [Salmon Run](http://sujitpal.blogspot.com/)
-- [Lekta Blog](https://lekta.ai/blog/)
-- [NLP News](http://newsletter.ruder.io/)
+
 
 ## Blog Articles, Papers, Case Studies
 
